@@ -400,8 +400,9 @@ trends_focus <- trends[tax_group %in% c("plant", "insect", "bird"),]
 trends_focus$pheno_group <- factor(trends_focus$pheno_group, levels = c("leaf", "flower", "insect", "bird"))
 write.csv(trends_focus, "clean_data/trends_focus_quantreg.csv", row.names = FALSE)
 
+# trends_focus <- fread("clean_data/trends_focus_quantreg.csv") # load this to just to do second-level analysis
 
-### overall distribution statistics
+### overall distribution statistics - data not scaled, so effect sizes are in original units
 mean_shift_model <- lm(mean_slope ~ 1 ,data = trends_focus)
 summary(mean_shift_model)
 mean_sens_model <- lm(mean_slope_temp ~ 1 ,data = trends_focus)
@@ -424,6 +425,7 @@ trends_summary <- trends_focus[, .(mean_min = mean(min_year),
                                    mean_lat = mean(lat),
                                    n_species = length(unique(species))),
                                by=pheno_group]
+pheno_group_pallete <- brewer.pal(length(levels(as.factor(trends_focus$pheno_group))), "Dark2")
 trends_summary[, col := pheno_group_pallete[c(3,4,2,1)]]
 trends_summary[, group_name := c("Insects", "Flowers", "Leaves", "Birds")]
 
@@ -453,6 +455,32 @@ paste0(round(nrow(trends_focus[pheno_group == "leaf" & mean_slope_temp < 0,])/ n
       round(nrow(trends_focus[pheno_group == "insect" & mean_slope_temp < 0,])/ nrow(trends_focus[pheno_group == "insect",]),4), "% insects with negative mean sensitivity")
 
 paste(round(nrow(trends_focus[sigma_slope < 0,])/ nrow(trends_focus),4), " overall with negative sigma slope")
+
+
+### example species
+
+# variance sensitivity
+clear_trends_variance_temp <- trends_focus[, .(sigma_slope = median(sigma_slope_temp), N = .N, perc_negative = sum(sigma_slope_temp < 0)/.N), by = .(species, phenophase)]
+clear_trends_variance_temp[N > 10 & sigma_slope %between% c(-2,-0.5),][order(-N)]
+
+# hist(trends_focus[species == "Acer platanoides", sigma_slope_temp])
+# mapply(check.raw.data,
+#        trends_focus[species == "Acer platanoides",site],
+#        MoreArgs = list(species_raw = "Acer platanoides", phenophase_raw = "first_flower", plot=T, explan="temp"))
+# 
+# hist(trends_focus[species == "Hydrangea_macrophylla", sigma_slope_temp])
+# mapply(check.raw.data,
+#        trends_focus[species == "Hydrangea_macrophylla",site],
+#        MoreArgs = list(species_raw = "Hydrangea_macrophylla", phenophase_raw = "first_flower", plot=T, explan="temp"))
+
+# variance shift
+clear_trends_variance <- trends_focus[, .(sigma_slope = median(sigma_slope), N = .N, perc_negative = sum(sigma_slope < 0)/.N), by = .(species, phenophase)]
+clear_trends_variance[N > 10 & sigma_slope %between% c(-1,-0.1),][order(-N)]
+
+# hist(trends_focus[species == "Vaccinium myrtillus", sigma_slope], 10)
+# mapply(check.raw.data,
+#        trends_focus[species == "Vaccinium myrtillus",site],
+#        MoreArgs = list(species_raw = "Vaccinium myrtillus", phenophase_raw = "first_flower", plot=T, explan="year"))
 
 
 ### datasets summary table

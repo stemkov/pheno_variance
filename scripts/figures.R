@@ -171,7 +171,7 @@ sub_breaks2 <- 100
 sub_breaks3 <- 50
 
 par(fig = c(0,1,0,1), mar=c(4.1,3.9,2,1))
-hist(trends[pheno_group == "flower", eval(main_hist)], 100, col=pheno_group_pallete[2], border=pheno_group_pallete[2], xlim=c(-10,12), main="", xlab="Mean sensitivity (days/degree C)")
+hist(trends[pheno_group == "flower", eval(main_hist)], 100, col=pheno_group_pallete[2], border=pheno_group_pallete[2], xlim=c(-10,12), main="", xlab="Mean sensitivity (days/degree C)", ylab="Number of time-series")
 hist(trends[pheno_group == "flower" & eval(main_hist_p) > 0.05, eval(main_hist)], 100, border=F, add=T,
      density = shading_density, angle=45, col=adjustcolor("white",shading_opacity))
 hist(trends[pheno_group == "leaf", eval(main_hist)], 100, col=pheno_group_pallete[1], border=pheno_group_pallete[1], add=T, xlim=c(-10,5))
