@@ -1,0 +1,2088 @@
+"","species","tax_level","growth_form","height","seed_mass","leaf_area","leaf_area_per_mass"
+"1","Cosmos bipinnatus","species","herb",NA,"7.814",NA,NA
+"2","Pyrus communis","species","tree","6.67870909090909","32.1818618181818",NA,"7.007047938"
+"3","Rhododendron mucronulatum","species",NA,NA,NA,NA,NA
+"4","Robinia pseudoacacia","species","tree","16.0907499420488","19.5873364","4186.948","16.4904824366166"
+"5","Prunus serrulata","species","tree","3.95","55.72",NA,NA
+"6","Acer palmatum","species","tree",NA,"34.0039228235294",NA,"11.1111260925037"
+"7","Forsythia koreana","genus","shrub",NA,NA,NA,"18.254"
+"8","Prunus persica","species","tree","5.64506666666667","2817.94297711111",NA,NA
+"9","Prunus mume","species",NA,NA,"1042",NA,NA
+"10","Prunus mume 1","species",NA,NA,"1042",NA,NA
+"11","Camellia japonica","species","tree","11","1075",NA,"4.99318320380764"
+"12","Taraxacum sp ","genus","herb","0.141810344827586","0.5945226875","2336.43390466","40.5570518749744"
+"13","Prunus yedoensis","genus","tree","14.2513023955336","550.676476626667","2612.18926344479","15.0525259293345"
+"14","Rhododendron kaempferi","genus","shrub","3.29539130434783","0.160716965517241","2337.94285714286","7.12518730865375"
+"15","Wisteria floribunda","species","dependant",NA,"37.8",NA,NA
+"16","Lespedeza bicolor","species","shrub",NA,"5.81535782857143","171.41","17.7855958333333"
+"17","Hydrangea macrophylla","species","shrub",NA,NA,NA,NA
+"18","Lagerstroemia indica","species","shrub",NA,"2.065",NA,NA
+"19","Miscanthus sinensis","species","herb",NA,"0.95",NA,NA
+"20","Ginkgo biloba","species","tree","9.95248888888889","1310.09744",NA,NA
+"21","Prunus armeniaca","species","tree","3.56","1241.69605466667",NA,NA
+"22","Prunus lannesiana","genus","tree","14.2513023955336","550.676476626667","2612.18926344479","15.0525259293345"
+"23","Lilium lancifolium","species","herb",NA,NA,NA,NA
+"24","Diospyros kaki","species","tree",NA,"598.073333333333",NA,"18.7735421052632"
+"25","Larix leptolepis","genus","tree","17.9066072162842","18.0767567142857","20.24","14.5770957063121"
+"26","Platycodon grandiflorum","genus","herb",NA,NA,NA,NA
+"27","Nerium oleander","species","shrub","8.8392","2.34325301204819","2390.66666666667","13.0881718672727"
+"28","Gardenia jasminoides","species","shrub",NA,"3.4",NA,NA
+"29","Castanea crenata","species","tree",NA,"19938.248099875",NA,"3.0750307503075e-05"
+"30","Morus bombycis","genus","tree","11.3620644398204","887.3885971","10508.8888888889","28.36504104"
+"31","Alpinia zerumbet","species","herb",NA,NA,NA,NA
+"32","Astragalus sinicus","genus","herb","0.276076923076923","5.2889537037037","474.3339196944","28.1775260194242"
+"33","Cosmos bipinnatus 1","species","herb",NA,"7.814",NA,NA
+"34","Camellia sasanqua","species","shrub",NA,"507.61",NA,NA
+"35","Salix babylonica","species","shrub*","30.9372",NA,NA,NA
+"36","Zoysia japonica","species","herb",NA,"0.78","1342.53",NA
+"37","Paulownia tomentosa","species","tree","13.9488427616927","0.188813714285714",NA,NA
+"38","Heracleum dissectum","genus","herb","1.75454545454545","8.61475232142857","207100.196666667","21.8051054"
+"39","Fragaria viridis","species","herb","0.0664285714285714",NA,"947.1325","16.8140768145455"
+"40","Trollius asiaticus","genus","herb","0.296875","0.973333333333333","5348.33333333333","57.7145126123077"
+"41","Rubus idaeus","species","shrub","1.36363636363636","1.92276711111111","1250","21.2070937216572"
+"42","Corydalis bracteata","species","herb",NA,NA,NA,NA
+"43","Lonicera caerulea","species","shrub","1.17",NA,"410","8.99685559842555"
+"44","Ribes aciculare","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"45","Rosa majalis","species","shrub","1.362",NA,"350","12.9449909577587"
+"46","Pyrus communis 1","species","tree","6.67870909090909","32.1818618181818",NA,"7.007047938"
+"47","Tussilago farfara","species","herb","0.16375","0.346666666666667","48997.5","19.625"
+"48","Betula pendula","species","tree","13.5256842105263","0.421202181818182","1069.48","15.1445311045607"
+"49","Populus tremula","species","tree","2.73138593443038","0.11483625","337.459046513736","13.662270417109"
+"50","Taraxacum officinale","species","herb","0.2625","0.65024356","3924.07029","22.427206362375"
+"51","Caragana arborescens","species","shrub","3.5","26.4346438571429","1059.5","23.53"
+"52","Larix sibirica","species","tree",NA,"9.965842",NA,NA
+"53","Rhododendron ledebourii","genus","shrub","3.29539130434783","0.160716965517241","2337.94285714286","7.12518730865375"
+"54","Spiraea chamaedryfolia","species","shrub","2",NA,NA,NA
+"55","Ribes nigrum","species","shrub","1.35909090909091",NA,"3757.35","16.02877519496"
+"56","Sorbus aucuparia","species","tree","8.70430268589744","15.6541576","730.290028571429","10.7430853767383"
+"57","Alnus alnobetula","species","tree",NA,"1.723952","2140.344","23.33844"
+"58","Malus pumila","species","tree","12","26.9362613333333",NA,"17.068"
+"59","Prunus padus","species","tree","8.14285714285714","106.666274444444","2619.13286011667","20.8324271686957"
+"60","Primula veris","species","herb","0.155555555555556","0.8496","4080.66666666667","19.1466666666667"
+"61","Pulsatilla patens","species","herb","0.225",NA,NA,NA
+"62","Erythronium sibiricum","genus","herb","0.25","5.23324444444444","6800","16.2207163427778"
+"63","Bergenia crassifolia","species","herb",NA,NA,NA,NA
+"64","Fragaria vesca","species","herb","0.167083333333333","0.33511444","2169.728","22.4567913021053"
+"65","Pulmonaria mollis","species",NA,"0.25",NA,NA,NA
+"66","Vaccinium myrtillus","species","shrub","0.31765625","0.354285714285714","99.705625","20.1347252857516"
+"67","Salix caprea","species","tree","7.43835","0.144700875","2047.28333333333","12.5110544004675"
+"68","Anemone altaica","genus","herb","0.186612903225806","2.42363891304348","2259.00166666667","72.4898374733333"
+"69","Caltha palustris","species","herb","0.2625","1.1025","11383.0760675","40.0352288608696"
+"70","Ribes petraeum","species",NA,"1.5",NA,NA,NA
+"71","Paeonia anomala","species","herb",NA,NA,NA,NA
+"72","Pulsatilla turczaninovii","species","herb",NA,NA,"1289.6906861","8.8420731936"
+"73","Lilium pensylvanicum","genus","herb","0.791727272727273","4.22131668965517","1708.45010643333","22.2016964358333"
+"74","Iris setosa","species","herb",NA,NA,NA,NA
+"75","Betula fruticosa","species","shrub",NA,NA,NA,NA
+"76","Vaccinium vitis idaea","species","shrub","0.143913043478261","0.292","59.8467647058824","7.74463585586401"
+"77","Vaccinium uliginosum","species","shrub","0.344285714285714","0.1735","116.186875","13.921461170529"
+"78","Taraxacum ceratophorum","species","herb",NA,NA,NA,NA
+"79","Dasiphora fruticosa","species","herb",NA,NA,NA,NA
+"80","Allium schoenoprasum","species","herb","0.33","0.838333333333333","556","8.79466666666667"
+"81","Pinus sylvestris","species","tree","13.1851794619612","6.86829975","76.6444444444444","4.92704888008837"
+"82","Rosa acicularis","species","shrub",NA,NA,NA,"18.9367118544444"
+"83","Larix gmelinii","species","tree",NA,"3.434904",NA,"7.25"
+"84","Ledum palustre","species","shrub","0.48",NA,"0",NA
+"85","Epilobium angustifolium","species","herb","0.678545454545455","0.153363636363636","3811","19.9566979026753"
+"86","Rubus chamaemorus","species","herb","0.1","7.4","2537.94333333333","13.9615352384065"
+"87","Primula elatior","species","herb","0.108333333333333","0.85","4205.875","33.8050604384615"
+"88","Anemone baicalensis","genus","herb","0.186612903225806","2.42363891304348","2259.00166666667","72.4898374733333"
+"89","Trifolium lupinaster","species","herb",NA,"1.63333333333333","397.53469505","25.15755678"
+"90","Androsace septentrionalis","species","herb","0.0121428571428571",NA,"27","24.082"
+"91","Juniperus communis","species","shrub","5.36755","20.0336917333333","8.8","6.46143896916755"
+"92","Elymus repens","species","grass","0.65500725","3.814084","2105.41493804","24.4979307182857"
+"93","Spiraea media","species","shrub","1.6",NA,NA,NA
+"94","Plantago major","species","herb","0.253048407411111","0.192904526315789","8045.099725","21.7863851375926"
+"95","Rubus arcticus","species","herb",NA,NA,NA,NA
+"96","Ranunculus propinquus","genus","herb","0.275885026737968","1.68167727131783","1991.49837309775","34.4412947979764"
+"97","Maianthemum bifolium","species","herb","0.125","10.01875","1574.25","31.8369230766667"
+"98","Dracocephalum ruyschiana","species","herb","0.4",NA,NA,"256.4201"
+"99","Tanacetum vulgare","species","herb","0.6058","0.141111111111111","8376","20.38599947"
+"100","Lilium martagon","species","herb","0.4818","7.93","4471","25.5756469566667"
+"101","Vicia cracca","species","herb","0.994","14.9495877777778","733.5236540425","24.8359711266667"
+"102","Viola uniflora","genus","herb","0.176635658914729","1.47513279824561","1185.88910714286","29.6743579173125"
+"103","Campanula rotundifolia","species","herb","0.247489714285714","0.0559543333333333","72.3927794871795","26.5471190322581"
+"104","Antennaria dioica","species","herb","0.0259655172413793","0.049","2652.66107918889","22.587166543"
+"105","Euphrasia pectinata","species","herb",NA,NA,NA,NA
+"106","Myosotis alpestris","species","herb","0.08375","1.20566666666667",NA,NA
+"107","Thalictrum minus","species","herb","0.515625","1.59466666666667","8745.40075566667","15.8454664269231"
+"108","Festuca ovina","species","grass","0.180625","0.491188461538462","25.897","15.1120689655172"
+"109","Viola canina","species","herb","0.664","0.905","238","25.8668452663158"
+"110","Achillea asiatica","species","herb",NA,NA,NA,NA
+"111","Rumex acetosella","species","herb","0.1329141875","0.72092435","104.60045","26.433089602093"
+"112","Omalotheca norvegica","species","herb","0.132142857142857",NA,"344.864827586207","21.148"
+"113","Lathyrus pratensis","species","herb","0.548636363636364","11.3875","158.333333333333","35.7433705855263"
+"114","Calamagrostis purpurea","species","grass","0.964","0.1","1578.2","24.224"
+"115","Dactylorhiza incarnata","species","herb","0.43",NA,"2540.625","20.565"
+"116","Trifolium repens","species","herb","0.131202595238095","0.524251348837209","321073.214144848","31.7824236215441"
+"117","Galium boreale","species","herb","0.33125","0.6","49.005","20.9615479683333"
+"118","Empetrum nigrum","species","shrub","0.246176470588235","0.980666666666667","4.51444444444444","8.26841699767142"
+"119","Veratrum lobelianum","species","herb",NA,NA,NA,NA
+"120","Sceptridium multifidum","genus","herb",NA,NA,NA,NA
+"121","Poa pratensis","species","grass","0.345505428571429","0.284569027027027","1010.462675","27.1786523841732"
+"122","Sanguisorba officinalis","species","herb","0.496875","2.163","1215.98945525714","20.0735685671429"
+"123","Filipendula vulgaris","species","herb","0.0889705882352941","0.778545454545455","1322.91716418889","23.0661035194118"
+"124","Spiraea hypericifolia","species","shrub",NA,NA,NA,"14.3"
+"125","Trollius europaeus","species","herb","0.296875","0.973333333333333","5348.33333333333","22.591486396"
+"126","Fritillaria ruthenica","genus","herb","0.36875","2.81309090909091","1145.625","23.7071428571429"
+"127","Adonis vernalis","species","herb","0.225",NA,"279","15.471811175"
+"128","Origanum vulgare","species","herb","0.409090909090909","0.109777777777778","511","22.935594005"
+"129","Lonicera xylosteum","species","shrub","1.64847058823529","5.2","483.5","21.4305929619618"
+"130","Tulipa sylvestris","species","herb","0.3",NA,NA,NA
+"131","Abies sibirica","species","tree",NA,"10",NA,NA
+"132","Viburnum opulus","species","shrub","2.91666666666667","35.310952","2048.4125","14.6311605956885"
+"133","Alnus glutinosa","species","tree","11.6695759036145","1.84827819047619","3146.725","14.9289468413254"
+"134","Rubus fruticosus","species","shrub","1.82875","2.295","2061.8","15.78375"
+"135","Arctostaphylos uva ursi","species","shrub","0.179","14.6984111428571","161.666666666667","5.66382399041121"
+"136","Tilia cordata","species","tree","16.6583333333333","36.1811462857143","1315","21.434453146932"
+"137","Ulmus laevis","species","tree","23.1","7.150727","3831.5","38.7908413000353"
+"138","Vaccinium oxycoccos","species","shrub","0.405","0.77","15.95","15.4190909090909"
+"139","Quercus robur","species","tree","17.30856","3146.87815385714","2354.18","13.7566803291181"
+"140","Frangula alnus","species","shrub","4.022","17.9342048571429","964.55","19.0498502272727"
+"141","Corylus avellana","species","tree","4.14457575757576","1096.23131416667","3272.17142857143","19.4326653124865"
+"142","Rubus caesius","species","shrub","0.47","3.35333333333333","9655.33333333333","19.3"
+"143","Acer platanoides","species","tree","15.6747082251082","156.68577025","5748.38","15.3094840467304"
+"144","Sambucus racemosa","species","shrub","2.99203088888889","2.10157575","9929","24.2611304874912"
+"145","Cornus sericea","species","shrub*","3.4","36.2832",NA,"25.043"
+"146","Aesculus hippocastanum","species","tree","23.8","13737.6212314286","6528.7","10.960002739726"
+"147","Tilia platyphyllos","species","tree","30","81.9","6034.25","31.6294444444444"
+"148","Amelanchier ovalis","species","shrub","2","42.5125","423.8","11.3183333333333"
+"149","Physocarpus opulifolius","species","shrub","2.825","0.42553","2150","16.2601707300813"
+"150","Quercus rubra","species","tree","19.2614824897242","3303.651682","12910.9848993289","15.2319312191465"
+"151","Malus sylvestris","species","tree","6.26676666666667","25.41","2268.55714285714","16.1184025004271"
+"152","Filipendula ulmaria","species","herb","0.858333333333333","0.576","10234.5","22.6656623494118"
+"153","Aegopodium podagraria","species","herb","0.578125","2.3615","13500.242","27.8824242421053"
+"154","Trientalis europaea","species","herb","0.104166666666667","0.6","221.861666666667","50.4940109622222"
+"155","Oxycoccus palustris","genus","shrub",NA,NA,NA,NA
+"156","Luzula pilosa","species","herb","0.1875","1.02333333333333","664","25.1"
+"157","Calluna vulgaris","species","shrub","0.779285714285714","0.0356363636363636","0.98","11.2354173508484"
+"158","Eriophorum vaginatum","species","herb","0.41875","0.985","215","9.79329245220262"
+"159","Comarum palustre","species","herb","0.4","0.373285714285714","1944.25","19.0233333333333"
+"160","Lathraea squamaria","species",NA,"0.146","0.68",NA,NA
+"161","Pulmonaria obscura","species",NA,NA,NA,"6771.125","37.907"
+"162","Corydalis solida","species","herb","0.129285714285714",NA,"1675.855","43.19"
+"163","Polygonatum odoratum","species","herb","0.3","33.2","2270","31.3136610542857"
+"164","Anemone ranunculoides","species","herb","0.125714285714286","1.5","1424.13","36.536"
+"165","Euonymus verrucosa","genus","tree","5.56052195121951","26.7332556811594","1103.625","11.9097622955523"
+"166","Lathyrus vernus","species","herb","0.265714285714286","14.326","4380","38.7359090909091"
+"167","Stellaria holostea","species","herb","0.283333333333333","2.92","216","30.981700233"
+"168","ficaria verna","not found","NA",NA,NA,NA,NA
+"169","Gagea lutea","species","herb","0.2",NA,"631","23.9"
+"170","Matteuccia struthiopteris","species","herb","0.9",NA,"116415.29","30.1096373215385"
+"171","Allium ursinum","species","herb","0.31875","5.31833333333333","6656.66666666667","37.25"
+"172","Chelidonium majus","species","herb","0.4875","0.753333333333333","9226","44.8854545454545"
+"173","Lamium maculatum","species","herb","0.375",NA,"1371.44","31.62"
+"174","Rubus nessensis","species",NA,"1.25",NA,NA,NA
+"175","Hypericum perforatum","species","herb","0.472923076923077","0.1441903","129.0092","29.3162470751429"
+"176","Veronica chamaedrys","species","herb","0.2471875","0.238562131578947","1444.23267413793","32.5695715330645"
+"177","Ranunculus acris","species","herb","0.278068181818182","1.42876923076923","620.705161290323","22.0026951640426"
+"178","Sedum acre","species","herb","0.0655555555555556","0.035",NA,"10.9"
+"179","Artemisia absinthium","species","herb","0.84375","0.12","2475.5","30.3645919766667"
+"180","Cichorium intybus","species","herb","0.40631","1.1295","10507.05","23.9388846058333"
+"181","Oenothera biennis","species","herb","0.802777777777778","0.361472157894737","18538.4832","15.701"
+"182","Plantago lanceolata","species","herb","0.2055435","1.5269752195122","1975.2666875","19.2313444539735"
+"183","Achillea micrantha","genus","herb","0.295561903509211","0.436712872727273","3430.27439163333","15.554323591256"
+"184","pilosella officinarum","not found","NA",NA,NA,NA,NA
+"185","Verbascum lychnitis","species","herb","0.93125","0.13","18399.5","14.61"
+"186","Prunella vulgaris","species","herb","0.157670307692308","0.963407676470588","673.2065","29.0513089351181"
+"187","Leucanthemum vulgare","species","herb","0.34590625","0.495","549.90691255","17.9973690703125"
+"188","Veronica officinalis","species","herb","0.138424571428571","0.106112113636364","350.283181578947","38.9405898148148"
+"189","Chrysosplenium alternifolium","species","herb","0.185",NA,"516.5","37.1492753633333"
+"190","Geum rivale","species","herb","0.33125","1.11461538461538","6428","20.283677364"
+"191","Melampyrum pratense","species","herb","0.26","5.46285714285714","240","26.288065845"
+"192","Lythrum salicaria","species","herb","0.6084","0.034","1742.375","24.204154135"
+"193","Lysimachia vulgaris","species","herb","0.9143","0.14","2539.25","23.725"
+"194","Veronica longifolia","species","herb","0.75","0.1","1357","19.8182352941176"
+"195","Ranunculus repens","species","herb","0.253909090909091","2.3","3593.55555555556","23.6490374169643"
+"196","Dianthus deltoides","species","herb","0.22875","0.169222222222222","24","16.05"
+"197","Menyanthes trifoliata","species","herb","0.18375","2.50966666666667","4425.16666666667","22.8533333333333"
+"198","Phleum pratense","species","grass","0.312243243243243","0.378785714285714","4295.61193897561","23.682393905122"
+"199","Stellaria graminea","species","herb","0.2949","0.2715","76.3333333333333","32.70140609"
+"200","Jasione montana","species","herb","0.15","0.0275","36.5","37.318"
+"201","Helichrysum arenarium","species","herb","0.2",NA,"404.5","18.916"
+"202","Silene latifolia","species","herb","0.45975","0.603888888888889","25295.2196153846","21.217893583"
+"203","Campanula patula","species","herb","0.284375","0.025",NA,"32.712"
+"204","Anthoxanthum odoratum","species","grass","0.2286494375","0.558760862068965","528.919762162162","34.1511530956164"
+"205","Artemisia vulgaris","species","herb","1.35","0.1665","3914.42633333333","24.122352942"
+"206","Agrostis canina","species","grass","0.3","0.0575","67","27.6652625722222"
+"207","Solidago virgaurea","species","herb","0.5625","0.46","2938.53384615385","22.9011591682353"
+"208","Viscaria vulgaris","family","herb","0.255658680161943","0.814968371571072","6880.17532851469","29.5361292961557"
+"209","Bidens tripartita","species","herb","0.525","1.726","16952.6615280286","33.27347894625"
+"210","Centaurea jacea","species","herb","0.315189985507246","1.866","3477.03262866197","19.6626348821591"
+"211","Erythronium dens canis","species",NA,NA,"3.77",NA,NA
+"212","Crocus heuffelianus","species",NA,NA,"5.664",NA,NA
+"213","Anemone nemorosa","species","herb","0.170555555555556","3.89666666666667","3003","28.3736363636364"
+"214","Syringa vulgaris","species","shrub","5.12","5.65409428571429","2166.875","12.4723538602941"
+"215","Petasites albus","species","herb","0.425",NA,"23322.5833333333","26.7046666666667"
+"216","Scopolia carniolica","family","tree","8.96598440748441","124.165051964912","5416.28737397309","11.6410946713725"
+"217","Galanthus nivalis","species","herb","0.14","6.546","1403.5","28.61"
+"218","Primula acaulis","genus","herb","0.112444444444444","0.560120689655172","3749.28125","24.6823227430769"
+"219","Colchicum autumnale","species","herb","0.225","6.205","5411.05","21.632"
+"220","Crataegus laevigata","species","tree","6","51.324","730","20.3416666666667"
+"221","Narcissus poeticus","species","herb",NA,NA,"4582","19.2"
+"222","Campanula carpatica","species","herb",NA,"0.06",NA,NA
+"223","Rosa canina","species","shrub","1.64","15.5887229090909","257","12.3085283065587"
+"224","Fagus sylvatica","species","tree","23.9347058823529","246.218081555556","2027.68","15.1312086914368"
+"225","Scilla bifolia","species","herb","0.15","9.55","2376.75","41.554"
+"226","Leucojum vernum","species","herb","0.1","12.04","3173.75","32.348"
+"227","Sambucus nigra","species","shrub","5.44555555555556","12.94845575","990.2","19.1704586389512"
+"228","Picea abies","species","tree","4.13277967857459","6.92506261538462",NA,"6.05424825118421"
+"229","Hepatica nobilis","species","herb","0.0942857142857143","3.2746","2887.75","30.233"
+"230","Poa nemoralis","species","herb","0.625","0.251764705882353","536.5","49.9"
+"231","Acer tataricum","species",NA,NA,"34.4257282222222",NA,NA
+"232","Glechoma hederacea","species","herb","0.2425","0.69","882","35.1604444414286"
+"233","Asarum europaeum","species","herb","0.075","3.16","2994.75","26.778"
+"234","Ranunculus auricomus","species","herb","0.19",NA,"1276.5","31.9333333333333"
+"235","Viola hirta","species","herb","0.09375","3.344","3436","18.2333333333333"
+"236","Euonymus europaea","genus","tree","5.56052195121951","26.7332556811594","1103.625","11.9097622955523"
+"237","Prunus spinosa","species","shrub","2.308","199.474305176471","444.175","13.6342957207919"
+"238","Rhamnus cathartica","species","shrub","5.44948571428571","29.1554784","1747.06","13.8588628183771"
+"239","Urtica dioica","species","herb","0.480761904761905","0.1262775","4076.62828555556","22.1834656468364"
+"240","Arrhenatherum elatius","species","herb","1.04941666666667","2.87263636363636","1397.9225","30.2525991922669"
+"241","Thalictrum aquilegifolium","species","herb",NA,NA,NA,NA
+"242","Polygonatum multiflorum","species","herb","0.43","26.34","2038.25","43.92"
+"243","Actaea spicata","species","herb","0.421875","6.54875","21941.25","38.885"
+"244","Clematis recta","species","shrub*","0.675","9.85",NA,NA
+"245","Geranium sylvaticum","species","herb","0.241388888888889","5.095","1889.33884615385","22.8003943683333"
+"246","Pulmonaria angustifolia","species",NA,"0.175",NA,NA,NA
+"247","Cornus sanguinea","species","shrub","2.53970588235294","67.8816666666667","1240.3","14.7019489020308"
+"248","Convallaria majalis","species","herb","0.15","17.675","6124.5","28.967008548"
+"249","Crataegus rhipidophylla","species","tree","10","111.376666666667",NA,"11.36363636"
+"250","Viola mirabilis","species","herb","0.2","2.6","4503.375","42.7840886933333"
+"251","Anthriscus sylvestris","species","herb","0.833333333333333","3.83123076923077","22864","30.4975107352381"
+"252","Carex montana","species","herb","0.165","0.99","288.75","20.3885714285714"
+"253","Bromus riparius","species","herb",NA,NA,NA,NA
+"254","Poa angustifolia","species","herb","0.36","0.11","400.4040302","15.55"
+"255","Iris aphylla","species","herb","0.225",NA,NA,NA
+"256","Anemone sylvestris","species","herb","0.149285714285714",NA,"2349.875","17.8716732283333"
+"257","Knautia arvensis","species","herb","0.4069","3.050875","2871.33333333333","20.2207203968966"
+"258","Picris hieracioides","species","NA","0.584861111108333","0.939333333333333","2314.23611116667","23.7842689103846"
+"259","Scabiosa ochroleuca","species","herb","0.275",NA,"426","11.554"
+"260","Stipa pennata","species","herb",NA,"31.535",NA,NA
+"261","Peucedanum oreoselinum","species",NA,"0.5","4.22","4028.125","16.036"
+"262","Inula hirta","species","herb","0.275","0.27",NA,"21.18644068"
+"263","Linum perenne","species","herb","0.409090909090909","2.33875","24.45842036","22.5627468342857"
+"264","Salvia pratensis","species","herb","0.333536882352941","1.74","9316.00663679245","24.0212370352632"
+"265","Hyacinthella leucophaea","family","herb","2.59034899335342","28.2548007951807","597.935855800557","29.4521354787462"
+"266","Draba sibirica","species","herb",NA,NA,NA,NA
+"267","Securigera varia","species","herb","0.269","3.28166666666667",NA,"19.71426442"
+"268","Asparagus officinalis","species","herb","1.05","23.4113581818182","22.6217","10.9271739090909"
+"269","Phleum phleoides","species","herb","0.3","0.184166666666667","322.75","17.254"
+"270","Tragopogon orientalis","species","herb","0.216875",NA,"1731.5","15.74517742"
+"271","Leontodon hispidus","species","herb","0.0632303921558824","1.2038","4359.49954851818","24.2823352773333"
+"272","Carex humilis","species","herb","0.09","1.315","121.75","18.15"
+"273","Veratrum nigrum","species","herb",NA,NA,NA,NA
+"274","Trifolium pratense","species","herb","0.317818181818182","1.61913793103448","896.076753","22.5840299382692"
+"275","Briza media","species","herb","0.0912058823529412","0.328888888888889","5304.30710364516","21.4423303152"
+"276","Stachys recta","species","herb","0.2432","1.084","740.5","25.8627448491667"
+"277","libanotis pyrenaica","not found","NA",NA,NA,NA,NA
+"278","Thymus pulegioides","species","shrub","0.166888888888889",NA,NA,"24.8085917768421"
+"279","Pontechium maculatum","family","herb","0.288038888888889","7.03738915408805","590.35980433799","26.309877411881"
+"280","Podospermum purpureum","species",NA,"0.35",NA,NA,NA
+"281","Koeleria cristata","genus","herb","0.11025641025641","0.462687","220.12899792","16.5234715494143"
+"282","Paeonia tenuifolia","genus","herb","1.075","197.273166666667",NA,"8.70397772"
+"283","Vicia tenuifolia","species","herb","0.655",NA,"1904.60666666667","28.5709090909091"
+"284","Anthyllis vulneraria","species","herb","0.1936","3.04793333333333","1007","16.6440607106667"
+"285","Geranium sanguineum","species","herb","0.23125","8.69777777777778","1167","21.8333333333333"
+"286","Trifolium montanum","species",NA,"0.114925925925926","0.825","8668.35065931818","19.994914242"
+"287","Onobrychis arenaria","species","herb","0.15","16.4575",NA,"8.920606601"
+"288","Campanula persicifolia","species","herb","0.4","0.1","501","31.6425"
+"289","Calamagrostis epigeios","species","herb",NA,NA,NA,NA
+"290","Trifolium alpestre","species",NA,"0.2406","1.25","705.875","12.9012252233333"
+"291","Bunias orientalis","species","herb","0.757777777777778","25.4","8597.515","23.543264895"
+"292","Anthericum ramosum","species","herb","0.289285714285714","2.51","1733.5","23.556"
+"293","Potentilla alba","species",NA,"0.125","0.6","1563.075","14.633"
+"294","Centaurea scabiosa","species","herb","0.396850838709677","5.9216875","4903.85903225806","19.6309122222222"
+"295","Euphorbia semivillosa","genus","herb","0.915645333333333","7.07556647398844","538.563841611765","41.3747877733333"
+"296","Falcaria vulgaris","species","herb","0.425","0.7","6503.125","12.585"
+"297","Avenula pubescens","species","grass","0.498518518522222",NA,"855","20.2519424855556"
+"298","Achillea millefolium","species","herb","0.121964990991892","0.186194810810811","3326.88430700323","15.1051027596197"
+"299","Jurinea arachnoidea","genus","herb","0.35","3.7","1476.5","9.366"
+"300","Alnus incana","species","tree","11.0716699450753","0.9606356","2442.20666666667","18.4922043509065"
+"301","Gymnospermium albertii","family","shrub","1.45967741935484","18.5955933191489","4240.61713471111","11.7905726779107"
+"302","Rosa webbiana","species","shrub",NA,NA,NA,NA
+"303","Poa bulbosa","species","herb","0.2325","0.451871428571429","15.9981","18.0664797255714"
+"304","Hypericum scabrum","genus","shrub","0.371330188679245","0.158153234234234","251.89980952381","26.0587973341078"
+"305","Malus sieversii","genus","tree","7.46500186219739","31.35698064","2187.4875","16.3444386321"
+"306","Linnaea borealis","species","herb","0.1135","1.2448652","78.43955","27.5167683325"
+"307","Oxalis acetosella","species","herb","0.0925","1.47333333333333","806","67.7885714285714"
+"308","Salix acutifolia","species","tree","7.9",NA,"480","11.7164674848975"
+"309","Platanthera bifolia","species","herb","0.16",NA,"2532.75","26.2640023466667"
+"310","Andromeda polifolia","species","shrub","0.239285714285714",NA,"46.9166666666667","7.38886329658561"
+"311","Malus baccata","species",NA,NA,"77.6628706666667",NA,NA
+"312","Chamaedaphne calyculata","species","shrub","0.6",NA,"385.5","4.98882282411741"
+"313","Carpinus betulus","species","tree","10.5819047619048","43.0352868333333","2268.52","18.3502673"
+"314","Symphytum officinale","species","herb","0.5047","11.13","8816.25","26.0168377542857"
+"315","Lamium galeobdolon","genus","herb","0.242611755555556","1.19305228571429","1118.156775","34.6897168613793"
+"316","Populus nigra","species","tree","18.3700394366197","55.5181004784689","2784.625","11.0753846153846"
+"317","Corydalis cava","species","herb","0.157857142857143","8.5","5632.875","51.753"
+"318","Salix alba","species","tree","15.5839675675676","0.12","691.0625","10.5715039680014"
+"319","Gagea minima","species","herb","0.12",NA,NA,NA
+"320","Acer negundo","species","tree","13.035474885902","32.4766038571429","2658.96","23.5535395946667"
+"321","Galium verum","species","herb","0.244409836065574","0.509378378378378","1167.33322949475","34.1835095576023"
+"322","Fraxinus excelsior","species","tree","19.955","64.4747434736842","1406.55714285714","12.4712907445062"
+"323","Impatiens noli tangere","species","herb","0.44375",NA,"1649","45.38148148"
+"324","Iris pseudacorus","species","aquatic*","0.75","51.335","20873.75","14.9235714285714"
+"325","Populus alba","species","tree","19.4712","0.12","1791","11.3318697533333"
+"326","Barbarea vulgaris","species","herb","0.558333333333333","0.644697875","14571.6765925926","26.448976"
+"327","Cardamine quinquefolia","genus","herb","0.280426829268293","0.480888","2519.20898581579","32.8404168166262"
+"328","Cirsium arvense","species","herb","0.780030272727273","1.24347022727273","3758.32333333333","15.3333392966667"
+"329","Argentina anserina","genus","herb",NA,NA,NA,NA
+"330","Capsella bursa pastoris","species","herb","0.167777777777778","0.1164122","1642.17175","29.5958283209091"
+"331","Robinia pseudoacacia 1","species","tree","16.0907499420488","19.5873364","4186.948","16.4904824366166"
+"332","Stellaria media","species","herb","0.204737769230769","0.400453086956522","427.863266666667","51.3528864717647"
+"333","Vinca minor","species","herb*","0.505","6.13","565","24.7"
+"334","Forsythia suspensa","species","shrub",NA,NA,NA,"18.254"
+"335","Viola arvensis","species","herb","0.196875","0.351833333333333","546.5","24.32"
+"336","Ajuga genevensis","species","herb","0.185",NA,"368.5","25.99"
+"337","Spiraea vanhouttei","genus","shrub","1.52222222222222","0.0888","380.226882666875","15.7553569945238"
+"338","Viola odorata","species","herb","0.205","3.192","1975.5","29.35"
+"339","Eryngium planum","species","herb","0.3","0.9",NA,NA
+"340","Crataegus monogyna","species","tree","6.40343177777778","163.821378947368","503.353322222222","10.8918091312607"
+"341","Alliaria petiolata","species","herb","0.561111111111111","2.70525","7514","47.0135"
+"342","Castanea sativa","species","tree","31","9944.375","7259.425","12.5900013297872"
+"343","Geranium robertianum","species","herb","0.27012125","1.00235255555556","1215.60225","36.6050986026087"
+"344","Ulmus glabra","species","tree","29.02","11.6028298571429","3328.3375","17.080189398418"
+"345","Lysimachia nummularia","species","herb","0.42","0.042","284.333333333333","32.3609993575"
+"346","Galium odoratum","species","herb","0.225","5.35","361","61.5157142857143"
+"347","Convolvulus arvensis","species","herb","0.207454545454545","18.3766666666667","465.974779327586","28.7391532318519"
+"348","Ribes uva crispa","species","shrub","0.69",NA,"902.34","23.2087899544025"
+"349","Solanum tuberosum","species","herb","0.6","0.7","13128","23.9657142857143"
+"350","Cerasus fruticosa","species","shrub",NA,NA,NA,NA
+"351","Cypripedium calceolus","species","herb","0.325",NA,NA,NA
+"352","Alopecurus pratensis","species","grass","0.349456392857143","0.773486486486486","919.011470588235","38.3285878613953"
+"353","Crataegus sanguinea","genus","tree","6.89393505463183","106.933037042553","592.599255555556","12.8023669304411"
+"354","Arctium tomentosum","species","herb","0.529",NA,NA,"34.493012715"
+"355","Cypripedium macranthos","genus","herb","0.33875","0.0027125",NA,NA
+"356","Cypripedium guttatum","species","herb",NA,NA,NA,NA
+"357","Amorpha fruticosa","species","shrub","2.5","8.24585125","200","8.795714255"
+"358","Ribes rubrum","species","shrub","1.37",NA,"5107.5","29.1139777029877"
+"359","Viola rotundifolia","species","herb",NA,NA,NA,NA
+"360","Prunus avium","species","tree","14.5529384883721","184.452624615385","2687.4002","13.0970642637927"
+"361","Secale cereale","species","herb","0.24185","23.873","3459.96666666667","30.2745"
+"362","Polygala amara","species","herb","0.065",NA,NA,NA
+"363","Lonicera tatarica","species","shrub","2","3.0196565",NA,NA
+"364","Juglans regia","species","tree","17.25","10925.6586333333","3909.7","9.73333819951338"
+"365","Prunus cerasifera","species","tree","7.114","468.017193142857",NA,"10.8005"
+"366","Cornus mas","species","tree","3.5","213.9465432","1884.57","31.939"
+"367","Tilia dasystyla","genus","tree","18.4944359780182","73.2930672777778","12765.2807692308","25.442144935574"
+"368","Philadelphus caucasicus","genus","shrub","2.8125","0.13306525",NA,NA
+"369","Abies nordmanniana","species","tree","30","75.31731225",NA,NA
+"370","Picea orientalis","species","tree",NA,"5.918818",NA,NA
+"371","Juglans mandshurica","species","tree",NA,"9259",NA,NA
+"372","Salix gracilistyla","genus","shrub","13.4436201567598","0.621549252427185","495.111270219879","12.3742680787951"
+"373","Ribes mandshuricum","species","shrub",NA,NA,NA,NA
+"374","Sorbaria sorbifolia","species","shrub","1.488","40.459996","1490","16.4203726621918"
+"375","Viburnum sargentii","species",NA,NA,NA,NA,"1.44164031299519e-05"
+"376","Pyrus ussuriensis","species","tree",NA,"45.686126",NA,NA
+"377","Adonis amurensis","genus","herb","0.255357142857143","7.6","236.25","23.2948078882353"
+"378","Corydalis ambigua","species","herb",NA,NA,NA,NA
+"379","Acer pictum","species","tree",NA,"72.9419657692308",NA,"5.8997194863442"
+"380","Rosa rugosa","species","shrub","1.35","9.55","3237","10.3921999828292"
+"381","Rubus crataegifolius","species","shrub",NA,"0.7",NA,NA
+"382","Anemone amurensis","genus","herb","0.186612903225806","2.42363891304348","2259.00166666667","72.4898374733333"
+"383","Betula pubescens","species","tree","11.1411231343284","0.258388142857143","890","13.3996451045635"
+"384","Daphne mezereum","species","shrub","0.85","90.6666666666667","392.08","23.1324974086894"
+"385","Dactylorhiza maculata","species","herb",NA,NA,"1361","24.79"
+"386","Calypso bulbosa","species","herb","0.2","0.000447",NA,NA
+"387","Chimaphila umbellata","species","shrub","0.06",NA,"0","6.1113297173"
+"388","Angelica sylvestris","species","herb","0.972222222222222","1.1825","40902","26.93231906"
+"389","Pyrola rotundifolia","species","shrub","0.13375",NA,"1026","16.9918853657143"
+"390","Melampyrum sylvaticum","species","herb","0.275",NA,"434.75","45.9797081942857"
+"391","Leucanthemum ircutianum","species",NA,"0.44",NA,"263.5","15.5328571428571"
+"392","Rubus saxatilis","species","shrub","0.175625","10.10625","6724","24.5741821333333"
+"393","Dactylis glomerata","species","grass","0.27101383","0.846644654545455","404.410838336449","25.6180945078378"
+"394","Silene flos cuculi","species","herb",NA,NA,NA,NA
+"395","Campanula glomerata","species","herb","0.19125","0.128","916","24.3817567575"
+"396","Petasites frigidus","species","herb","0.2","1.1132",NA,"17.0507442854173"
+"397","Corylus sieboldiana var  mandshurica","genus","tree","4.87028051948052","913.156518111111","3278.275","19.1652091802876"
+"398","Nuphar lutea","species","herb","0.03",NA,"26244.25","14.9685714285714"
+"399","Cicuta virosa","species","herb","0.721875","0.968","17122.4166666667","22.4746666666667"
+"400","Lysimachia thyrsiflora","species","herb","0.43125",NA,"1115.81326995","36.53376675"
+"401","Calla palustris","species","herb","0.15","2.1405","11712.625","32.2802467266667"
+"402","Larix decidua","species","tree","27.1093218818381","6.62183514285714","20.24","12.3225433239096"
+"403","Quercus petraea","species","tree","36.3909090909091","2154.1870824","3500.32","9.80749634340223"
+"404","Berberis vulgaris","species","shrub","1.84642857142857","15.4873772857143","305.94","10.6396781354811"
+"405","Cornus suecica","species","herb","0.12",NA,"265.285","39.8426756916667"
+"406","Galium palustre","species","herb","0.455357142857143","0.91","32.5","33.7345"
+"407","Salix phylicifolia","species","shrub","1.56571428571429",NA,"470","8.42296341834245"
+"408","Epilobium palustre","species","herb","0.325","0.045","397.922825275","35.0943019678571"
+"409","Moneses uniflora","species","herb","0.075",NA,"321","21.6853884714286"
+"410","Drosera anglica","species","herb","0.0457142857142857","0.025","89.195","29.7957142857143"
+"411","Hieracium umbellatum","species","herb","0.425","0.65","672.9840399","20.3384474372727"
+"412","Neottia cordata","genus","herb",NA,"0.008",NA,NA
+"413","Viola palustris","species","herb","0.085","0.865333333333333","1812.91666666667","37.0005882352941"
+"414","Avenella flexuosa","species","herb",NA,NA,NA,NA
+"415","Corallorhiza trifida","species","herb",NA,NA,NA,NA
+"416","Betula nana","species","shrub","0.563571428571429","0.32","49.4364102564103","11.970306277181"
+"417","Rumex confertus","species","herb",NA,NA,NA,NA
+"418","Pyrola minor","species","shrub","0.073125","0.001","325.791547619048","20.8177463684211"
+"419","Melica nutans","species","herb","0.225","2.178","402","28.725"
+"420","Pyrola chlorantha","species","shrub","0.12375",NA,NA,NA
+"421","Luzula multiflora","species","grass","0.17","1.05428571428571","549","24.817214674"
+"422","Galium album","species",NA,"0.661219512195122","0.6","242.630465116279","43.6879053488372"
+"423","Trifolium campestre","species","herb","0.275","0.3054","180.666666666667","27.0833333333333"
+"424","Carex nigra","species","herb","0.14125","0.806666666666667","159.176666666667","19.2019230769231"
+"425","Eriophorum angustifolium","species","grass","0.2279","0.446666666666667","885.446666666667","9.0774073775249"
+"426","Viola epipsila","species","herb","0.115",NA,NA,NA
+"427","Drosera rotundifolia","species","herb","0.0745454545454545","0.017","86.75","42.587687572"
+"428","Trichophorum cespitosum","species","grass","0.2",NA,NA,"6.41025641025641e-06"
+"429","Luzula sudetica","species","herb","0.151428571428571",NA,"243.355","34.008"
+"430","Molinia caerulea","species","grass","0.8125","0.6","1286.625","19.7179310344828"
+"431","Polygonum viviparum","species","herb","0.0792857142857143",NA,"273.623918918919","37.8314755992857"
+"432","Vicia sepium","species","dependant","0.516666666666667","17.645","927.25","36.4687149142105"
+"433","Hieracium caespitosum","species","herb","0.0292848648648649","0.09",NA,"26.7112971538462"
+"434","Galium mollugo","species","herb","0.529878048780488","0.694432432432432","191.588181818182","34.4284385921088"
+"435","Galeopsis speciosa","species","herb","0.484375","4.23","3066","35.1"
+"436","Deschampsia cespitosa","species","herb","0.223133333333333","0.25475","4105.06173218182","17.2273219146444"
+"437","Viola tricolor","species","herb","0.25","0.72826","313","29.10875"
+"438","Rumex acetosa","species","herb","0.135473684210526","0.654590909090909","2978.68681125806","31.2337672983824"
+"439","Carex acuta","species","herb","0.9",NA,"2455.25","14.8601393033333"
+"440","Stellaria palustris","species","herb","0.275","0.47",NA,"23.01948636"
+"441","Rhinanthus angustifolius","genus","herb","0.379545454545455","2.12991666666667","338.6875","20.4290248345946"
+"442","Salix udensis","genus","shrub","13.4436201567598","0.621549252427185","495.111270219879","12.3742680787951"
+"443","Cirsium heterophyllum","species","herb",NA,NA,NA,NA
+"444","Parnassia palustris","species","herb","0.128125","0.0367142857142857","465.3990656875","25.7512183256667"
+"445","Maackia amurensis","species","tree",NA,NA,NA,"13.1578947"
+"446","Hemerocallis middendorffii","species","herb",NA,NA,NA,NA
+"447","Crepis tectorum","species","herb","0.265",NA,NA,"17.2"
+"448","Inula japonica","species","herb",NA,NA,"665.36953805","24.54886575"
+"449","Crataegus maximowiczii","genus","tree","6.89393505463183","106.933037042553","592.599255555556","12.8023669304411"
+"450","Phellodendron amurense","species","shrub*",NA,NA,NA,NA
+"451","Lonicera ruprechtiana","species","shrub",NA,NA,NA,NA
+"452","Potentilla fragarioides","species","grass",NA,NA,NA,NA
+"453","Maianthemum japonicum","species","herb",NA,NA,NA,NA
+"454","Trollius chinensis","genus","herb","0.296875","0.973333333333333","5348.33333333333","57.7145126123077"
+"455","Geranium erianthum","species","herb",NA,NA,NA,NA
+"456","Aster scaber","genus","herb","0.648125","0.436681818181818","383.0896708","61.9684172691176"
+"457","Lespedeza bicolor 1","species","shrub",NA,"5.81535782857143","171.41","17.7855958333333"
+"458","Fragaria orientalis","genus","herb","0.138407407407407","0.382562","1471.102","19.0595166906"
+"459","Anemone reflexa","genus","herb","0.186612903225806","2.42363891304348","2259.00166666667","72.4898374733333"
+"460","Synurus deltoides","family","herb","0.431684009410609","5.6517617539267","5294.61076271666","21.7654837334319"
+"461","Betula dahurica","species","tree",NA,"0.623333333333333",NA,NA
+"462","Chloranthus japonicus","species","herb",NA,NA,NA,NA
+"463","Mentha canadensis","species","herb",NA,NA,"360.54596735","26.81646775"
+"464","Isodon japonicus","species","shrub",NA,NA,NA,NA
+"465","Gagea triflora","genus","herb","0.143863636363636",NA,"331","23.2425"
+"466","Syringa reticulata","species","shrub",NA,NA,NA,NA
+"467","Tilia amurensis","species","tree",NA,NA,NA,NA
+"468","Corydalis pallida","genus","herb","0.1455","8.5","3654.365","40.3620365586207"
+"469","Bupleurum longiradiatum","genus","herb","0.3315","3.41","819.387554007692","29.610128363625"
+"470","Populus suaveolens","genus","tree","16.5022636671873","80.310466511194","650.381257815725","13.3008789134603"
+"471","Sanicula rubriflora","genus","herb","0.469642857142857","4.79115042857143","2414","24.7902411584"
+"472","Berberis amurensis","species","shrub",NA,NA,NA,NA
+"473","Schisandra chinensis","species","shrub",NA,NA,NA,NA
+"474","Paeonia lactiflora","species","herb",NA,NA,NA,NA
+"475","Veronicastrum sibiricum","species","herb",NA,"0.07",NA,NA
+"476","Adoxa moschatellina","species",NA,"0.0725","95.315","1903.66666666667","38.45"
+"477","Philadelphus tenuifolius","genus","shrub","2.8125","0.13306525",NA,NA
+"478","Fraxinus chinensis","species","tree",NA,NA,NA,NA
+"479","Fritillaria usuriensis","genus","herb","0.36875","2.81309090909091","1145.625","23.7071428571429"
+"480","Rhamnus davurica","species","shrub",NA,"18.6973585",NA,NA
+"481","Corydalis repens","genus","herb","0.1455","8.5","3654.365","40.3620365586207"
+"482","Serratula coronata","genus","herb","0.511","2.2112","2534.67860827273","17.08730609432"
+"483","Hieracium virosum","genus","herb","0.191034393939394","0.51316364893617","1141.31558499583","26.2407790712074"
+"484","Adenocaulon himalaicum","genus","herb","1","5.4833402",NA,"0.38853094"
+"485","Agrimonia pilosa","species","herb",NA,NA,NA,NA
+"486","Orostachys malacophylla","genus","grass",NA,NA,"456.46547634","21.010854535"
+"487","Eranthis stellata","genus","herb","0.0875",NA,NA,NA
+"488","Gagea nakaiana","species","herb",NA,NA,NA,NA
+"489","Solidago decurrens","species","herb",NA,NA,NA,NA
+"490","Geum aleppicum","species","herb",NA,"1.16775",NA,NA
+"491","Astilbe rubra","genus","herb",NA,"0.04",NA,NA
+"492","Valeriana officinalis","species","herb","0.538666666666667","1.26571428571429","12333","33.8756823777778"
+"493","Hosta japonica","genus","herb",NA,NA,NA,NA
+"494","Isodon excisus","genus","shrub",NA,"0.8",NA,NA
+"495","Linaria vulgaris","species","herb","0.43525","0.140833333333333","105.3945","19.6998957135714"
+"496","Phryma leptostachya","species","herb",NA,NA,NA,NA
+"497","Plagiorhegma dubium","family","shrub","1.45967741935484","18.5955933191489","4240.61713471111","11.7905726779107"
+"498","Hypericum ascyron","species","herb",NA,NA,NA,NA
+"499","Rosa davurica","species","shrub",NA,NA,"157.9731251","12.94430254"
+"500","Gentiana triflora","species","herb",NA,"0.04",NA,NA
+"501","Adenophora triphylla","species",NA,NA,"0.17",NA,NA
+"502","Rhododendron mucronulatum 1","species",NA,NA,NA,NA,NA
+"503","Campanula punctata","species","herb",NA,"0.07",NA,NA
+"504","Dictamnus dasycarpus","genus","herb","0.75","13.4803333333333","9110.25","21.228"
+"505","Aquilegia oxysepala","genus","herb","0.466642857142857","1.096951","9402","21.2310803128571"
+"506","Convallaria keiskei","species","herb",NA,NA,NA,NA
+"507","Corydalis turtschaninovii","species","herb",NA,NA,NA,NA
+"508","Atractylodes lancea","family","herb","0.431684009410609","5.6517617539267","5294.61076271666","21.7654837334319"
+"509","Filipendula palmata","species","herb",NA,NA,NA,NA
+"510","Veratrum maackii","genus","herb","0.93125","2.726","20200","14.3323552148719"
+"511","Lonicera maackii","species","shrub",NA,"3.06320866666667","2306.48128947368","27.9211659210526"
+"512","Lathyrus humilis","genus","herb","0.623764912280702","52.9801130991736","2246.80632713478","30.5856923740973"
+"513","Malus mandshurica","genus","tree","7.46500186219739","31.35698064","2187.4875","16.3444386321"
+"514","Leibnitzia anandria","species","herb",NA,NA,"948.8609904","11.51665391"
+"515","Patrinia scabiosifolia","species","herb",NA,NA,"571.4225","0.0170865"
+"516","Dianthus chinensis","species","herb",NA,"1.565","66.42748151375","11.9143924581"
+"517","Asyneuma japonicum","family","herb","0.277495474036683","0.116844619607843","2230.98800199203","32.5587345904959"
+"518","Lilium distichum","genus","herb","0.791727272727273","4.22131668965517","1708.45010643333","22.2016964358333"
+"519","Gentiana zollingeri","genus","herb","0.211052631578947","0.244420689655172","5219.00984561111","52.7880367979365"
+"520","Aruncus dioicus","species","herb","0.925","0.103333333333333","97204.5","41.694"
+"521","Polemonium caeruleum","species","herb","0.46875","0.996666666666667","1840","37.2666666666667"
+"522","Asparagus schoberioides","species","herb",NA,NA,NA,NA
+"523","Lysimachia davurica","genus","herb","0.593410256410256","0.748445578947368","1277.12513999091","28.4130498119231"
+"524","Verbascum thapsus","species","herb","0.84375","0.0853846153846154","21628.3333333333","16.9182175133333"
+"525","Draba nemorosa","species","herb",NA,"0.0295",NA,NA
+"526","Chosenia arbutifolia","species","shrub",NA,NA,NA,NA
+"527","Chrysosplenium pilosum","species","herb",NA,NA,NA,NA
+"528","Alnus hirsuta","species","tree",NA,"0.729486",NA,"12.7388535"
+"529","Asarum sieboldii","species","herb",NA,NA,NA,NA
+"530","Clematis fusca","species","shrub",NA,NA,NA,NA
+"531","Ulmus davidiana","species","tree",NA,"83.6527905",NA,"12.0481928"
+"532","Lathyrus quinquenervius","species","herb",NA,NA,"679.7755241","25.84300528"
+"533","Actaea simplex","genus","herb","0.486111111111111","8.2230625","21941.25","38.885"
+"534","Leonurus japonicus","species","herb",NA,"1.06","557.785406766667","12.9759420166667"
+"535","Vitis amurensis","species","herb",NA,NA,NA,NA
+"536","Agastache rugosa","species","herb",NA,NA,NA,NA
+"537","Quercus mongolica","species","tree",NA,"1848.98820327273",NA,"6.42376052421466"
+"538","Tripleurospermum inodorum","species","herb","0.6","0.49",NA,NA
+"539","Paris verticillata","species","herb",NA,NA,NA,NA
+"540","Pulsatilla dahurica","genus","herb","0.152142857142857","3.16333333333333","1434.75695254167","10.4791247419429"
+"541","Cardamine leucantha","genus","herb","0.280426829268293","0.480888","2519.20898581579","32.8404168166262"
+"542","Eleutherococcus sessiliflorus","species","shrub",NA,NA,NA,NA
+"543","Corylus heterophylla","species","shrub",NA,NA,NA,"28.571"
+"544","Mentha dahurica","genus","herb","0.429891304347826","0.114923076923077","1001.94341394583","33.0332548388889"
+"545","Iris uniflora","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"546","Sambucus williamsii","species","shrub",NA,NA,NA,NA
+"547","Eleutherococcus senticosus","species","shrub",NA,NA,NA,NA
+"548","Picea obovata","species","tree",NA,NA,NA,NA
+"549","Viola rupestris","species","herb","0.0425",NA,NA,NA
+"550","Rubus sachalinensis","species","shrub",NA,"1.5",NA,NA
+"551","Aconitum septentrionale","species","herb",NA,NA,NA,NA
+"552","Pinus sibirica","species","tree",NA,"218.711646",NA,NA
+"553","Pyrola media","species","herb","0.136875",NA,NA,"20.49180328"
+"554","Pteridium aquilinum","species","herb","1.13571428571429",NA,NA,"17.7984489515385"
+"555","Calamagrostis arundinacea","species",NA,"0.75",NA,"1515.9667072","22.3142153283333"
+"556","Orthilia secunda","species","herb","0.093","0.001","348","16.6473242296667"
+"557","Dryopteris filix mas","species","herb","0.75",NA,"11785.4444444444","24.2"
+"558","Lupinus polyphyllus","species","herb","0.991666666666667","19.851","19200.25","21.4576802505263"
+"559","Gentiana pneumonanthe","species","herb","0.21625","0.07125","121","16.47"
+"560","Dryas octopetala","species","shrub","0.0785","0.515","237.366666666667","8.92684013521184"
+"561","Geranium palustre","species",NA,"0.575",NA,"4514.75","20.47"
+"562","Melilotus albus","species","herb",NA,"2.00716666666667","271.2212443","22.435231685"
+"563","Festuca pratensis","species","grass","0.46075","2.29993630769231","519.269366666667","21.0119052260577"
+"564","Paris quadrifolia","species","herb","0.2","5.3","1325","35"
+"565","Potentilla erecta","species","herb","0.168727272727273","0.3382","148.5","26.2880392462963"
+"566","Stachys officinalis","species","herb","0.358333333333333","11.256","2281.375","20.3295454545455"
+"567","Euonymus verrucosus","species","shrub",NA,"20.0444266666667",NA,NA
+"568","Melilotus officinalis","species","herb","0.796153846153846","2.2708679245283","499.532","19.2539724515789"
+"569","Nymphaea alba","species","herb","0.03",NA,"39342","14.7"
+"570","Polygonum bistorta","species","herb","0.377777777777778",NA,"18021","22.7197855454671"
+"571","Salix fragilis","species","tree","13.3501846153846","0.141165333333333","470","8.71230940310211"
+"572","Genista tinctoria","species","shrub","0.55","7.1475","134.69","18.2152631578947"
+"573","Zabelia corymbosa","genus","shrub",NA,NA,NA,NA
+"574","Allium caesium","genus","herb","0.319227272727273","4.12935778301887","930.730464090938","20.8218291515328"
+"575","Galium aparine","species","herb","0.724702416666667","9.92278709523809","128.94239852","33.0207584241613"
+"576","Brachypodium sylvaticum","species","grass","0.84375","2.62666666666667","2131.81571428571","44.1189473684211"
+"577","Crataegus pseudoheterophylla","genus","tree","6.89393505463183","106.933037042553","592.599255555556","12.8023669304411"
+"578","Arum korolkowii","genus","herb","0.264444444444444","81.7033333333333","10496.6666666667","33.26"
+"579","Corydalis ledebouriana","genus","herb","0.1455","8.5","3654.365","40.3620365586207"
+"580","Inula helenium","species","herb","1.5125","1.187","32501.25","14.59"
+"581","Iris ruthenica","species","herb",NA,NA,NA,NA
+"582","Ferula tenuisecta","genus","herb",NA,"45.35","421.6566618","10.97792626"
+"583","Prunus armeniaca 1","species","tree","3.56","1241.69605466667",NA,NA
+"584","Melissa officinalis","species","herb","0.525","0.311",NA,NA
+"585","Pistacia vera","species","tree",NA,"1176",NA,NA
+"586","Prunus mahaleb","species","tree","6.34949771428571","78.4309958181818","736.073366666667","18.6216636842105"
+"587","Salvia deserta","species","herb",NA,NA,NA,NA
+"588","Betula tianschanica","genus","tree","16.1017922720901","0.47427187755102","1582.36876415094","16.6370602401291"
+"589","Crocus alatavicus","genus","herb","0.09","5.2925",NA,NA
+"590","Celtis caucasica","species","tree",NA,NA,NA,NA
+"591","Malva sylvestris","species","herb","0.590625","5.95","7727.5","22.6871428571429"
+"592","Eremurus robustus","genus","herb",NA,NA,NA,NA
+"593","Festuca valesiaca","species","grass","0.1525",NA,NA,NA
+"594","Picea schrenkiana","species","tree",NA,NA,NA,NA
+"595","Medicago sativa","species","herb","0.162075471698113","2.31467741935484","192.405949442593","23.9190160036232"
+"596","Viola collina","species",NA,"0.08",NA,NA,NA
+"597","Tulipa kaufmanniana","genus","herb","0.3125",NA,NA,NA
+"598","Gagea capusii","genus","herb","0.143863636363636",NA,"331","23.2425"
+"599","Impatiens parviflora","species","herb","0.478125","7.70333333333333","4675","144.089"
+"600","Caragana turkestanica","genus","shrub","3.5","27.9990009333333","345.040653977778","14.7320651725556"
+"601","Hordeum bulbosum","species","herb",NA,"6.99181818181818",NA,NA
+"602","Ligularia thomsonii","genus","herb",NA,NA,"7192.290603","86.1604814722727"
+"603","Crataegus azarolus","species","tree",NA,"339.995714285714",NA,NA
+"604","Berberis integerrima","species",NA,NA,"8.83",NA,NA
+"605","Prangos pabularia","species","herb",NA,"9.4",NA,NA
+"606","Inula grandis","genus","herb","0.385055555555556","0.72475","38351.8563603811","24.4823045983582"
+"607","Ribes janczewskii","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"608","Aconitum sczukinii","genus","herb","0.834090909090909","2.68","8523.9375","22.467460317619"
+"609","Fritillaria maximowiczii","genus","herb","0.36875","2.81309090909091","1145.625","23.7071428571429"
+"610","Prunus maackii","genus","tree","14.2513023955336","550.676476626667","2612.18926344479","15.0525259293345"
+"611","Prunus maximowiczii","species","tree",NA,NA,NA,NA
+"612","Acer tegmentosum","species","tree",NA,NA,NA,NA
+"613","Viola orientalis","genus","herb","0.176635658914729","1.47513279824561","1185.88910714286","29.6743579173125"
+"614","Aralia elata","species","shrub*",NA,"0.75",NA,"2.69323996768112e-05"
+"615","Pseudostellaria rigida","genus","herb",NA,"0.775",NA,NA
+"616","Viola selkirkii","species","herb",NA,"0.61",NA,NA
+"617","Acer caudatum","species","tree",NA,NA,NA,NA
+"618","Pinus koraiensis","species","tree",NA,"557.008979142857",NA,NA
+"619","Clintonia udensis","species","herb",NA,NA,NA,NA
+"620","Lonicera chrysantha","species","shrub",NA,NA,NA,NA
+"621","Spiraea salicifolia","species","shrub","1.3","0.08","947.75","20.283"
+"622","Taraxacum mongolicum","species","grass",NA,NA,"701.50215915","154.5833494725"
+"623","Betula costata","species","tree",NA,NA,NA,NA
+"624","Abies nephrolepis","species","tree",NA,NA,NA,NA
+"625","Actinidia kolomikta","genus","shrub",NA,"1.66333333333333",NA,NA
+"626","Alnus maximowiczii","species","tree",NA,"0.6",NA,NA
+"627","Prunus padus var  pubescens","genus","tree","14.2513023955336","550.676476626667","2612.18926344479","15.0525259293345"
+"628","Viola patrinii","species","herb",NA,NA,NA,NA
+"629","Viola sacchalinensis","genus","herb","0.176635658914729","1.47513279824561","1185.88910714286","29.6743579173125"
+"630","Picea jezoensis","species","tree",NA,"2.881294",NA,NA
+"631","Viburnum lantana","species","shrub","3.4","47.3604108","3869.5","14.6005277302"
+"632","Tanacetum coccineum","species","herb",NA,"1.57",NA,NA
+"633","Elaeagnus commutata","species","shrub","2.75","119.2582065",NA,NA
+"634","Crepis sibirica","genus","herb","0.222390243902439","1.1656736","541.288579710145","30.1097109728785"
+"635","Ribes spicatum","species","shrub","1.3",NA,"2700","27.3129248548352"
+"636","Crepis lyrata","genus","herb","0.222390243902439","1.1656736","541.288579710145","30.1097109728785"
+"637","Lathyrus gmelinii","genus","herb","0.623764912280702","52.9801130991736","2246.80632713478","30.5856923740973"
+"638","Crocus korolkowii","genus","herb","0.09","5.2925",NA,NA
+"639","Crocus sativus","species","herb",NA,NA,NA,NA
+"640","Iris magnifica","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"641","Iris svetlanae","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"642","Moraea sisyrinchium","species","herb",NA,NA,NA,NA
+"643","Iris orchioides","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"644","Iris nicolai","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"645","Iris vicaria","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"646","Iris maracandica","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"647","Iris halophila","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"648","Iris stolonifera","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"649","Sibiraea laevigata","species","shrub",NA,NA,NA,NA
+"650","Trollius altaicus","genus","herb","0.296875","0.973333333333333","5348.33333333333","57.7145126123077"
+"651","Nymphaea candida","species","aquatic","0.03",NA,NA,NA
+"652","Philadelphus coronarius","species","shrub","2.75",NA,NA,NA
+"653","Senecio nemorensis","species","herb","0.95",NA,"9978.25","35.9266666666667"
+"654","Ligularia sibirica","species","herb",NA,NA,NA,NA
+"655","Hypericum maculatum","species","herb","0.4138","0.08","731","24.8872727272727"
+"656","Rhodiola rosea","species","herb","0.2","0.196075","113.99","19.216914455625"
+"657","Gagea fragifera","genus","herb","0.143863636363636",NA,"331","23.2425"
+"658","Crepis paludosa","species","herb","0.45","0.56","2260","37"
+"659","Myosotis sylvatica","species","herb","0.225","0.744666666666667","613.333333333333","29.68"
+"660","Alyssum lenense","species","semi-shrub",NA,NA,"780.97368","31.67352333"
+"661","Krascheninnikovia ceratoides","species","shrub",NA,NA,"325.4662396","13.36058648"
+"662","Valeriana tuberosa","genus","herb","0.489023255813954","1.13505882352941","4003.07","26.7996911631579"
+"663","Gypsophila altissima","genus","herb","0.4225","2.93448275862069","33644.1288888889","13.878"
+"664","Hedysarum grandiflorum","genus","herb","0.175","8.25533333333333","69.10921482","8.89674969847112"
+"665","Caragana frutex","species","shrub",NA,NA,NA,NA
+"666","Dianthus capitatus","genus","herb","0.266666666666667","0.827305555555556","166.844656807333","16.7261552802245"
+"667","Aster alpinus","species","herb","0.065","1.325","605.8002922","142.64105605"
+"668","Galatella villosa","genus","herb",NA,NA,NA,NA
+"669","Pimpinella tragium","species",NA,NA,"1.93",NA,NA
+"670","Linaria genistifolia","species","herb","1.2","0.1903",NA,NA
+"671","Astragalus zingeri","genus","herb","0.276076923076923","5.2889537037037","474.3339196944","28.1775260194242"
+"672","Onosma simplicissima","genus","herb","0.325","10.25",NA,NA
+"673","Iris pumila","species","herb","0.1",NA,NA,NA
+"674","Vincetoxicum hirundinaria","species","herb","0.75","6.75","1513.5","51.8195454545455"
+"675","Clausia aprica","genus","herb",NA,NA,NA,NA
+"676","Potentilla incana","genus","herb","0.232255456066946","0.255844181818182","1524.57054421091","26.0822449489192"
+"677","Echinops ruthenicus","genus","herb","1.075","29.565","2656.53974816","11.4560701658125"
+"678","Prunus tenella","genus","tree","14.2513023955336","550.676476626667","2612.18926344479","15.0525259293345"
+"679","Ephedra distachya","species","shrub",NA,NA,NA,NA
+"680","Taraxacum officinale 1","species","herb","0.2625","0.65024356","3924.07029","22.427206362375"
+"681","Viola praemorsa","species","herb",NA,"3.6",NA,NA
+"682","Delphinium nuttallianum","species","herb","0.49","0.4146962",NA,"11.4142637221"
+"683","Boechera stricta","species","herb",NA,NA,NA,NA
+"684","Androsace septentrionalis 1","species","herb","0.0121428571428571",NA,"27","24.082"
+"685","Lathyrus leucanthus","species",NA,"0.222",NA,NA,NA
+"686","Eriogonum umbellatum","species",NA,NA,"2.013",NA,"10.6247332706"
+"687","Eremogone congesta","species","herb",NA,NA,NA,NA
+"688","Potentilla hippiana","species","herb",NA,NA,NA,NA
+"689","Ipomopsis aggregata","species","herb",NA,"2.071",NA,NA
+"690","Heterotheca villosa","species","herb",NA,NA,NA,"16.3824047411111"
+"691","Erigeron speciosus","species","herb","0.4","0.2",NA,"26.2016243011111"
+"692","Polygonum douglasii","species","herb","0.4","1.38373216666667",NA,NA
+"693","Mahonia repens","species","shrub",NA,NA,NA,"12.0607647425556"
+"694","Eriogonum subalpinum","genus","herb",NA,"0.979333333333333",NA,"10.6247332706"
+"695","Vicia americana","species","herb","0.376269","11.3573483333333",NA,"19.4991045796"
+"696","Hydrophyllum capitatum","species","herb",NA,"11.09",NA,"17.2792849988889"
+"697","Amelanchier alnifolia","species","shrub","11.4008","5.83442572727273",NA,"6.3669123115"
+"698","Potentilla pulcherrima","species","herb",NA,"0.3",NA,NA
+"699","Mertensia fusiformis","species","herb",NA,NA,NA,"26.78059211"
+"700","Senecio integerrimus","species","herb",NA,"0.88575",NA,"14.76881898"
+"701","Helianthella quinquenervis","species","herb","0.259",NA,NA,NA
+"702","Erigeron flagellaris","species","herb",NA,NA,NA,NA
+"703","Amerosedum lanceolatum","species","herb",NA,NA,NA,NA
+"704","Erysimum capitatum","species","herb",NA,"1.044",NA,"0.197922078"
+"705","Castilleja linariifolia","species","herb",NA,"0.143",NA,NA
+"706","Galium septentrionale","species","herb",NA,NA,NA,NA
+"707","Mertensia ciliata","species","herb",NA,"2.99",NA,NA
+"708","Pentaphylloides floribunda","species","shrub",NA,NA,NA,"6.57717774466667"
+"709","Dugaldia hoopesii","family","herb","0.431684009410609","5.6517617539267","5294.61076271666","21.7654837334319"
+"710","Anticlea elegans","family","herb","0.5225","9.18506060606061","15175","17.5570628718584"
+"711","Erigeron coulteri","species","herb",NA,NA,NA,NA
+"712","Solidago multiradiata","genus","herb","0.858184615384615","0.199257986111111","22826.8781578947","14.3532892571831"
+"713","Aconitum columbianum","species","herb",NA,"1.94",NA,NA
+"714","Ligusticum porteri","species","herb",NA,"4.85",NA,NA
+"715","Pseudocymopterus montanus","species","herb",NA,NA,NA,NA
+"716","Aquilegia coerulea","species","herb",NA,NA,NA,"19.0779549955556"
+"717","Castilleja sulphurea","species","herb",NA,NA,NA,NA
+"718","Erythronium grandiflorum","species","herb",NA,"4.316",NA,"17.9276180866667"
+"719","Valeriana occidentalis","species","herb",NA,NA,NA,"19.8041091244444"
+"720","Ranunculus inamoenus","species","herb",NA,NA,NA,NA
+"721","Draba aurea","species","herb",NA,NA,NA,NA
+"722","Hydrophyllum fendleri","species","herb",NA,NA,NA,NA
+"723","Descurainia incana","species","herb",NA,"0.108",NA,NA
+"724","Tolmachevia integrifolia","family","herb","0.116611570247934","0.0531575616438356","342.284184359375","19.8482143445902"
+"725","Geranium richardsonii","species","herb",NA,NA,NA,"21.0614053122222"
+"726","Delphinium barbeyi","species","herb",NA,NA,NA,NA
+"727","Pyrrocoma crocea","species","herb",NA,NA,NA,NA
+"728","Ligularia bigelovii","genus","herb",NA,NA,"7192.290603","86.1604814722727"
+"729","Thalictrum fendleri","species","herb","0.207","0.9425",NA,"21.98708463"
+"730","Pneumonanthe parryi","genus","herb",NA,NA,NA,NA
+"731","Cardamine cordifolia","species","herb",NA,NA,NA,NA
+"732","Heracleum sphondylium","species","herb","1.35625","7.7147","81950.6666666667","21.473155992"
+"733","Campanula rotundifolia 1","species","herb","0.247489714285714","0.0559543333333333","72.3927794871795","26.5471190322581"
+"734","Lomatium dissectum","species","herb",NA,NA,NA,NA
+"735","Paxistima myrsinites","species","shrub","1",NA,NA,"6.45177650133333"
+"736","Calochortus gunnisonii","species","herb",NA,NA,NA,NA
+"737","Claytonia lanceolata","species","herb",NA,NA,NA,NA
+"738","Dodecatheon pulchellum","species","herb",NA,"0.31227",NA,NA
+"739","Maianthemum stellatum","species","herb",NA,NA,NA,NA
+"740","Valeriana edulis","species","herb",NA,NA,NA,"12.75923682"
+"741","Noccaea fendleri","species","herb",NA,NA,NA,NA
+"742","Cirsium sp ","genus","herb","0.751348945355738","3.54768194382022","5529.37802954545","17.8174975036327"
+"743","Symphyotrichum foliaceum","species","herb",NA,NA,NA,NA
+"744","Fragaria virginiana","species","herb","0.15","0.48192125",NA,"17.3763455411111"
+"745","Adenolinum lewisii","genus","herb",NA,NA,NA,NA
+"746","Achillea millefolium 1","species","herb","0.121964990991892","0.186194810810811","3326.88430700323","15.1051027596197"
+"747","Lupinus bakeri","species","herb",NA,NA,NA,"13.0002120022222"
+"748","Collomia linearis","species","herb",NA,"1.02525",NA,NA
+"749","Carex sp ","genus","herb","0.319576172207928","1.40299076485788","1307.71327729413","19.9539276040933"
+"750","Oligosporus dracunculus","family","herb","0.431684009410609","5.6517617539267","5294.61076271666","21.7654837334319"
+"751","Seriphidium tridentata","genus","herb","1.2","0.218",NA,NA
+"752","Heliomeris multiflora","species","herb",NA,NA,NA,NA
+"753","Agoseris glauca","species","herb",NA,NA,NA,NA
+"754","Bromelica spectabilis","not found","NA",NA,NA,NA,NA
+"755","Poa pratensis 1","species","grass","0.345505428571429","0.284569027027027","1010.462675","27.1786523841732"
+"756","Carex geyeri","species","herb",NA,NA,NA,NA
+"757","Poa tracyi","species","herb",NA,NA,NA,NA
+"758","Polygonum aviculare","species","herb","0.7525","1.205247","166.3690009775","26.9909661179167"
+"759","Bromopsis inermis","genus","herb",NA,NA,NA,NA
+"760","Festuca thurberi","species","herb",NA,NA,NA,NA
+"761","Achnatherum lettermanii","species","herb",NA,NA,NA,NA
+"762","Antennaria pulcherrima","species","herb",NA,NA,NA,NA
+"763","Bromopsis pumpelliana","genus","herb",NA,NA,NA,NA
+"764","Elymus trachycaulus","species","herb","1.2","3.60299711111111",NA,NA
+"765","Trisetum spicatum","species","grass","0.075","0.379",NA,NA
+"766","Lupinus argenteus","species","herb","0.218","0.9274",NA,NA
+"767","Osmorhiza occidentalis","species","herb",NA,"11.397",NA,"27.2412905277778"
+"768","Limnorchis hyperborea","genus","herb",NA,NA,NA,NA
+"769","Stellaria longifolia","species","herb","0.15",NA,"5.872337927","19.13626402"
+"770","Oxypolis fendleri","species","herb",NA,NA,NA,NA
+"771","Gentianopsis thermalis","species","herb",NA,NA,NA,NA
+"772","Swertia perennis","species","herb","0.26",NA,NA,NA
+"773","Acer campestre","species","tree","13.1394736842105","110.945321529412","4741.5","12.8478128282563"
+"774","Acer platanoides 1","species","tree","15.6747082251082","156.68577025","5748.38","15.3094840467304"
+"775","Acer pseudoplatanus","species","tree","16.100989010989","93.3927255384615","8365.18","14.6957418110658"
+"776","Achillea millefolium 2","species","herb","0.121964990991892","0.186194810810811","3326.88430700323","15.1051027596197"
+"777","Achillea ptarmica","species","herb","0.775","0.22","119","17.2996781732727"
+"778","Adoxa moschatellina 1","species",NA,"0.0725","95.315","1903.66666666667","38.45"
+"779","Aegopodium podagraria 1","species","herb","0.578125","2.3615","13500.242","27.8824242421053"
+"780","Aesculus hippocastanum 1","species","tree","23.8","13737.6212314286","6528.7","10.960002739726"
+"781","Aethusa cynapium","species","herb","0.490625","1.35","3207.7575","33.31"
+"782","Agrimonia eupatoria","species","herb","0.313560606060909","7.6941","8461","18.69215021375"
+"783","Ajuga reptans","species","herb","0.152125","1.47","556","33.30081319"
+"784","Alliaria petiolata 1","species","herb","0.561111111111111","2.70525","7514","47.0135"
+"785","Alnus glutinosa 1","species","tree","11.6695759036145","1.84827819047619","3146.725","14.9289468413254"
+"786","Alopecurus geniculatus","species","grass","0.2125","0.2768","260.25","28.9329686153846"
+"787","Alopecurus myosuroides","species","herb","0.3","1.52","949.463333333333","27.2666666666667"
+"788","Alopecurus pratensis 1","species","grass","0.349456392857143","0.773486486486486","919.011470588235","38.3285878613953"
+"789","Anacamptis pyramidalis","species","herb","0.3",NA,"1190","49.8057142857143"
+"790","Anagallis arvensis","species","herb","0.161208769230769","0.507238578947368","72.3961","29.59983"
+"791","Anisantha sterilis","family","grass","0.322189894555209","8.83950650765223","2208.85914033074","26.4647006141925"
+"792","Anthoxanthum odoratum 1","species","grass","0.2286494375","0.558760862068965","528.919762162162","34.1511530956164"
+"793","Anthriscus sylvestris 1","species","herb","0.833333333333333","3.83123076923077","22864","30.4975107352381"
+"794","Antirrhinum majus","species","herb","0.440625","0.146","303","17.2"
+"795","Arabidopsis thaliana","species","herb","0.205","19.7887706530612","268.3546","32.8651585714286"
+"796","Arctium lappa","species","herb","0.852962962966667","9.96833333333333","25226.8333333333","17.4017445605882"
+"797","Arctium minus","species","herb","1.12","8.71027777777778","117000","24.0666666666667"
+"798","Armoracia rusticana","species","herb","0.95",NA,"72418.3333333333","18.34"
+"799","Arrhenatherum elatius 1","species","herb","1.04941666666667","2.87263636363636","1397.9225","30.2525991922669"
+"800","Artemisia vulgaris 1","species","herb","1.35","0.1665","3914.42633333333","24.122352942"
+"801","Asperula cynanchica","species","herb","0.2625",NA,"17.5","27.672"
+"802","Aster novi belgii","genus","herb","0.648125","0.436681818181818","383.0896708","61.9684172691176"
+"803","Atriplex prostrata","species","herb","0.885714285714286","5.991974","2638.006","20.9269011111111"
+"804","Atropa bella donna","species",NA,NA,NA,"8258.625",NA
+"805","Avena fatua","species","herb","0.7625","9.35659333333333","4630.99184615385","31.4908931477715"
+"806","Avena sativa","species","herb","0.90025","33.6200909090909","5793.12916666667","32.2553279913821"
+"807","Ballota nigra","species","herb","0.625","0.9286","717","21.25"
+"808","Barbarea vulgaris 1","species","herb","0.558333333333333","0.644697875","14571.6765925926","26.448976"
+"809","Betula pendula 1","species","tree","13.5256842105263","0.421202181818182","1069.48","15.1445311045607"
+"810","Brachypodium pinnatum","species","grass","0.445111111111111","2.49","752.616923076923","24.3524917424242"
+"811","Brachypodium sylvaticum 1","species","grass","0.84375","2.62666666666667","2131.81571428571","44.1189473684211"
+"812","Brassica rapa","species","herb","0.5585","1.98618023076923","3298.79225","25.8631994117647"
+"813","Briza media 1","species","herb","0.0912058823529412","0.328888888888889","5304.30710364516","21.4423303152"
+"814","Bromus erectus","species","grass","0.486333333333333","3.96516666666667","351.725529075","17.1183950355102"
+"815","Bromus hordeaceus","species","grass","0.136945598425197","2.64598094117647","80.2235683333333","31.110411268302"
+"816","Bryonia dioica","species","herb",NA,"11.4",NA,NA
+"817","Buddleja davidii","species","shrub","2.27777777777778","0.1","3148.7625","15.5127283936778"
+"818","Calluna vulgaris 1","species","shrub","0.779285714285714","0.0356363636363636","0.98","11.2354173508484"
+"819","Caltha palustris 1","species","herb","0.2625","1.1025","11383.0760675","40.0352288608696"
+"820","Calystegia sepium","species","dependant","1.48181818181818","25.5616666666667","3208","36.8815384615385"
+"821","Calystegia silvatica","species","dependant","2",NA,"3092","23.1"
+"822","Campanula glomerata 1","species","herb","0.19125","0.128","916","24.3817567575"
+"823","Campanula trachelium","species","herb","0.6","0.21","3601","39"
+"824","Cardamine hirsuta","species","herb","0.1595","0.112287714285714","333.256175","27.7555676923077"
+"825","Cardamine pratensis","species","herb","0.327857142857143","0.6","1027","22.993097899"
+"826","Carduus acanthoides","species","herb","0.65","2.49","6264.75","20.2214285714286"
+"827","Carduus nutans","species","herb","0.6","2.53","4599","17.05"
+"828","Carex acutiformis","species","herb","0.667333333333333","1.11","7035","16.45506966"
+"829","Carex caryophyllea","species","herb","0.121666666666667","0.879625","387.5","20.63559724"
+"830","Carex disticha","species","herb","0.425",NA,NA,"14.46"
+"831","Carex hirta","species","herb","0.45","2.41","1718.5625","17.9362895106667"
+"832","Carex panicea","species","herb","0.2625","2.35","611","21.225"
+"833","Carex paniculata","species","herb","0.525","0.87","4053.5","15.5118181818182"
+"834","Carex sylvatica","species","herb","0.425","1.54","677","30.9"
+"835","Carlina vulgaris","species","herb","0.09334375","1.44345454545455","6490.2749072069","18.6202157354054"
+"836","Carpinus betulus 1","species","tree","10.5819047619048","43.0352868333333","2268.52","18.3502673"
+"837","Centaurea nigra","species","herb","0.46875","2.43444444444444","3440","25.2104347826087"
+"838","Centaurea scabiosa 1","species","herb","0.396850838709677","5.9216875","4903.85903225806","19.6309122222222"
+"839","Cephalanthera damasonium","species","herb","0.35",NA,"1607.25","30.995"
+"840","Cerastium fontanum","species","herb","0.355158512820513","0.140399","169.360840105714","38.2619179185455"
+"841","Cerastium glomeratum","species","herb","0.2185","0.0539226666666667","181.5137","22.4277333333333"
+"842","Cerastium tomentosum","species","herb","0.661205128205128","0.51785","1538.69124490303","33.62203"
+"843","Chaerophyllum temulentum","genus","herb","0.6682","3.605875","16767.1825","23.685"
+"844","Chamaenerion angustifolium","species","herb",NA,"0.245",NA,NA
+"845","Chelidonium majus 1","species","herb","0.4875","0.753333333333333","9226","44.8854545454545"
+"846","Chenopodium album","species","herb","1.41235294117647","0.703453780487805","1029.24925818857","22.8641729198214"
+"847","Chrysosplenium oppositifolium","species","herb","0.1","0.06","148.5","23.35"
+"848","Cicerbita macrophylla","genus","herb","0.6",NA,NA,NA
+"849","Cichorium intybus 1","species","herb","0.40631","1.1295","10507.05","23.9388846058333"
+"850","Circaea lutetiana","species","herb","0.3775","2.68014285714286","2643","36.7"
+"851","Cirsium acaule","species","herb","0.11733333334","4.19","2241.8125","12.2114898948261"
+"852","Cirsium arvense 1","species","herb","0.780030272727273","1.24347022727273","3758.32333333333","15.3333392966667"
+"853","Cirsium dissectum","species","herb","0.45","2.37","3131.33333333333","18.4553846153846"
+"854","Cirsium eriophorum","species",NA,"1.3","11.6","10538","13.35"
+"855","Cirsium vulgare","species","herb","0.895469428571429","2.60755653333333","9856.8862","14.7780548465484"
+"856","Clematis vitalba","species","dependant","20","2.13408654545455","5633","23.63"
+"857","Clinopodium vulgare","species","herb","0.419444444444444","0.3547","1055","23.6"
+"858","Coeloglossum viride","species","herb","0.11",NA,"422","21.75"
+"859","Conium maculatum","species","herb","1.89","2.97488461538462","54419.815","24.0155555555556"
+"860","Conopodium majus","species","herb","0.274444444444444","2.7325","446","22.5"
+"861","Convolvulus arvensis 1","species","herb","0.207454545454545","18.3766666666667","465.974779327586","28.7391532318519"
+"862","Conyza canadensis","species","herb","0.6059","0.0463","660","20.558053734"
+"863","Cornus sanguinea 1","species","shrub","2.53970588235294","67.8816666666667","1240.3","14.7019489020308"
+"864","Corylus avellana 1","species","tree","4.14457575757576","1096.23131416667","3272.17142857143","19.4326653124865"
+"865","Crepis biennis","species","herb","0.575",NA,"6087.5","24.2866884057971"
+"866","Crepis capillaris","species","herb","0.174422222222222","0.227644","299.065692307692","42.2164184"
+"867","Crepis vesicaria","species","herb","0.253166666666667","0.327","315.426923076923","28.6279189189189"
+"868","Cymbalaria muralis","species","herb","0.25","0.13","875.5","24.8666666666667"
+"869","Cynosurus cristatus","species","grass","0.433525272727273","0.493052923076923","348.136025","22.9468112889474"
+"870","Dactylorhiza fuchsii","species","herb",NA,NA,"3188.5","23.2"
+"871","Dactylorhiza incarnata 1","species","herb","0.43",NA,"2540.625","20.565"
+"872","Dactylorhiza praetermissa","genus","herb","0.201764705882353",NA,"2090.67636363636","24.5296428571429"
+"873","Daphne laureola","species","herb","0.827272727272727",NA,"1521.78","9.235698"
+"874","Daphne mezereum 1","species","shrub","0.85","90.6666666666667","392.08","23.1324974086894"
+"875","Daucus carota","species","herb","0.450307692307692","1.12313698630137","1920.279598","23.0545981708824"
+"876","Deschampsia cespitosa 1","species","herb","0.223133333333333","0.25475","4105.06173218182","17.2273219146444"
+"877","Deschampsia flexuosa","species","grass","0.109583333333333","0.528333333333333","40.575","17.266064516129"
+"878","Digitalis purpurea","species","herb","0.8573469","0.08917315","32158.6533333333","17.5768771428571"
+"879","Dryopteris dilatata","species","herb","0.6",NA,"46655","20.9666666666667"
+"880","Dryopteris filix mas 1","species","herb","0.75",NA,"11785.4444444444","24.2"
+"881","Elymus caninus","species","herb","0.805","2.63","1156.5","27.85"
+"882","Elytrigia repens","species","grass","1","2.14525",NA,"18.1104843666667"
+"883","Epilobium ciliatum","species","herb","0.855","0.09148375","817.87586","41.8736641666667"
+"884","Epilobium hirsutum","species","herb","1.02145454545455","0.101333333333333","2833","26.2435548666667"
+"885","Epilobium montanum","species","herb","0.394444444444444","0.123333333333333","2187","30.2529166666667"
+"886","Epilobium parviflorum","species","herb","0.466666666666667","0.08","10738.0081481481","29.775"
+"887","Epipactis helleborine","species","herb","1","0.002634","2502.61475","28.0505835"
+"888","Epipactis purpurata","species","herb","0.19",NA,NA,NA
+"889","Equisetum arvense","species","herb","0.2714516",NA,"326.701609","10.8995626385993"
+"890","Equisetum palustre","species","herb","0.3",NA,NA,"7.794"
+"891","Equisetum telmateia","species","herb","1.3125",NA,"49.72","16.1849666666667"
+"892","Erigeron acer","species","herb","0.34375","0.084","368.333333333333","18.964285715"
+"893","Erysimum cheiri","species","herb","0.303125","1.43","411","11.6"
+"894","Euonymus europaeus","species","shrub","3.36315789473684","34.3068753846154","1103.625","11.9097622955523"
+"895","Eupatorium cannabinum","species","herb","1","0.325","6438.5","31.0607692307692"
+"896","Euphorbia amygdaloides","species","herb","0.356666666666667","2.25","312.75","24.212"
+"897","Euphorbia exigua","species","herb","0.126875","0.33","28","26.1"
+"898","Euphorbia helioscopia","species","herb","0.2125","2.47","457","33.8333333333333"
+"899","Fagus sylvatica 1","species","tree","23.9347058823529","246.218081555556","2027.68","15.1312086914368"
+"900","Fallopia convolvulus","species","dependant","0.695833333333333","3.42","602.666666666667","23.875"
+"901","Fallopia japonica","species","herb",NA,"0.61",NA,NA
+"902","Festuca arundinacea","species","herb","0.95","2.29690520833333","1201.65660338462","25.2987842171353"
+"903","Festuca gigantea","species","grass","1.10625","3.12","3341","28.7333333333333"
+"904","Festuca pratensis 1","species","grass","0.46075","2.29993630769231","519.269366666667","21.0119052260577"
+"905","Festuca rubra","species","grass","0.17227027027027","0.952318216216216","1285.04099207353","11.4091191338158"
+"906","Filipendula ulmaria 1","species","herb","0.858333333333333","0.576","10234.5","22.6656623494118"
+"907","Filipendula vulgaris 1","species","herb","0.0889705882352941","0.778545454545455","1322.91716418889","23.0661035194118"
+"908","Fumaria officinalis","species","herb","0.52","3.212","266","28.538008658"
+"909","Galanthus nivalis 1","species","herb","0.14","6.546","1403.5","28.61"
+"910","Galega officinalis","species","herb","0.9","6.992","8986","44.331"
+"911","Galeopsis tetrahit","species","herb","0.45","4.43","2390","32.6177777777778"
+"912","Galium aparine 1","species","herb","0.724702416666667","9.92278709523809","128.94239852","33.0207584241613"
+"913","Galium odoratum 1","species","herb","0.225","5.35","361","61.5157142857143"
+"914","Galium saxatile","species","herb","0.122777777777778","0.616666666666667","5","24.2"
+"915","Galium uliginosum","species","herb","0.2875","0.35","13","37.0542105263158"
+"916","Gentianella amarella","species","herb","0.171875","0.1625","3497","28"
+"917","Gentianella germanica","species","herb","0.1675","0.17",NA,"12.8333333333333"
+"918","Geranium dissectum","species","herb","0.276666666666667","2.21200926666667","1071.49525","22.09254492"
+"919","Geranium phaeum","species","herb","0.403125","4.5","10610","35.709"
+"920","Geranium pyrenaicum","species","herb","0.390625","1.645","4880","28.3785714285714"
+"921","Geranium robertianum 1","species","herb","0.27012125","1.00235255555556","1215.60225","36.6050986026087"
+"922","Geranium rotundifolium","species","herb","0.184375","1.39",NA,NA
+"923","Geum urbanum","species","herb","0.352272727272727","1.75013333333333","3441","36.0021288313636"
+"924","Glechoma hederacea 1","species","herb","0.2425","0.69","882","35.1604444414286"
+"925","Glyceria fluitans","species","grass","0.451","1.2","1118.58333333333","33.2447897638462"
+"926","Glyceria maxima","species","aquatic*","1.475","0.74","9863","19.7880899525"
+"927","Gymnadenia conopsea","species","herb","0.3","0.008","1537.5","18.7518181818182"
+"928","Hedera helix","species","dependant","12.57559525","23.27036375","1698.9483","11.850317826087"
+"929","Helianthemum nummularium","species","shrub","0.159333333333333","0.8809375","70.42","14.8244943845887"
+"930","Helictotrichon pratense","species","herb","0.454","2.08","932","9.75505317811765"
+"931","Helictotrichon pubescens","species","grass",NA,"1.55425",NA,NA
+"932","Helleborus viridis","species","herb","0.265625",NA,"27262","11.2"
+"933","Heracleum sphondylium 1","species","herb","1.35625","7.7147","81950.6666666667","21.473155992"
+"934","Hesperis matronalis","species","herb","0.420416666666667","2.645","2467.995","36.9142857142857"
+"935","Hieracium sabaudum","species","herb","0.8","0.39","1637","45.552"
+"936","Hordeum murinum","species","herb","0.21810101010101","4.9154122","123.21940989011","34.5421954368932"
+"937","Hordeum secalinum","species","herb","0.325",NA,"473","33.2666666666667"
+"938","Hordeum vulgare","species","herb","0.655354444444444","44.3186666666667","1494.55315789474","32.5690666666667"
+"939","Hyacinthoides sp ","genus","herb","0.2175","5.76375","3881","22.9714285714286"
+"940","Hypericum hirsutum","species","herb","0.608333333333333","0.0768","370.5","27.2"
+"941","Hypericum perforatum 1","species","herb","0.472923076923077","0.1441903","129.0092","29.3162470751429"
+"942","Hypericum pulchrum","species","herb","0.371875","0.0866666666666667","96","17.6"
+"943","Hypericum tetrapterum","species","herb","0.390625","0.055","223","36.1"
+"944","Hypochaeris radicata","species","NA","0.3262","0.804389210526316","1264.612","22.3831801463333"
+"945","Ilex aquifolium","species","tree","11.7487684827586","38.6608245454545","1611.5628","6.27795538550501"
+"946","Impatiens glandulifera","species","herb","1.44444444444444","9.37","11910","38.3"
+"947","Impatiens parviflora 1","species","herb","0.478125","7.70333333333333","4675","144.089"
+"948","Inula conyzae","species","herb",NA,NA,NA,NA
+"949","Iris pseudacorus 1","species","aquatic*","0.75","51.335","20873.75","14.9235714285714"
+"950","Juncus effusus","species","herb","0.796701285714286","0.02042","3559.5965","9.21830191226316"
+"951","Juncus inflexus","species","herb","0.3388","0.0266666666666667","2219.25","4.34110675358333"
+"952","Juncus subnodulosus","species","grass","0.725","0.01","2080","6.6"
+"953","Knautia arvensis 1","species","herb","0.4069","3.050875","2871.33333333333","20.2207203968966"
+"954","Koeleria macrantha","species","grass","0.0978","0.515597571428571","454","20.7488268911375"
+"955","Lactuca serriola","species","herb","0.500336795454545","0.488005388888889","4604.8123255814","36.0712706910909"
+"956","Lamiastrum galeobdolon","species","herb","0.3875","1.84","1564","25.35"
+"957","Lamium album","species","herb","0.313090909090909","1.775","1970.514","35.809447676129"
+"958","Lapsana communis","species","herb","0.507472571428571","0.826067142857143","4936.01033333333","44.9232892607143"
+"959","Larix decidua 1","species","tree","27.1093218818381","6.62183514285714","20.24","12.3225433239096"
+"960","Lathyrus latifolius","species","herb","2","45.95","7017","18.7"
+"961","Lathyrus pratensis 1","species","herb","0.548636363636364","11.3875","158.333333333333","35.7433705855263"
+"962","Leontodon autumnalis","species","herb","0.105714285714286","0.673875","300.03","26.2400696987805"
+"963","Leontodon hispidus 1","species","herb","0.0632303921558824","1.2038","4359.49954851818","24.2823352773333"
+"964","Lepidium draba","species",NA,NA,"1.84216666666667",NA,NA
+"965","Leucanthemum vulgare 1","species","herb","0.34590625","0.495","549.90691255","17.9973690703125"
+"966","Ligustrum vulgare","species","shrub","3.46428571428571","21.1269478333333","626.9","10.9346673326673"
+"967","Linaria repens","species","herb","0.39375",NA,"200.5","27.562"
+"968","Linaria vulgaris 1","species","herb","0.43525","0.140833333333333","105.3945","19.6998957135714"
+"969","Linum catharticum","species","herb","0.127777777777778","0.150358923076923","26.6166666666667","32.8992"
+"970","Listera ovata","species","herb","0.14",NA,"3720.66666666667","33.4977777777778"
+"971","Lonicera periclymenum","species","dependant","4.0625","5.23866666666667","803.9","14.2"
+"972","Lotus corniculatus","species","herb","0.165488888888889","1.21033653731343","57394.8433302258","22.0211194113235"
+"973","Lotus pedunculatus","species","herb","0.341666666666667","0.599","511","25.936472"
+"974","Lunaria annua","species","herb","0.45","15.3714285714286","7897.83333333333","38.232"
+"975","Luzula campestris","species","herb","0.18958333333375","0.631444444444444","73","24.3901697261538"
+"976","Luzula pilosa 1","species","herb","0.1875","1.02333333333333","664","25.1"
+"977","Lychnis flos cuculi","species",NA,"0.118242424242424","0.21","28094.1663875172","24.7872776382979"
+"978","Lycopus europaeus","species","herb","0.6","0.291666666666667","1814.75","63.076"
+"979","Lythrum salicaria 1","species","herb","0.6084","0.034","1742.375","24.204154135"
+"980","Mahonia aquifolium","species","shrub","1.1875","15","10868","8.975"
+"981","Malus domestica","species","tree","4.48785714285714","26.9733333333333","1620","17.2265374665978"
+"982","Malva moschata","species","herb","0.43125",NA,"3094.66666666667","20.0333333333333"
+"983","Malva sylvestris 1","species","herb","0.590625","5.95","7727.5","22.6871428571429"
+"984","Matricaria discoidea","species","herb","0.175",NA,"356","23.325"
+"985","Matricaria recutita","species","herb",NA,"0.0436",NA,NA
+"986","Medicago lupulina","species","herb","0.0968755","1.51371428571429","80075.6449497155","24.7332256414062"
+"987","Melica uniflora","species","herb","0.41875","2.76333333333333",NA,"39.6"
+"988","Melilotus altissimus","species","herb","0.9","3.9715","270","15.65"
+"989","Melilotus officinalis 1","species","herb","0.796153846153846","2.2708679245283","499.532","19.2539724515789"
+"990","Mentha aquatica","species","herb","0.466666666666667","0.12","1722.4375","29.3932"
+"991","Mentha arvensis","species","herb","0.305555555555556","0.174666666666667","604.251428571429","43.8026923076923"
+"992","Mercurialis perennis","species","herb","0.244444444444444","5.82333333333333","1890.5","25.6833333333333"
+"993","Milium effusum","species","grass","0.76875","0.6985","1621.5","33.35"
+"994","Moehringia trinervia","species","herb","0.180555555555556","0.145333333333333","81.3333333333333","36.1"
+"995","Mycelis muralis","species","herb","0.625","0.31",NA,"52.1570779314286"
+"996","Myosotis arvensis","species","herb","0.229204545454545","0.512625","759.5","28.6365778375"
+"997","Myosotis scorpioides","species","herb","0.311666666666667","0.305","1086.0625","47.8561058657143"
+"998","Myosotis sylvatica 1","species","herb","0.225","0.744666666666667","613.333333333333","29.68"
+"999","Neottia nidus avis","species","herb",NA,"0.008",NA,NA
+"1000","Odontites verna","species","herb","0.275","0.21","155","21.0837142857143"
+"1001","Onobrychis viciifolia","species","herb","0.296875","19.710625","3134.4375","22.7990949375"
+"1002","Ononis repens","species","herb","0.4125",NA,"127.255875","23.18"
+"1003","Ophrys apifera","species","herb","0.15",NA,"612.5","19.6666666666667"
+"1004","Origanum vulgare 1","species","herb","0.409090909090909","0.109777777777778","511","22.935594005"
+"1005","Oxalis acetosella 1","species","herb","0.0925","1.47333333333333","806","67.7885714285714"
+"1006","Papaver dubium","species","herb","0.454615384615385","0.121","4627","23.9857142857143"
+"1007","Papaver rhoeas","species","herb","0.400833333333333","0.240615384615385","4986.5","33.07"
+"1008","Papaver somniferum","species","herb","0.7","0.32","10398","38.23"
+"1009","Pastinaca sativa","species","herb","0.628363636363636","3.2175","14914.5","28.0174880625"
+"1010","Pentaglottis sempervirens","species","herb","0.51",NA,"23740","25.302"
+"1011","Persicaria lapathifolia","species","herb",NA,"1.86",NA,NA
+"1012","Persicaria maculosa","species","herb","1.11329166666667","2.186","1575.47413793103","28.6402360869565"
+"1013","Petasites hybridus","species","herb","0.63125","0.222","139875","22.04"
+"1014","Phleum bertolonii","species","grass",NA,"0.27",NA,NA
+"1015","Phleum pratense 1","species","grass","0.312243243243243","0.378785714285714","4295.61193897561","23.682393905122"
+"1016","Phragmites australis","species","grass","2.1386","1.26714285714286","4521.39466625","15.02978236832"
+"1017","Picris hieracioides 1","species","NA","0.584861111108333","0.939333333333333","2314.23611116667","23.7842689103846"
+"1018","Pilosella officinarum","species","herb","0.0206428571428571","0.19","4977.53514875","14.4839690928571"
+"1019","Plantago lanceolata 1","species","herb","0.2055435","1.5269752195122","1975.2666875","19.2313444539735"
+"1020","Plantago major 1","species","herb","0.253048407411111","0.192904526315789","8045.099725","21.7863851375926"
+"1021","Plantago media","species","herb","0.1877","0.298428571428571","4827.66666666667","18.084215324"
+"1022","Poa angustifolia 1","species","herb","0.36","0.11","400.4040302","15.55"
+"1023","Poa nemoralis 1","species","herb","0.625","0.251764705882353","536.5","49.9"
+"1024","Poa pratensis 2","species","grass","0.345505428571429","0.284569027027027","1010.462675","27.1786523841732"
+"1025","Poa trivialis","species","grass","0.3117125","0.154926923076923","201.009625","30.931112458"
+"1026","Polygala calcarea","species",NA,"0.0875",NA,NA,NA
+"1027","Polygala serpyllifolia","species","herb","0.165",NA,"27.7333333333333","28.2092857142857"
+"1028","Polygala vulgaris","species","herb","0.0611111111111111","1.848","53.5425","20.154955488125"
+"1029","Polygonum aviculare 1","species","herb","0.7525","1.205247","166.3690009775","26.9909661179167"
+"1030","Populus canescens","species","tree",NA,NA,NA,NA
+"1031","Populus nigra 1","species","tree","18.3700394366197","55.5181004784689","2784.625","11.0753846153846"
+"1032","Populus tremula 1","species","tree","2.73138593443038","0.11483625","337.459046513736","13.662270417109"
+"1033","Potentilla anserina","species","herb","0.157222222222222","0.897798142857143","4611.63105916667","44.1808173146341"
+"1034","Potentilla erecta 1","species","herb","0.168727272727273","0.3382","148.5","26.2880392462963"
+"1035","Potentilla reptans","species","herb","0.365625","0.278888888888889","2176.5","25.5120197681481"
+"1036","Potentilla sterilis","species","herb","0.0761111111111111","0.56","518","24.6"
+"1037","Primula veris 1","species","herb","0.155555555555556","0.8496","4080.66666666667","19.1466666666667"
+"1038","Primula vulgaris","species","herb","0.115","0.9158","6409","28.6"
+"1039","Prunella vulgaris 1","species","herb","0.157670307692308","0.963407676470588","673.2065","29.0513089351181"
+"1040","Prunus avium 1","species","tree","14.5529384883721","184.452624615385","2687.4002","13.0970642637927"
+"1041","Prunus cerasifera 1","species","tree","7.114","468.017193142857",NA,"10.8005"
+"1042","Prunus spinosa 1","species","shrub","2.308","199.474305176471","444.175","13.6342957207919"
+"1043","Pseudofumaria lutea","species",NA,"0.1875",NA,"1098","23.5"
+"1044","Pteridium aquilinum 1","species","herb","1.13571428571429",NA,NA,"17.7984489515385"
+"1045","Pulicaria dysenterica","species","herb","0.45",NA,"1199.5","30.55"
+"1046","Pyrus communis 2","species","tree","6.67870909090909","32.1818618181818",NA,"7.007047938"
+"1047","Ranunculus acris 1","species","herb","0.278068181818182","1.42876923076923","620.705161290323","22.0026951640426"
+"1048","Ranunculus auricomus 1","species","herb","0.19",NA,"1276.5","31.9333333333333"
+"1049","Ranunculus bulbosus","species","herb","0.23125","2.566","1081.33333333333","18.939214286"
+"1050","Ranunculus ficaria","species","herb","0.127777777777778","5","673","31.7875"
+"1051","Ranunculus repens 1","species","herb","0.253909090909091","2.3","3593.55555555556","23.6490374169643"
+"1052","Reseda lutea","species","herb","0.375","0.83875","1090","17.9333333333333"
+"1053","Reseda luteola","species","herb","0.708333333333333","0.236","1097.125","20.2027272727273"
+"1054","Rhamnus cathartica 1","species","shrub","5.44948571428571","29.1554784","1747.06","13.8588628183771"
+"1055","Rhinanthus minor","species","herb","0.39375","2.00985714285714","360.333333333333","20.0238144945455"
+"1056","Ribes nigrum 1","species","shrub","1.35909090909091",NA,"3757.35","16.02877519496"
+"1057","Ribes rubrum 1","species","shrub","1.37",NA,"5107.5","29.1139777029877"
+"1058","Ribes uva crispa 1","species","shrub","0.69",NA,"902.34","23.2087899544025"
+"1059","Rorippa amphibia","species","herb","0.653125","0.103333333333333","12853","30.16038619"
+"1060","Rorippa nasturtium aquaticum","species","herb",NA,"0.1985",NA,NA
+"1061","Rosa arvensis","species","dependant","1.0625",NA,"329.833333333333","21.975"
+"1062","Rosa canina 1","species","shrub","1.64","15.5887229090909","257","12.3085283065587"
+"1063","Rosa tomentosa","species","shrub","1.44",NA,"247","1.08459869848156e-05"
+"1064","Rubus caesius 1","species","shrub","0.47","3.35333333333333","9655.33333333333","19.3"
+"1065","Rubus fruticosus 1","species","shrub","1.82875","2.295","2061.8","15.78375"
+"1066","Rubus idaeus 1","species","shrub","1.36363636363636","1.92276711111111","1250","21.2070937216572"
+"1067","Rumex acetosa 1","species","herb","0.135473684210526","0.654590909090909","2978.68681125806","31.2337672983824"
+"1068","Rumex acetosella 1","species","herb","0.1329141875","0.72092435","104.60045","26.433089602093"
+"1069","Rumex conglomeratus","species","herb","0.725","1.86471214285714","4190","22"
+"1070","Rumex crispus","species","herb","0.616544833333333","1.7043535","8894.7","23.9109785253333"
+"1071","Rumex hydrolapathum","species",NA,"1.49","2.52142857142857","37973.325","15.6657142857143"
+"1072","Rumex obtusifolius","species","herb","0.606916666666667","1.45733333333333","43260.25","30.1971184935714"
+"1073","Rumex sanguineus","species","herb","0.745","1.13","4734","25"
+"1074","Sagina procumbens","species","herb","0.08","0.01625","8","19.25"
+"1075","Salix caprea 1","species","tree","7.43835","0.144700875","2047.28333333333","12.5110544004675"
+"1076","Salix fragilis 1","species","tree","13.3501846153846","0.141165333333333","470","8.71230940310211"
+"1077","Salix purpurea","species","shrub","2.95250909090909","0.09","130","6.23995392641904"
+"1078","Salix triandra","species","shrub","4.425","0.029","636.25","10.5995391444358"
+"1079","Salix viminalis","species","shrub","3.91",NA,"384.75","10.8857722836549"
+"1080","Sambucus nigra 1","species","shrub","5.44555555555556","12.94845575","990.2","19.1704586389512"
+"1081","Sanguisorba minor","species","herb","0.218181818181818","7.42961538461538","3124.25","19.7292523409091"
+"1082","Sanicula europaea","species","herb","0.319444444444444","3.29333333333333","2414","30.95"
+"1083","Saxifraga tridactylites","species","herb","0.0627777777777778","0.0133","38","28.77"
+"1084","Scabiosa columbaria","species","herb","0.363928571428571","1.96","5293.33333333333","19.1964068830769"
+"1085","Schoenoplectus lacustris","species","herb",NA,NA,NA,NA
+"1086","Scrophularia auriculata","species","herb","0.40625","0.12","15875.6666666667","22.825"
+"1087","Scrophularia nodosa","species","herb","0.60625","0.11","8166","26"
+"1088","Scrophularia vernalis","species","herb","0.694583333333333",NA,"3516.625","23.942"
+"1089","Sedum acre 1","species","herb","0.0655555555555556","0.035",NA,"10.9"
+"1090","Senecio erucifolius","species","herb","0.675","0.373333333333333","2285.5","14.3766666666667"
+"1091","Senecio jacobaea","species","herb","0.686793103448276","0.2625","2894.533125","26.9363701102381"
+"1092","Senecio squalidus","species","herb","0.25","0.2425","1060.4375","24.4394117647059"
+"1093","Silene dioica","species","herb","0.589","0.662","3533","39.2691578947368"
+"1094","Silene latifolia 1","species","herb","0.45975","0.603888888888889","25295.2196153846","21.217893583"
+"1095","Silene vulgaris","species","herb","0.407821428571429","0.938152173913044","9221.06833333333","29.3052907791803"
+"1096","Sinapis alba","species","herb","0.4025","5.48125","2316","23.0171428571429"
+"1097","Sison amomum","species","herb","0.65","1.24","6204","22.7"
+"1098","Sisymbrium officinale","species","herb","0.36","0.294","1728.47916666667","31.1828571428571"
+"1099","Solanum dulcamara","species","herb","1.18181818181818","26.48972325","1825.17157142857","33.3669708333333"
+"1100","Solidago canadensis","species","herb","0.831761061946903","0.0723636363636364","36413.294","13.0623831648696"
+"1101","Sonchus arvensis","species","herb","1.165","0.410976333333333","9056.2990366","22.231954108"
+"1102","Sonchus asper","species","herb","0.70125","0.255358714285714","5327.992","24.1478616986667"
+"1103","Sonchus oleraceus","species","NA","1.03409090909091","0.303702928571429","6731.2425","37.9652151821053"
+"1104","Sorbus aria","species","tree","6.55111111111111","169.126666666667","5194.7","20.5783639106632"
+"1105","Sorbus aucuparia 1","species","tree","8.70430268589744","15.6541576","730.290028571429","10.7430853767383"
+"1106","Stachys officinalis 1","species","herb","0.358333333333333","11.256","2281.375","20.3295454545455"
+"1107","Stachys palustris","species","herb","0.608333333333333","0.9725","937.72","35.9991395533333"
+"1108","Stachys sylvatica","species","herb","0.525","1.47125","2139.5","46.49625"
+"1109","Stellaria graminea 1","species","herb","0.2949","0.2715","76.3333333333333","32.70140609"
+"1110","Stellaria holostea 1","species","herb","0.283333333333333","2.92","216","30.981700233"
+"1111","Symphoricarpos rivularis","species","shrub",NA,"6.97",NA,NA
+"1112","Symphytum officinale 1","species","herb","0.5047","11.13","8816.25","26.0168377542857"
+"1113","Symphytum uplandicum","genus","herb","0.421608695652174","8.99","5416.85","28.0052045914286"
+"1114","Tamus communis","family","dependant","2.75","13.7158333333333","6124","30.3"
+"1115","Tanacetum parthenium","species","herb","0.29","0.1","4563","36.3"
+"1116","Tanacetum vulgare 1","species","herb","0.6058","0.141111111111111","8376","20.38599947"
+"1117","Taraxacum sp  1","genus","herb","0.141810344827586","0.5945226875","2336.43390466","40.5570518749744"
+"1118","Taxus baccata","species","tree","14.7675","61.1539124","51.3375","7.01832715030529"
+"1119","Thymus polytrichus","genus","shrub","0.165375","1.13560180952381","11.5982876954","16.8692040123636"
+"1120","Tilia vulgaris","genus","tree","18.4944359780182","73.2930672777778","12765.2807692308","25.442144935574"
+"1121","Torilis japonica","species","herb","0.575","1.654","3936.66666666667","28.0666666666667"
+"1122","Trachystemon orientale","genus","herb","0.4",NA,NA,NA
+"1123","Tragopogon pratensis","species","herb","0.464285714285714","3.5475","1507.5","25.0322222222222"
+"1124","Trifolium campestre 1","species","herb","0.275","0.3054","180.666666666667","27.0833333333333"
+"1125","Trifolium dubium","species","herb","0.491946225806452","0.768378230769231","159.014193939394","45.0880137534783"
+"1126","Trifolium medium","species","herb","0.29225","1.75357142857143","1437","18.6903609566667"
+"1127","Trifolium pratense 1","species","herb","0.317818181818182","1.61913793103448","896.076753","22.5840299382692"
+"1128","Trifolium repens 1","species","herb","0.131202595238095","0.524251348837209","321073.214144848","31.7824236215441"
+"1129","Tripleurospermum inodorum 1","species","herb","0.6","0.49",NA,NA
+"1130","Trisetum flavescens","species","grass","0.492666666666667","0.4592","385","22.6092905778947"
+"1131","Tussilago farfara 1","species","herb","0.16375","0.346666666666667","48997.5","19.625"
+"1132","Typha latifolia","species","herb","1.9454546","0.155081888888889","18604.0575","11.0634361565"
+"1133","Ulmus glabra 1","species","tree","29.02","11.6028298571429","3328.3375","17.080189398418"
+"1134","Urtica dioica 1","species","herb","0.480761904761905","0.1262775","4076.62828555556","22.1834656468364"
+"1135","Valerianella dentata","species","herb","0.19","1.09","138.25","30.513"
+"1136","Valerianella locusta","species","herb","0.131666666666667","1.91772625","152","31.7"
+"1137","Verbascum nigrum","species","herb","0.715625","0.13","28632","18.7"
+"1138","Verbascum thapsus 1","species","herb","0.84375","0.0853846153846154","21628.3333333333","16.9182175133333"
+"1139","Veronica arvensis","species","herb","0.123","0.115885882352941","139.9945","27.7401275"
+"1140","Veronica beccabunga","species","herb","0.616644444444444","0.247105263157895","717.719302325581","41.6196697727273"
+"1141","Veronica chamaedrys 1","species","herb","0.2471875","0.238562131578947","1444.23267413793","32.5695715330645"
+"1142","Veronica filiformis","species","herb","0.175",NA,"52.5","35.925"
+"1143","Veronica hederifolia","species","herb","0.19","3.985","261.75","34.7876923076923"
+"1144","Veronica montana","species","herb","0.247222222222222","0.38","458","36.8353"
+"1145","Veronica officinalis 1","species","herb","0.138424571428571","0.106112113636364","350.283181578947","38.9405898148148"
+"1146","Veronica serpyllifolia","species","herb","0.163888888888889","0.054556","188","22.8613434914286"
+"1147","Viburnum lantana 1","species","shrub","3.4","47.3604108","3869.5","14.6005277302"
+"1148","Viburnum opulus 1","species","shrub","2.91666666666667","35.310952","2048.4125","14.6311605956885"
+"1149","Vicia cracca 1","species","herb","0.994","14.9495877777778","733.5236540425","24.8359711266667"
+"1150","Vicia sepium 1","species","dependant","0.516666666666667","17.645","927.25","36.4687149142105"
+"1151","Vinca minor 1","species","herb*","0.505","6.13","565","24.7"
+"1152","Viola arvensis 1","species","herb","0.196875","0.351833333333333","546.5","24.32"
+"1153","Viola hirta 1","species","herb","0.09375","3.344","3436","18.2333333333333"
+"1154","Viola odorata 1","species","herb","0.205","3.192","1975.5","29.35"
+"1155","Viola reichenbachiana","species","herb","0.12",NA,"488","29.674"
+"1156","Viola riviniana","species","herb","0.155","1.185","532","24.7666666666667"
+"1157","Acer pensylvanicum","species","tree","9.28299714228215","40.1154093333333","10801.875","24.8384797272358"
+"1158","Acer rubrum","species","tree","14.8739035268994","22.7645646666667","6912.14248571429","20.5199952509436"
+"1159","Acer saccharum","species","tree","18.1261788473441","55.313758","6676.40175438596","24.9076345052437"
+"1160","Amelanchier canadensis","species","tree",NA,"8.085",NA,NA
+"1161","Aronia sp ","genus","shrub","2.13333333333333","2.44141457142857","1302.5","12.3887364665407"
+"1162","Betula alleghaniensis","species","tree","16.0584751516194","0.908840315789474","2880.66666666667","29.4714811320694"
+"1163","Betula lenta","species","tree","17.1253945369578","0.702044285714286","3479.28571428571","24.5480305041667"
+"1164","Betula papyrifera","species","tree","15.7832270495647","0.363436090909091","2965.06081818182","22.5103005181444"
+"1165","Betula populifolia","species","tree","12.53871","0.0833154","1750","18.3549174345455"
+"1166","Castanea dentata","species","tree","7.38725049504951","3464.893588","8240","19.40735374"
+"1167","Cornus alternifolia","species","tree","10.6488","53.3338092",NA,"23.65924422"
+"1168","Crataegus sp ","genus","tree","6.89393505463183","106.933037042553","592.599255555556","12.8023669304411"
+"1169","Fagus grandifolia","species","tree","16.0293892051557","257.920042","4467.58620689655","26.2165395290175"
+"1170","Fraxinus americana","species","tree","17.7851015812928","38.3108996","4784.99668235294","25.9779253448515"
+"1171","Hamamelis virginiana","species","tree","10.668","97.1999744","4792.72727272727","22.9641103795"
+"1172","Ilex verticillata","species","tree","4.30826666666667","17.1581408","1149.41176470588","23.1411634292075"
+"1173","Kalmia angustifolia","species","shrub","0.85",NA,NA,"8.35294117733333"
+"1174","Kalmia latifolia","species","tree","4.048","0.0169","1335.33333333333","9.47009644371972"
+"1175","Lyonia ligustrina","species","shrub",NA,NA,"1236.66666666667","17.5259013544444"
+"1176","Nemopanthus mucronata","genus","shrub","6.096",NA,"521.666666666667","24.8437632266667"
+"1177","Nyssa sylvatica","species","tree","12.1238356127042",NA,"2537.72727272727","21.6204023031818"
+"1178","Pinus strobus","species","tree","16.2188597329289","16.9352088571429","213.270333333333","11.1653562376985"
+"1179","Populus tremuloides","species","tree","15.9142431386277","0.114943833333333","2367.76827777778","13.3040755503975"
+"1180","Prunus serotina","species","tree","14.3683470994286","103.481333285714","2343.69558695652","18.8308517311291"
+"1181","Quercus alba","species","tree","17.885938307264","2888.18252569231","8898.2638343949","16.1699028573924"
+"1182","Quercus rubra 1","species","tree","19.2614824897242","3303.651682","12910.9848993289","15.2319312191465"
+"1183","Quercus velutina","species","tree","18.0362414857462","1852.0369716","12960.028","13.411905937"
+"1184","Rhododendron nudiflorum","species","shrub",NA,"0.0904666666666667",NA,NA
+"1185","Sambucus pubens","species","shrub",NA,"1.7642435","2875","30.3434301766667"
+"1186","Tsuga canadensis","species","tree","13.9611271982996","2.574532","48","7.94437249303334"
+"1187","Vaccinium corymbosum","species","shrub","1.75","0.437131714285714","1120.44444444444","19.0857099819106"
+"1188","Viburnum cassinoides","species","shrub",NA,"13.767253","2690","5.70804812357813"
+"1189","Viburnum lantanoides","species","shrub",NA,NA,NA,NA
+"1190","Ulmus pumila","species","shrub*","12.978633460076","6.2498485","876.3305245","8.849842172"
+"1191","Ulmus americana","species","tree","14.083461321967","4.835392","5434.16666666667","14.2081470308908"
+"1192","Ulmus rubra","species","tree","14.7199515477276","11.0716145","4522.99853846154","25.6633372115385"
+"1193","Lomatium foeniculaceum","species","herb",NA,NA,NA,NA
+"1194","Astragalus crassicarpus","species","herb",NA,"4.31111111111111",NA,NA
+"1195","Draba cuneifolia","species","herb",NA,NA,NA,NA
+"1196","Viola rafinesquii","genus","herb","0.176635658914729","1.47513279824561","1185.88910714286","29.6743579173125"
+"1197","Carex meadii","species","herb","0.6","2.95",NA,NA
+"1198","Cercis canadensis","species","tree","8.07688557371846","23.6308643809524","9692.71388888889","27.6229621620455"
+"1199","Antennaria neglecta","species","herb","0.4","0.083",NA,NA
+"1200","Hedyotis crassifolia","genus","shrub",NA,NA,NA,"8.111"
+"1201","Prunus americana","species","tree","5.88507376425856","698.89444","2991.81666666667","30.73455"
+"1202","Zanthoxylum americanum","species","shrub","7.2672","14.2892703333333",NA,NA
+"1203","Viola pratincola","species","herb",NA,NA,NA,NA
+"1204","Corydalis micrantha","species","herb",NA,NA,NA,NA
+"1205","Packera plattensis","species","herb",NA,NA,NA,NA
+"1206","Celtis occidentalis","species","tree","14.2630610375386","118.9316495","3739.57644444444","32.0696624893659"
+"1207","Populus deltoides","species","tree","20.4682683844891","101.674199686275","8400","8.29037419703337"
+"1208","Ribes missouriense","species","shrub",NA,"2.7947265",NA,NA
+"1209","Quercus muehlenbergii","species","tree","15.2711444792974","1170.250057","5557.96666666667","19.3037866666667"
+"1210","Phlox divaricata","species","herb",NA,"1.767",NA,NA
+"1211","Viola pedatifida","species","herb",NA,NA,NA,NA
+"1212","Lithospermum incisum","species","herb",NA,"4.7",NA,NA
+"1213","Dicentra cucullaria","species","herb",NA,"1.314",NA,NA
+"1214","Erythronium albidum","species","herb",NA,NA,NA,NA
+"1215","Ceanothus herbaceus","species","shrub",NA,NA,NA,NA
+"1216","Astragalus missouriensis","genus","herb","0.276076923076923","5.2889537037037","474.3339196944","28.1775260194242"
+"1217","Oxalis violacea","species","herb","0.25","0.43725",NA,NA
+"1218","Baptisia bracteata","species","herb",NA,NA,NA,NA
+"1219","Aesculus glabra","species","tree","11.7265239735099","9037.6102006","5105.596","20.42287"
+"1220","Glandularia canadensis","species","herb",NA,NA,NA,NA
+"1221","Sisyrinchium campestre","species","herb",NA,NA,NA,NA
+"1222","Glandularia bipinnatifida","species","herb",NA,NA,NA,NA
+"1223","Nasturtium officinale","species","herb","0.31625","0.181","1435","42.225"
+"1224","Nothocalais cuspidata","species","herb",NA,NA,NA,NA
+"1225","Rhus aromatica","species","shrub",NA,"28.075",NA,NA
+"1226","Quercus macrocarpa","species","tree","14.040307748206","5859.88850377778","19000","8.15000285062714"
+"1227","Comandra umbellata","species","herb","0.4",NA,NA,NA
+"1228","Anemone caroliniana","species","herb",NA,NA,NA,NA
+"1229","Erigeron philadelphicus","species","herb",NA,"0.0396666666666667",NA,NA
+"1230","Baptisia australis","species","herb",NA,NA,NA,NA
+"1231","Prunus virginiana","species","tree","9.92692114285714","72.0651307619048","1528.1165","12.2587357675"
+"1232","Lonicera maackii 1","species","shrub",NA,"3.06320866666667","2306.48128947368","27.9211659210526"
+"1233","Hymenopappus scabiosaeus","species","herb",NA,NA,NA,NA
+"1234","Zygadenus nuttallii","genus","herb",NA,NA,NA,NA
+"1235","Erigeron strigosus","species","herb","0.6","0.045",NA,NA
+"1236","Erigeron annuus","species","herb","0.763571428571429","0.03","859","25.02"
+"1237","Pediomelum esculentum","species","herb",NA,NA,NA,NA
+"1238","Zizia aurea","species","herb",NA,NA,NA,NA
+"1239","Vicia americana 1","species","herb","0.376269","11.3573483333333",NA,"19.4991045796"
+"1240","Dichanthelium oligosanthes","species","herb","0.6","1.117","83.2842857142857",NA
+"1241","Crataegus mollis","species","tree","6.59011807228916","9",NA,NA
+"1242","Robinia pseudoacacia 2","species","tree","16.0907499420488","19.5873364","4186.948","16.4904824366166"
+"1243","Gleditsia triacanthos","species","tree","14.5272751627126","165.886215909091","274.9313","16.45942"
+"1244","Juglans nigra","species","tree","17.1686299040688","11113.3059769231","2929.21957142857","18.9477150764228"
+"1245","Callirhoe alcaeoides","species","herb",NA,NA,NA,NA
+"1246","Buchloe dactyloides","species","grass",NA,NA,"1471.029",NA
+"1247","Celastrus scandens","species","dependant",NA,"16.891465",NA,NA
+"1248","Rubus occidentalis","species","shrub",NA,"1.3665305","810",NA
+"1249","Rubus ostryifolius","species","shrub",NA,NA,NA,NA
+"1250","Psoralidium tenuiflorum","species","herb",NA,NA,NA,NA
+"1251","Asclepias viridis","species","herb",NA,NA,NA,"21.667194034"
+"1252","Tradescantia bracteata","species","herb",NA,NA,NA,NA
+"1253","Onosmodium molle","species","herb",NA,NA,NA,NA
+"1254","Tragopogon dubius","species","herb","0.425","10.6086666666667","321.5","25.38"
+"1255","Oenothera macrocarpa","species","herb",NA,NA,NA,NA
+"1256","Amorpha fruticosa 1","species","shrub","2.5","8.24585125","200","8.795714255"
+"1257","Callirhoe involucrata","species","herb",NA,NA,NA,NA
+"1258","Hybanthus verticillatus","species","herb",NA,NA,NA,NA
+"1259","Evolvulus nuttallianus","species",NA,NA,"4.95",NA,NA
+"1260","Delphinium carolinianum","species","herb",NA,"0.52",NA,NA
+"1261","Escobaria missouriensis","species","shrub",NA,NA,NA,NA
+"1262","Rosa arkansana","species","shrub",NA,"13.5",NA,NA
+"1263","Calystegia macounii","genus","herb","1.10454545454545","24.0475263157895","4181.9","27.14253662552"
+"1264","Penstemon cobaea","species","herb",NA,NA,NA,NA
+"1265","Penstemon grandiflorus","species","herb",NA,NA,NA,"10.5"
+"1266","Mirabilis nyctaginea","species","herb",NA,"5",NA,NA
+"1267","Smilax tamnoides","species","shrub",NA,"23.69",NA,NA
+"1268","Vitis riparia","species","dependant",NA,"79",NA,"26.84958"
+"1269","Plantago patagonica","species","herb",NA,"0.38",NA,NA
+"1270","Calylophus serrulatus","genus","herb",NA,NA,NA,NA
+"1271","Yucca glauca","species",NA,NA,"19.4191106666667",NA,NA
+"1272","Mimulus glabratus","species","herb","0.4","0.013",NA,NA
+"1273","Triosteum perfoliatum","species","herb","1.5",NA,NA,NA
+"1274","Physalis virginiana","species","herb","1","1.53",NA,NA
+"1275","Physalis pumila","species","herb",NA,NA,NA,NA
+"1276","Apocynum cannabinum","species","herb","1.5",NA,NA,NA
+"1277","Tripsacum dactyloides","species","herb",NA,"66.7",NA,NA
+"1278","Cornus drummondii","species","tree","6.7056","46.668117","4109.475","24.9250891666667"
+"1279","Schrankia nuttallii","species","herb",NA,NA,NA,NA
+"1280","Physalis heterophylla","species","herb","1","1.34366666666667",NA,NA
+"1281","Toxicodendron radicans","species","dependant",NA,"15.65",NA,NA
+"1282","Asclepias tuberosa","species","herb","0.0748340611353712","7.005",NA,"33.2584368451219"
+"1283","Verbascum blattaria","species","herb","0.725","0.11",NA,NA
+"1284","Allium canadense","species","herb",NA,"14.6",NA,NA
+"1285","Oenothera speciosa","genus","herb","0.720945945945946","0.499651753623188","14551.2648484848","21.7455272727273"
+"1286","Ruellia humilis","species","herb",NA,NA,NA,NA
+"1287","Solanum carolinense","genus","shrub","2.20199770114943","117.808333383562","10224.39604","12.2367854491283"
+"1288","Scutellaria parvula","species","herb",NA,NA,NA,NA
+"1289","Triodanus leptocarpa","not found","NA",NA,NA,NA,NA
+"1290","Ruellia strepens","species","herb",NA,NA,NA,NA
+"1291","Verbena bracteata","species","herb",NA,"0.4625",NA,NA
+"1292","Verbena stricta","species","herb","0.9","1.01166666666667",NA,NA
+"1293","Triodanus perfoliata","not found","NA",NA,NA,NA,NA
+"1294","Potentilla recta","species","herb","0.4125","0.26","2602.5","15.9508333333333"
+"1295","Linum sulcatum","species","herb",NA,"0.25",NA,NA
+"1296","Grindelia squarrosa","species","herb",NA,"0.7",NA,NA
+"1297","Echinacea angustifolia","species","herb",NA,"45.2666666666667",NA,NA
+"1298","Asclepias syriaca","species","herb","0.071372096","5.948946375",NA,"15.3414905777778"
+"1299","Asclepias stenophylla","genus","herb","0.0720723480333731","7.01286903333333",NA,"29.6426851076821"
+"1300","Argemone polyanthemos","species","herb",NA,"3.2",NA,NA
+"1301","Polygonatum biflorum","species","herb",NA,NA,NA,NA
+"1302","Dianthus armeria","species","herb","0.384375","1.02","231","15.9814285714286"
+"1303","Rhus glabra","species","shrub","10.4248","8.94677633333333",NA,NA
+"1304","Campsis radicans","species","dependant",NA,"3.80091266666667","2367.5","28.3213837625"
+"1305","Asclepias sullivantii","species","herb",NA,NA,NA,"25.49288533"
+"1306","Psoralea argophylla","species","herb",NA,"19",NA,NA
+"1307","Sambucus canadensis","species","shrub","4.78773333333333","2.69161142857143","780",NA
+"1308","Dalea purpurea","species","herb",NA,NA,NA,"7.5"
+"1309","Ratibida columnifera","species","herb",NA,NA,NA,NA
+"1310","Arnoglossum plantagineum","species","herb",NA,"3.4",NA,NA
+"1311","Cucurbita foetidissima","species",NA,NA,"42.087",NA,NA
+"1312","Hedyotis nigricans","species","herb",NA,NA,NA,NA
+"1313","Solanum rostratum","species","herb","0.7","3.48457142857143",NA,NA
+"1314","Verbena simplex","species","herb",NA,"0.806",NA,NA
+"1315","Geum canadense","species","herb","1","1.2905",NA,NA
+"1316","Amorpha canescens","species","shrub","1.5","1.903825875",NA,"15.3228128"
+"1317","Monarda fistulosa","species","herb","0.103870078740157","0.334860888888889",NA,"31.9117827596899"
+"1318","Opuntia macrorhiza","species","shrub",NA,NA,NA,NA
+"1319","Lythrum alatum","genus","herb","0.353038461538462","0.164217391304348","882.0625","24.1742026115789"
+"1320","Potentilla arguta","species","herb",NA,"0.1165575",NA,"10.5"
+"1321","Stenosiphon linifolius","family","herb","0.587014218009479","0.571171829351536","14609.3900913888","25.9338071204378"
+"1322","Cirsium undulatum","species","herb",NA,"6.06666666666667",NA,NA
+"1323","Desmodium illinoense","species","herb",NA,NA,NA,NA
+"1324","Asclepias verticillata","species","herb","0.9","2.38785714285714",NA,NA
+"1325","Pascopyrum smithii","species","herb","1","2.73875",NA,NA
+"1326","Dalea candida","species","herb",NA,NA,NA,NA
+"1327","Silphium laciniatum","species","herb",NA,NA,NA,NA
+"1328","Desmodium glutinosum","species","herb",NA,NA,NA,NA
+"1329","Helianthus annuus","species","herb","0.517803571428571","48.6666320754717","5126.22666666667","7.16943965617385"
+"1330","Desmanthus illinoensis","species",NA,"1","5.97825",NA,NA
+"1331","Teucrium canadense","species","herb",NA,"1.75",NA,NA
+"1332","Elymus canadensis","species","herb","1.5","3.8575",NA,"13.73944"
+"1333","na na","not found","NA",NA,NA,NA,NA
+"1334","Commelina erecta","species","herb",NA,NA,NA,NA
+"1335","Nepeta cataria","species","herb","0.633333333333333","0.5582966","395.9921","31.7408366666667"
+"1336","Silphium integrifolium","species","herb","1.2",NA,"6800","5.81395931395349"
+"1337","Verbena urticifolia","species","herb","1.5","0.34675",NA,NA
+"1338","Salvia azurea","species","herb",NA,NA,NA,NA
+"1339","Asclepias viridiflora","species","herb",NA,NA,NA,NA
+"1340","Silene stellata","species","herb",NA,NA,NA,NA
+"1341","Gaura mollis","species","herb",NA,NA,NA,NA
+"1342","Mirabilis albida","species","herb",NA,NA,NA,NA
+"1343","Amphicarpaea bracteata","species","dependant",NA,NA,NA,NA
+"1344","Croton monanthogynus","species","herb",NA,"5.76",NA,NA
+"1345","Bouteloua curtipendula","species","grass",NA,NA,"1340.468","9.5"
+"1346","Rudbeckia hirta","species","herb","0.351","0.875714285714286",NA,"16.6524268"
+"1347","Clematis pitcheri","genus","dependant","7.57884615384615","5.54900667567568","2642.03550492","17.9218030014783"
+"1348","Tribulus terrestris","species","NA",NA,"20.504125",NA,NA
+"1349","Mentzelia oligosperma","genus","herb",NA,"0.61075",NA,"0.230519481"
+"1350","Vernonia baldwinii","species","herb",NA,"1",NA,NA
+"1351","Campanulastrum americanum","family","herb","0.277495474036683","0.116844619607843","2230.98800199203","32.5587345904959"
+"1352","Dalea multiflora","genus","herb",NA,NA,NA,"9.3919438"
+"1353","Hieracium longipilum","species","herb",NA,NA,NA,NA
+"1354","Chrysopsis canescens","genus","herb",NA,NA,NA,NA
+"1355","Agrimonia pubescens","species","herb",NA,NA,NA,NA
+"1356","Solidago missouriensis","species","herb",NA,NA,NA,NA
+"1357","Euphorbia marginata","species","herb",NA,"10.905",NA,NA
+"1358","Helianthus tuberosus","species","herb","1.75","2","19578.5","33.53"
+"1359","Bouteloua hirsuta","species","herb",NA,NA,NA,NA
+"1360","Phytolacca americana","species","herb","3","6.11572727272727",NA,NA
+"1361","Bouteloua gracilis","species","grass",NA,NA,"894.0325",NA
+"1362","Spartina pectinata","species","herb",NA,"0.71","1346.69222222222",NA
+"1363","Dyssodia papposa","species","herb",NA,NA,NA,NA
+"1364","Spiranthes vernalis","species","herb",NA,NA,NA,NA
+"1365","Croton capitatus","species","herb","0.5","19.2666666666667",NA,NA
+"1366","Helianthus hirsutus","species","herb",NA,NA,NA,NA
+"1367","Symphoricarpos orbiculatus","species","shrub",NA,"4.229948",NA,NA
+"1368","Euphorbia corollata","species","herb",NA,NA,NA,NA
+"1369","Cirsium altissimum","species","herb","4","3.322",NA,NA
+"1370","Kuhnia eupatorioides","family","herb","0.431684009410609","5.6517617539267","5294.61076271666","21.7654837334319"
+"1371","Lycopus americanus","species","herb",NA,"0.124",NA,NA
+"1372","Desmodium canescens","species","herb",NA,NA,NA,NA
+"1373","Desmodium paniculatum","species","herb","1","3.192",NA,NA
+"1374","Desmodium sessilifolium","species","herb",NA,NA,NA,NA
+"1375","Cassia marilandica","species","herb","1.2","21.675",NA,NA
+"1376","Cassia chamaecrista","genus","tree","6.8384","193.479128186667","276","50.788"
+"1377","Verbesina alternifolia","species","herb",NA,NA,NA,NA
+"1378","Andropogon gerardii","species","grass",NA,"3.1","367.151111111111","13.36302"
+"1379","Panicum virgatum","species","grass","0.210220588235294","1.19916666666667","983.255","21.3893217281553"
+"1380","Liatris aspera","species","herb","0.0779175824175824","2.075",NA,"20.1488133989071"
+"1381","Helianthus maximiliani","species","herb",NA,"1.9","4070.8","2.46330917432121e-05"
+"1382","Eupatorium rugosum","genus","tree","1.08044444444444","0.18675","6438.5","24.8121767222222"
+"1383","Oenothera biennis 1","species","herb","0.802777777777778","0.361472157894737","18538.4832","15.701"
+"1384","Lespedeza capitata","species","herb","1.5","2.83047773684211",NA,"12.5328334333333"
+"1385","Tridens flavus","species","herb",NA,"0.5",NA,NA
+"1386","Eupatorium altissimum","species","herb",NA,NA,NA,NA
+"1387","Liatris mucronata","species","herb",NA,NA,NA,NA
+"1388","Gaura longiflora","species","herb",NA,NA,NA,NA
+"1389","Sorghastrum nutrans","genus","herb","2.5",NA,"362.81","14.225668"
+"1390","Solidago rigida","species","herb",NA,"0.452857142857143",NA,"10.2977682333333"
+"1391","Allium stellatum","species","herb",NA,"2.0325",NA,NA
+"1392","Andropogon scoparius","genus","grass","1.5","2.24358333333333","432.088578947368","10.98992840475"
+"1393","Heliopsis helianthoides","species","herb","1.5",NA,NA,NA
+"1394","Helianthus rigidus","genus","herb","0.477617943548387","15.60679415","4741.82659574468","2.18058540707965"
+"1395","Agalinis densiflora","species","herb",NA,NA,NA,NA
+"1396","Agalinis aspera","species","herb",NA,NA,NA,NA
+"1397","Symphyotrichum ericoides","species","herb","0.9","0.106571428571429",NA,"7.8"
+"1398","Solidago speciosa","species","herb",NA,"0.2",NA,NA
+"1399","Symphyotrichum drummondii","species","herb",NA,NA,NA,NA
+"1400","Amphiachyris dracunculoides","species","herb",NA,NA,NA,NA
+"1401","Lobelia cardinalis","species","herb",NA,"0.042",NA,NA
+"1402","Symphyotrichum laeve","species","herb","0.75","0.306",NA,"12.714"
+"1403","Lobelia siphilitica","species","herb","1","0.02925",NA,NA
+"1404","Symphyotrichum oblongifolium","species","herb",NA,NA,NA,NA
+"1405","Symphyotrichum sericeum","species","herb",NA,NA,NA,NA
+"1406","Gnaphalium obtusifolium","genus","herb","0.0935714285714286","0.113395833333333","68.8125","37.931062924"
+"1407","Symphyotrichum pilosum","species","herb",NA,NA,NA,NA
+"1408","Spiranthes cernua","species","herb","0.4","0.004",NA,NA
+"1409","Juniperus virginiana","species","tree","9.69424594594595","11.4767128571429","19.384","2.47823975007501"
+"1410","Tradescantia ohiensis","species","herb",NA,"3.4",NA,NA
+"1411","Penstemon tubaeflorus","species","herb",NA,NA,NA,NA
+"1412","Spermolepis inermis","species","herb",NA,NA,NA,NA
+"1413","Hibiscus trionum","species","herb","0.325","3",NA,NA
+"1414","Oenothera laciniata","species","herb",NA,"0.41",NA,NA
+"1415","Symphyotrichum lanceolatum","species","herb",NA,NA,NA,NA
+"1416","Liatris punctata","species","herb",NA,"18.33",NA,NA
+"1417","Gentiana puberulenta","species","herb",NA,NA,NA,NA
+"1418","Alchornea latifolia","species","tree","10.016087394958","34",NA,NA
+"1419","Alchorneopsis floribunda","species","tree","0.831272727272727",NA,"5828","38.771"
+"1420","Andira inermis","species","tree","10.4864860068259","915.918","3265.5","25.601"
+"1421","Buchenavia capitata","genus","tree","12.9234333333333",NA,"13506.25","26.282"
+"1422","Byrsonima spicata","species","tree","11.38898",NA,NA,NA
+"1423","Casearia arborea","species","tree","1.89167976539589","1.575","3983","23.3116079663636"
+"1424","Casearia sylvestris","species","tree","5.72618695652174","1.5","4303.16666666667","16.2575079617834"
+"1425","Cassipourea guianensis","species","tree","12.5104","60",NA,NA
+"1426","Cecropia schreberiana","species","tree","13.2447051903114","0.3",NA,"8.6"
+"1427","Chionanthus domingensis","species","tree","10.4126222222222","550",NA,NA
+"1428","Cissampelos pareira","species","dependant","0","5.99",NA,NA
+"1429","Cissus sicyoides","genus","dependant","0","46.9464734285714",NA,NA
+"1430","Clibadium erosum","species",NA,NA,NA,NA,NA
+"1431","Clusia gundlachii","species","shrub",NA,NA,NA,NA
+"1432","Clusia rosea","species","tree","9.56268131868132",NA,NA,NA
+"1433","Coccoloba pyrifolia","species",NA,NA,NA,NA,NA
+"1434","Cordia borinquensis","species","tree","8.88274285714286",NA,NA,NA
+"1435","Cordia sulcata","species",NA,"10.7302666666667",NA,NA,NA
+"1436","Croton poecilanthus","species",NA,"10.0904842105263",NA,NA,NA
+"1437","Dacryodes excelsa","species","tree","22.1655248979592",NA,NA,"13.4"
+"1438","Daphnopsis philippiana","species","tree","3.2004",NA,NA,NA
+"1439","Dendropanax arboreus","species","tree","5.54602441314554","8.522","12702.2566037736","14.5689808173062"
+"1440","Dioscorea polygonoides","species","dependant",NA,NA,NA,NA
+"1441","Drypetes glauca","species","tree","8.9154",NA,NA,NA
+"1442","Eugenia domingensis","species","tree",NA,NA,NA,NA
+"1443","Eugenia stahlii","species","tree","11.1421333333333",NA,NA,NA
+"1444","Faramea occidentalis","species","tree","5.35736953642384","232.109","4883.56140350877","19.6264417489474"
+"1445","Ficus trigonata","species","tree","14.1158","0.567",NA,NA
+"1446","Forsteronia portoricensis","genus","dependant","0.22",NA,NA,NA
+"1447","Gonzalagunia spicata","species","tree",NA,NA,NA,NA
+"1448","Guarea glabra","species","tree","8.13613333333333","390","7762.55","9.36950432900433"
+"1449","Guarea guidonia","species","tree","9.54771889973381","415.6845","13675.1","24.5817502477701"
+"1450","Guatteria caribaea","species","tree","4.2672",NA,NA,NA
+"1451","Guettarda valenzuelana","species","tree",NA,NA,NA,NA
+"1452","Heteropteris laurifolia","species","dependant",NA,NA,"7770",NA
+"1453","Heterotrichum cymosum","species",NA,NA,NA,NA,NA
+"1454","Hippocratea volubilis","species","dependant",NA,NA,NA,NA
+"1455","Hirtella rugosa","species","tree","4.3434",NA,NA,NA
+"1456","Homalium racemosum","species","tree","9.75904285714286",NA,NA,NA
+"1457","Inga laurina","species","tree","10.9041677419355",NA,NA,NA
+"1458","Inga vera","species","tree","11.0074313846154",NA,NA,NA
+"1459","Ipomoea setifera","species","dependant",NA,NA,NA,NA
+"1460","Ipomoea tiliacea","species","dependant",NA,NA,NA,NA
+"1461","Ixora ferrea","species","tree","5.48777872340426",NA,NA,NA
+"1462","Laetia procera","species","tree","0.534503783783784","3.506","5161","22.267"
+"1463","Macfadyena unguis cati","species","dependant",NA,NA,NA,NA
+"1464","Manilkara bidentata","species","tree","10.5918","1500",NA,"5.62028876"
+"1465","Marcgravia rectiflora","species","dependant",NA,NA,NA,NA
+"1466","Margaritaria nobilis","species","tree","13.3389538461538","49.6792318","5213","21.7003333333333"
+"1467","Matayba domingensis","species","tree","15.11808",NA,NA,NA
+"1468","Miconia racemosa","species","shrub","3.429","2",NA,NA
+"1469","Miconia tetrandra","species","tree","9.5631",NA,NA,NA
+"1470","Mikania fragilis","species","dependant",NA,NA,NA,NA
+"1471","Myrcia deflexa","species","tree","5.74488",NA,NA,NA
+"1472","Myrcia leptoclada","species","tree","4.572",NA,NA,NA
+"1473","Myrcia splendens","species","tree","5.83311",NA,"2302","17.55"
+"1474","NA sp ","not found","NA",NA,NA,NA,NA
+"1475","Neorudolphia volubilis","species","dependant",NA,NA,NA,NA
+"1476","Ocotea leucoxylon","species","tree","7.36108387096774",NA,"6631","15.02670048"
+"1477","Ocotea sintenisii","genus","tree","7.16493981981982","1078.168","32910.3462184874","13.903569785697"
+"1478","Ormosia krugii","species","tree","12.7184727272727",NA,NA,NA
+"1479","Oxandra laurifolia","species","tree",NA,NA,NA,NA
+"1480","Palicourea riparia","species","tree",NA,NA,NA,NA
+"1481","Paullinia pinnata","species","dependant",NA,NA,NA,NA
+"1482","Phoradendron piperoides","species","dependant",NA,NA,NA,NA
+"1483","Phytolacca rivinoides","species","herb",NA,"10",NA,NA
+"1484","Piper glabrescens","species","tree",NA,NA,NA,NA
+"1485","Pisonia subcordata","species","tree","7.13447787610619","14",NA,NA
+"1486","Polypodium piloselloides2","genus","dependant","0.3",NA,"6001.875","14.882"
+"1487","Prestoea montana","genus","tree","7.01409454545455",NA,"9626","14.162"
+"1488","Psychotria berteriana","species","tree","5.23121860465116",NA,NA,NA
+"1489","Psychotria brachiata","species","tree","0.591670588235294",NA,"12901","26.686"
+"1490","Rourea surinamensis","species","dependant",NA,NA,NA,NA
+"1491","Roystonea borinquena","species","tree","11.2415052631579",NA,NA,NA
+"1492","Samyda spinulosa","genus",NA,"5.941","14",NA,"20.84"
+"1493","Sapium laurocerasum","genus","tree","15.2766583333333","75.7752894","13790.1771929825","17.5390706896552"
+"1494","Schefflera morototoni","species","tree","15.5","51","16961","19.301"
+"1495","Schlegelia brachyantha","species","dependant",NA,NA,NA,NA
+"1496","Securidaca virgata","species","dependant",NA,NA,NA,NA
+"1497","Sloanea berteriana","species","tree","10.734675",NA,NA,NA
+"1498","Smilax domingensis","species","dependant","0",NA,NA,NA
+"1499","Tabebuia heterophylla","species","tree","8.10945266558966","10.1141463414634",NA,"17.49805625"
+"1500","Tetragastris balsamifera","species",NA,"11.936627027027",NA,NA,NA
+"1501","Trichilia pallida","species","tree","7.48876962025316","73.909","15619.5","25.231"
+"1502","Vitex divaricata","species","tree","11.8001142857143",NA,NA,NA
+"1503","Zanthoxylum martinicense","species","tree","13.1284337349398",NA,NA,NA
+"1504","Bistorta bistortoides","species","herb","0.45",NA,"3760","6.05000605326877"
+"1505","Bistorta vivipara","species","herb",NA,"2.5525",NA,NA
+"1506","Geum rossii","species","herb",NA,NA,NA,NA
+"1507","Acalypha neomexicana","species","herb",NA,NA,NA,NA
+"1508","Acourtia nana","species","herb",NA,NA,NA,NA
+"1509","Allionia incarnata","species","herb",NA,"2.564",NA,NA
+"1510","Allium macropetalum","species","herb",NA,NA,NA,NA
+"1511","Amaranthus albus","species","herb","0.3","0.334857142857143",NA,NA
+"1512","Amaranthus palmeri","species","herb",NA,"0.297375",NA,NA
+"1513","Aphanostephus ramosissimus","species","herb",NA,NA,NA,NA
+"1514","Aristida adscensionis","species","grass",NA,"1.46","821.73",NA
+"1515","Aristida divaricata","species","herb",NA,"0.826","257.307",NA
+"1516","Aristida purpurea","species","herb",NA,"1.11",NA,NA
+"1517","Artemisia ludoviciana","species","herb",NA,NA,NA,NA
+"1518","Asclepias involucrata","genus","herb","0.0720723480333731","7.01286903333333",NA,"29.6426851076821"
+"1519","Astragalus nuttallianus","species","herb",NA,"2.15",NA,NA
+"1520","Atriplex canescens","species","herb","1","9.69257019047619","60","1.98500198491465"
+"1521","Baccharis wrightii","species","shrub",NA,NA,NA,NA
+"1522","Baileya multiradiata","species","herb",NA,NA,NA,NA
+"1523","Berlandiera lyrata","species","herb",NA,NA,NA,NA
+"1524","Boerhavia spicata","species","herb",NA,NA,NA,NA
+"1525","Bouteloua barbata","species","herb",NA,NA,NA,NA
+"1526","Bouteloua eriopoda","species","grass",NA,NA,NA,NA
+"1527","Brickellia eupatorioides","species","herb",NA,NA,NA,NA
+"1528","Caesalpinia drepanocarpa","genus","tree","11.70496","238.211504769231","16700","17.239"
+"1529","Caesalpinia jamesii","genus","tree","11.70496","238.211504769231","16700","17.239"
+"1530","Calylophus hartwegii","species","shrub",NA,NA,NA,NA
+"1531","Chaetopappa ericoides","species","herb",NA,NA,NA,NA
+"1532","Chamaesaracha coniodes","species","herb",NA,NA,NA,NA
+"1533","Chamaesaracha coronopus","genus","herb",NA,NA,NA,NA
+"1534","Chamaesyce albomarginata","genus","herb","0.1",NA,NA,NA
+"1535","Chamaesyce fendleri","genus","herb","0.1",NA,NA,NA
+"1536","Chamaesyce revoluta","genus","herb","0.1",NA,NA,NA
+"1537","Chamaesyce serpyllifolia","species","herb",NA,NA,NA,NA
+"1538","Chamaesyce serrula","genus","herb","0.1",NA,NA,NA
+"1539","Chenopodium incanum","species","herb",NA,NA,NA,NA
+"1540","Cirsium neomexicanum","species","herb",NA,NA,NA,NA
+"1541","Convolvulus equitans","species","dependant",NA,NA,NA,NA
+"1542","Cryptantha crassisepala","species","herb",NA,NA,NA,NA
+"1543","Cymopterus acaulis","species","herb",NA,NA,NA,NA
+"1544","Echinocereus coccineus","species","shrub",NA,NA,NA,NA
+"1545","Elymus elymoides","species","grass",NA,"2.9775",NA,"0.0832215648"
+"1546","Enneapogon desvauxii","species","grass",NA,NA,NA,NA
+"1547","Ephedra torreyana","species","shrub",NA,NA,NA,NA
+"1548","Erigeron flagellaris 1","species","herb",NA,NA,NA,NA
+"1549","Eriogonum abertianum","species","herb",NA,NA,NA,NA
+"1550","Eriogonum wrightii","species","shrub",NA,"0.644",NA,NA
+"1551","Escobaria vivipara","species","shrub",NA,NA,NA,NA
+"1552","Euphorbia exstipulata","species","herb",NA,NA,NA,NA
+"1553","Gaillardia pinnatifida","species","herb",NA,"0.9",NA,NA
+"1554","Gaura coccinea","species","herb",NA,NA,NA,NA
+"1555","Gaura suffulta","species","herb",NA,"23.5",NA,NA
+"1556","Gutierrezia sarothrae","species","shrub","0.4","0.215","90","1.69491694491525"
+"1557","Hoffmannseggia glauca","species","shrub",NA,NA,NA,NA
+"1558","Houstonia rubra","genus","herb","0.2",NA,NA,NA
+"1559","Hymenopappus filifolius","genus","herb",NA,NA,NA,NA
+"1560","Ipomoea costellata","genus","dependant","0.0800970873786408","45.7830158730159",NA,"28.3566666666667"
+"1561","Ipomopsis pumila","species","herb",NA,NA,NA,NA
+"1562","Kallstroemia parviflora","species","herb",NA,NA,NA,NA
+"1563","Krascheninnikovia lanata","species","shrub",NA,"3.24366666666667",NA,NA
+"1564","Laennecia coulteri","species","herb",NA,NA,NA,NA
+"1565","Lappula occidentalis","species","herb",NA,NA,NA,NA
+"1566","Larrea tridentata","species","shrub","2","2.736","48","2.87000132013201"
+"1567","Lepidium densiflorum","species","herb","0.225","0.4375","156","60.085"
+"1568","Lesquerella fendleri","genus","herb",NA,NA,NA,NA
+"1569","Linum puberulum","species","herb",NA,NA,NA,NA
+"1570","Lycium pallidum","species","shrub",NA,NA,NA,NA
+"1571","Machaeranthera gracilis","species","herb",NA,"0.318",NA,NA
+"1572","Machaeranthera pinnatifida","species","shrub",NA,NA,NA,NA
+"1573","Machaeranthera tanacetifolia","species","herb",NA,"0.7",NA,NA
+"1574","Malacothrix fendleri","species","herb",NA,NA,NA,NA
+"1575","Melampodium leucanthum","genus","herb",NA,"17.15",NA,NA
+"1576","Mirabilis linearis","species","herb",NA,NA,NA,NA
+"1577","Mirabilis multiflora","species","herb",NA,"40.755",NA,NA
+"1578","Muhlenbergia arenacea","species","herb",NA,NA,NA,NA
+"1579","Muhlenbergia arenicola","species","herb",NA,NA,NA,NA
+"1580","Muhlenbergia porteri","species","herb",NA,NA,"1442.56555555556",NA
+"1581","Muhlenbergia torreyi","species","herb",NA,NA,NA,NA
+"1582","Munroa squarrosa","species","herb",NA,NA,NA,NA
+"1583","Nama hispidum","species","herb",NA,NA,NA,NA
+"1584","Parthenium incanum","species","shrub",NA,NA,NA,NA
+"1585","Pectis angustifolia","species","herb",NA,NA,NA,NA
+"1586","Penstemon fendleri","species","herb",NA,NA,NA,NA
+"1587","Phacelia integrifolia","species","herb",NA,"0.6",NA,NA
+"1588","Poa bigelovii","species","herb",NA,NA,NA,NA
+"1589","Portulaca oleracea","species","herb","0.175","0.172221","25.725","19.272"
+"1590","Portulaca pilosa","species","herb",NA,"0.042",NA,NA
+"1591","Proboscidea parviflora","species","herb",NA,"9.2",NA,NA
+"1592","Psilostrophe tagetina","genus","herb",NA,NA,NA,NA
+"1593","Sanvitalia aberti","genus","herb",NA,NA,NA,NA
+"1594","Scleropogon brevifolius","species","herb",NA,NA,NA,NA
+"1595","Scorzonera laciniata","species","herb","0.26",NA,"366.5","19.492"
+"1596","Senecio flaccidus","species","herb",NA,"1.0105",NA,NA
+"1597","Senna bauhinoides","genus","shrub","9.14207378640777","21.8644242658228","4050.54","17.0118357110602"
+"1598","Solanum elaeagnifolium","species","herb",NA,"5.8",NA,NA
+"1599","Sphaeralcea coccinea","species","herb",NA,NA,NA,"7.44193694044444"
+"1600","Sphaeralcea hastulata","genus","shrub",NA,"1.5085",NA,"7.44193694044444"
+"1601","Sphaeralcea leptophylla","genus","shrub",NA,"1.5085",NA,"7.44193694044444"
+"1602","Sphaeralcea wrightii","genus","shrub",NA,"1.5085",NA,"7.44193694044444"
+"1603","Sporobolus airoides","species","herb",NA,"0.26",NA,NA
+"1604","Sporobolus contractus","species","herb",NA,NA,NA,NA
+"1605","Sporobolus cryptandrus","species","herb","0.8","0.103428571428571",NA,NA
+"1606","Sporobolus flexuosus","species","herb",NA,NA,NA,NA
+"1607","Stephanomeria pauciflora","species","shrub",NA,"0.59",NA,NA
+"1608","Tetraclea coulteri","genus","herb",NA,NA,NA,NA
+"1609","Thymophylla acerosa","genus","herb",NA,NA,NA,NA
+"1610","Tidestromia lanuginosa","species","herb",NA,NA,NA,NA
+"1611","Tiquilia canescens","species","shrub",NA,NA,NA,NA
+"1612","Townsendia annua","species","herb",NA,NA,NA,NA
+"1613","Tragus racemosus","species","grass","0.165","0.3405","4592.83",NA
+"1614","Zinnia grandiflora","genus","herb",NA,"5.7075",NA,NA
+"1615","Bahia absinthifolia","species","herb",NA,NA,NA,NA
+"1616","Bahia dissecta","species","herb",NA,NA,NA,NA
+"1617","Brickellia californica","species","herb",NA,NA,NA,NA
+"1618","Chamaesyce stictospora","genus","herb","0.1",NA,NA,NA
+"1619","Dalea brachystachya","species","herb",NA,NA,NA,NA
+"1620","Dalea formosa","species","shrub",NA,NA,NA,NA
+"1621","Eriogonum rotundifolium","species","herb",NA,NA,NA,NA
+"1622","Gaillardia pulchella","species",NA,NA,"1.48333333333333",NA,NA
+"1623","Gilia mexicana","species","herb",NA,NA,NA,NA
+"1624","Ipomopsis longiflora","species","herb",NA,NA,NA,NA
+"1625","Machaeranthera canescens","species","herb",NA,"0.448",NA,NA
+"1626","Panicum obtusum","species",NA,NA,"3.12",NA,NA
+"1627","Rhus microphylla","species","shrub",NA,"24.4",NA,NA
+"1628","Thelypodium wrightii","species","herb",NA,NA,NA,NA
+"1629","Chamaesyce lata","genus","herb","0.1",NA,NA,NA
+"1630","Dimorphocarpa wislizeni","species","herb",NA,NA,NA,NA
+"1631","Erodium texanum","species","herb",NA,"1.23333333333333",NA,NA
+"1632","Krameria lanceolata","genus","shrub",NA,NA,NA,"5.010646875"
+"1633","Orobanche ludoviciana","species","herb",NA,"0.00625",NA,NA
+"1634","Prosopis glandulosa","species","tree","4.7212899530789","55.0225","80","2.56000256016385"
+"1635","Arabis fendleri","genus","herb","0.332928566666667","0.406344314606742","432.933333333333","24.1652253045714"
+"1636","Asclepias brachystephana","species","herb",NA,NA,NA,NA
+"1637","Asclepias latifolia","species","herb",NA,NA,NA,NA
+"1638","Brickellia brachyphylla","genus","shrub",NA,NA,NA,NA
+"1639","Brickellia microphylla","species","shrub",NA,NA,NA,NA
+"1640","Castilleja integra","species","herb",NA,NA,NA,NA
+"1641","Cercocarpus montanus","species","shrub","6.4008",NA,NA,NA
+"1642","Dalea jamesii","genus","herb",NA,NA,NA,"9.3919438"
+"1643","Erigeron divergens","species","herb",NA,NA,NA,NA
+"1644","Eriogonum polycladon","species","herb",NA,NA,NA,NA
+"1645","Fallugia paradoxa","species","shrub",NA,"0.9715",NA,NA
+"1646","Hymenoxys richardsonii","species","herb",NA,NA,NA,NA
+"1647","Juniperus monosperma","species","tree","3.73384165714286","24.839734","40","0.853330496639362"
+"1648","Lesquerella ovalifolia","genus","herb",NA,NA,NA,NA
+"1649","Linum lewisii","species","herb",NA,"1.85928571428571",NA,NA
+"1650","Lupinus brevicaulis","species","herb",NA,NA,NA,NA
+"1651","Lycurus phleoides","species","herb",NA,NA,NA,NA
+"1652","Mahonia haematocarpa","genus","shrub","1.1875","50.98","10868","10.6086401578235"
+"1653","Muhlenbergia montana","species","herb",NA,NA,NA,NA
+"1654","Muhlenbergia repens","species","herb",NA,NA,NA,NA
+"1655","Nerisyrenia camporum","species","herb",NA,NA,NA,NA
+"1656","Nolina microcarpa","species","shrub",NA,NA,NA,NA
+"1657","Opuntia polyacantha","species","NA",NA,NA,NA,NA
+"1658","Physalis hederifolia","species","herb",NA,NA,NA,NA
+"1659","Pinus edulis","species","tree","4.7086114100332","242.845059272727","125","1.61934221025984"
+"1660","Polygala alba","species","herb",NA,"0.7",NA,NA
+"1661","Quercus turbinella","species","shrub","8.5532","1396.4994155","1000","6.6006600660066e-06"
+"1662","Rhus trilobata","species","shrub",NA,"26.4426791578947",NA,"9.15719028028571"
+"1663","Solanum heterodoxum","species","herb",NA,NA,NA,NA
+"1664","Tetraneuris argentea","species","herb",NA,NA,NA,NA
+"1665","Tragia ramosa","species","herb",NA,NA,NA,NA
+"1666","Yucca baccata","species",NA,NA,"98.5866666666667",NA,NA
+"1667","Dalea nana","species","herb",NA,NA,NA,NA
+"1668","Hedeoma oblongifolia","species","herb",NA,NA,NA,NA
+"1669","Mirabilis oxybaphoides","species","herb",NA,NA,NA,NA
+"1670","Muhlenbergia pauciflora","species","herb",NA,NA,NA,NA
+"1671","Aloysia wrightii","species","shrub",NA,"0.196",NA,NA
+"1672","Ammocodon chenopodioides","family","tree","5.23545057675244","355.025910515152","8798.83333333333","19.8920258088889"
+"1673","Artemisia dracunculus","species","herb","0.775","0.11","42.55826031","11.74532151"
+"1674","Bahia pedata","species","herb",NA,NA,NA,NA
+"1675","Bothriochloa barbinodis","species","herb",NA,NA,"1205.2155",NA
+"1676","Cryptantha cinerea","genus","herb",NA,"0.337985185185185",NA,NA
+"1677","Dalea lanata","species","herb",NA,NA,NA,NA
+"1678","Echinocereus fendleri","species","shrub",NA,NA,NA,NA
+"1679","Eriastrum diffusum","species","herb",NA,"0.494",NA,NA
+"1680","Erioneuron pulchellum","species","grass",NA,NA,"980.26",NA
+"1681","Heliotropium convolvulaceum","species","herb",NA,NA,NA,NA
+"1682","Hilaria jamesii","species","herb",NA,NA,NA,NA
+"1683","Ipomopsis multiflora","species","herb",NA,NA,NA,NA
+"1684","Kallstroemia californica","species","herb",NA,NA,NA,NA
+"1685","Linum australe","species","herb",NA,"1",NA,NA
+"1686","Mentzelia albicaulis","species","herb",NA,NA,NA,NA
+"1687","Oenothera coronopifolia","species","herb",NA,NA,NA,NA
+"1688","Opuntia imbricata","genus","tree","2.2336","24.7517025",NA,NA
+"1689","Opuntia phaeacantha","species","shrub",NA,NA,NA,NA
+"1690","Oryzopsis hymenoides","species","herb",NA,"3.02",NA,NA
+"1691","Palafoxia sphacelata","species","herb",NA,NA,NA,NA
+"1692","Penstemon ambiguus","genus","herb","1.5","0.883780487804878",NA,"10.5"
+"1693","Polanisia dodecandra","species","herb",NA,"3.05",NA,NA
+"1694","Psorothamnus scoparius","species","shrub",NA,NA,NA,NA
+"1695","Salsola kali","species","NA","0.495","4.32444444444444","62.5","9.36857142857143"
+"1696","Sclerocactus intertextus","genus","shrub",NA,NA,NA,NA
+"1697","Senecio multicapitatus","genus","herb","0.471658059782609","0.468403276995305","2486.28699574468","30.2220992381944"
+"1698","Setaria macrostachya","species","herb",NA,"0.4",NA,NA
+"1699","Setaria viridis","species","herb","0.576428571428571","1.09366666666667","1680.18718156842","25.2657986692857"
+"1700","Sphaeralcea angustifolia","genus","shrub",NA,"1.5085",NA,"7.44193694044444"
+"1701","Sphaeralcea digitata","genus","shrub",NA,"1.5085",NA,"7.44193694044444"
+"1702","Sporobolus giganteus","species","herb",NA,NA,NA,NA
+"1703","Thelesperma longipes","genus","herb",NA,NA,NA,NA
+"1704","Thelesperma megapotamicum","species","herb",NA,NA,NA,NA
+"1705","Tridens muticus","species","herb",NA,NA,NA,NA
+"1706","Vulpia octoflora","species","grass",NA,NA,NA,"0.265823529"
+"1707","Ambrosia acanthicarpa","species","herb",NA,"4.229",NA,NA
+"1708","Astragalus tephrodes","species","herb",NA,NA,NA,NA
+"1709","Croton texensis","species","herb",NA,"5.1",NA,NA
+"1710","Descurainia obtusa","species","herb",NA,NA,NA,NA
+"1711","Eriogonum jamesii","species","shrub",NA,NA,NA,NA
+"1712","Erodium cicutarium","species","herb","0.43928575","2.30780508333333","1572.37336","28.320826425"
+"1713","Glandularia wrightii","species","herb",NA,NA,NA,NA
+"1714","Hedeoma drummondii","species","herb",NA,NA,NA,NA
+"1715","Lepidium montanum","species",NA,NA,"0.5",NA,NA
+"1716","Medicago sativa 1","species","herb","0.162075471698113","2.31467741935484","192.405949442593","23.9190160036232"
+"1717","Artemisia bigelovii","species","shrub",NA,NA,NA,NA
+"1718","Portulaca halimoides","species","herb",NA,NA,NA,NA
+"1719","Viguiera dentata","species","herb",NA,NA,NA,NA
+"1720","Chrysothamnus nauseosus","species","shrub",NA,NA,NA,"0.0708636977"
+"1721","Echinocereus triglochidiatus","species","shrub",NA,NA,NA,NA
+"1722","Lithospermum cobrense","species","herb",NA,NA,NA,NA
+"1723","Lupinus kingii","genus","herb","0.692743421052632","73.560060645614","185669.11625","20.9809851344839"
+"1724","Mammillaria heyderi","species","shrub",NA,NA,NA,NA
+"1725","Muhlenbergia asperifolia","species","herb",NA,NA,NA,NA
+"1726","Muhlenbergia setifolia","species","herb",NA,NA,NA,NA
+"1727","Oenothera albicaulis","species","herb",NA,NA,NA,NA
+"1728","Sphaeralcea fendleri","species","shrub",NA,NA,NA,NA
+"1729","Sporobolus wrightii","species","herb",NA,NA,"310.146666666667",NA
+"1730","Stipa neomexicana","genus","herb","0.56075","5.1017963125","394.606523928571","41.3509443572619"
+"1731","Artemisia filifolia","species","grass",NA,NA,NA,NA
+"1732","Boerhavia purpurascens","species","herb",NA,NA,NA,NA
+"1733","Chenopodium ambrosioides","species","herb","0.625625","0.4459","1201.25","29.518"
+"1734","Chenopodium rubrum","species","herb","0.66375","0.2647","1359.3","20.3837205105556"
+"1735","Erioneuron pilosum","species","herb",NA,NA,NA,NA
+"1736","Menodora scabra","species","herb",NA,NA,NA,NA
+"1737","Opuntia santa rita","genus","tree","2.2336","24.7517025",NA,NA
+"1738","Aristida ternipes","species","herb",NA,NA,"600.51",NA
+"1739","Atriplex confertifolia","species","shrub",NA,"6.508747",NA,NA
+"1740","Chamaesyce chaetocalyx","genus","herb","0.1",NA,NA,NA
+"1741","Cyperus fendlerianus","species","herb",NA,NA,NA,NA
+"1742","Hymenoclea monogyra","species","shrub",NA,NA,NA,NA
+"1743","Sclerocactus papyracanthus","species","shrub",NA,NA,NA,NA
+"1744","Selinocarpus lanceolatus","family","tree","5.23545057675244","355.025910515152","8798.83333333333","19.8920258088889"
+"1745","Corylus avellana 2","species","tree","4.14457575757576","1096.23131416667","3272.17142857143","19.4326653124865"
+"1746","Galanthus nivalis 2","species","herb","0.14","6.546","1403.5","28.61"
+"1747","Salix caprea 2","species","tree","7.43835","0.144700875","2047.28333333333","12.5110544004675"
+"1748","Alnus glutinosa 2","species","tree","11.6695759036145","1.84827819047619","3146.725","14.9289468413254"
+"1749","Tussilago farfara 2","species","herb","0.16375","0.346666666666667","48997.5","19.625"
+"1750","Forsythia suspensa 1","species","shrub",NA,NA,NA,"18.254"
+"1751","Anemone nemorosa 1","species","herb","0.170555555555556","3.89666666666667","3003","28.3736363636364"
+"1752","Betula pendula 2","species","tree","13.5256842105263","0.421202181818182","1069.48","15.1445311045607"
+"1753","Larix decidua 2","species","tree","27.1093218818381","6.62183514285714","20.24","12.3225433239096"
+"1754","Fagus sylvatica 2","species","tree","23.9347058823529","246.218081555556","2027.68","15.1312086914368"
+"1755","Aesculus hippocastanum 2","species","tree","23.8","13737.6212314286","6528.7","10.960002739726"
+"1756","Ribes grossularia","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"1757","Taraxacum officinale 2","species","herb","0.2625","0.65024356","3924.07029","22.427206362375"
+"1758","Fraxinus excelsior 1","species","tree","19.955","64.4747434736842","1406.55714285714","12.4712907445062"
+"1759","Acer platanoides 2","species","tree","15.6747082251082","156.68577025","5748.38","15.3094840467304"
+"1760","Prunus spinosa 2","species","shrub","2.308","199.474305176471","444.175","13.6342957207919"
+"1761","Ribes rubrum 2","species","shrub","1.37",NA,"5107.5","29.1139777029877"
+"1762","Prunus cerasus","species","tree","9.05588571428571","162.04204175","2104.80875","16.9981523566738"
+"1763","Pinus sylvestris 1","species","tree","13.1851794619612","6.86829975","76.6444444444444","4.92704888008837"
+"1764","Beta vulgaris","species","herb","1.01364285714286","19.7249405940594","28674.3333333333","21.9313216711111"
+"1765","Prunus avium 2","species","tree","14.5529384883721","184.452624615385","2687.4002","13.0970642637927"
+"1766","Picea abies 1","species","tree","4.13277967857459","6.92506261538462",NA,"6.05424825118421"
+"1767","Quercus robur 1","species","tree","17.30856","3146.87815385714","2354.18","13.7566803291181"
+"1768","Prunus domestica","species","tree","4.84037333333333","802.283738",NA,NA
+"1769","Syringa vulgaris 1","species","shrub","5.12","5.65409428571429","2166.875","12.4723538602941"
+"1770","Malus domestica 1","species","tree","4.48785714285714","26.9733333333333","1620","17.2265374665978"
+"1771","Sorbus aucuparia 2","species","tree","8.70430268589744","15.6541576","730.290028571429","10.7430853767383"
+"1772","Robinia pseudoacacia 3","species","tree","16.0907499420488","19.5873364","4186.948","16.4904824366166"
+"1773","Zea mays","species","herb","0.609034285714286","246.886710526316","10771.9724242424","37.271695"
+"1774","Solanum tuberosum 1","species","herb","0.6","0.7","13128","23.9657142857143"
+"1775","Dactylis glomerata 1","species","grass","0.27101383","0.846644654545455","404.410838336449","25.6180945078378"
+"1776","Sambucus nigra 2","species","shrub","5.44555555555556","12.94845575","990.2","19.1704586389512"
+"1777","Tilia platyphyllos 1","species","tree","30","81.9","6034.25","31.6294444444444"
+"1778","Vitis vinifera","species","dependant","10","24.964172","12392.225","27.866608125"
+"1779","Calluna vulgaris 2","species","shrub","0.779285714285714","0.0356363636363636","0.98","11.2354173508484"
+"1780","Pyrus communis 3","species","tree","6.67870909090909","32.1818618181818",NA,"7.007047938"
+"1781","Tilia cordata 1","species","tree","16.6583333333333","36.1811462857143","1315","21.434453146932"
+"1782","Alopecurus pratensis 2","species","grass","0.349456392857143","0.773486486486486","919.011470588235","38.3285878613953"
+"1783","Pieris rapae","genus","tree",NA,"0.03",NA,NA
+"1784","Hirundo rustica","not found","not found","not found","not found","not found","not found"
+"1785","Oncotympana fuscata","not found","not found","not found","not found","not found","not found"
+"1786","Cuculus canorus","not found","not found","not found","not found","not found","not found"
+"1787","Pelophylax nigromaculatus","not found","not found","not found","not found","not found","not found"
+"1788","Alauda arvensis","not found","not found","not found","not found","not found","not found"
+"1789","Orthetrum albistylum","not found","not found","not found","not found","not found","not found"
+"1790","Oocatochus rufodorsatus","not found","not found","not found","not found","not found","not found"
+"1791","beach sp.","not found","not found","not found","not found","not found","not found"
+"1792","Taraxacum sp.","genus","herb","0.141810344827586","0.5945226875","2336.43390466","40.5570518749744"
+"1793","Alauda arvensis","not found","not found","not found","not found","not found","not found"
+"1794","Cettia diphone","not found","not found","not found","not found","not found","not found"
+"1795","Hirundo rustica","not found","not found","not found","not found","not found","not found"
+"1796","Pieris rapae crucivora","genus","tree",NA,"0.03",NA,NA
+"1797","Papilio machaon hippocrates","not found","not found","not found","not found","not found","not found"
+"1798","Rana nigromaculata","not found","not found","not found","not found","not found","not found"
+"1799","Orthetrum albistylum speciosum","not found","not found","not found","not found","not found","not found"
+"1800","Luciola sp.","not found","not found","not found","not found","not found","not found"
+"1801","Graptopsaltria nigrofuscata","not found","not found","not found","not found","not found","not found"
+"1802","Tanna japonensis","not found","not found","not found","not found","not found","not found"
+"1803","Lanius bucephalus","not found","not found","not found","not found","not found","not found"
+"1804","Hippeastrum hybridum","genus","herb",NA,NA,NA,NA
+"1805","Gladiolus sp.","genus","herb","0.416666666666667","2.63",NA,"11.4671713"
+"1806","Upupa epops","not found","not found","not found","not found","not found","not found"
+"1807","Hirundo rustica","not found","not found","not found","not found","not found","not found"
+"1808","Nucifraga caryocatactes","not found","not found","not found","not found","not found","not found"
+"1809","Sturnus vulgaris","not found","not found","not found","not found","not found","not found"
+"1810","Saxicola maurus","not found","not found","not found","not found","not found","not found"
+"1811","Oenanthe oenanthe","genus","herb","0.646969696969697","4.7165175","4042.80714285714","27.9852681866667"
+"1812","Anas platyrhynchos","not found","not found","not found","not found","not found","not found"
+"1813","Vanellus vanellus","not found","not found","not found","not found","not found","not found"
+"1814","Phoenicurus phoenicurus","not found","not found","not found","not found","not found","not found"
+"1815","Carpodacus erythrinus","not found","not found","not found","not found","not found","not found"
+"1816","Anthus trivialis","not found","not found","not found","not found","not found","not found"
+"1817","Anthus spinoletta","not found","not found","not found","not found","not found","not found"
+"1818","Falco tinnunculus","not found","not found","not found","not found","not found","not found"
+"1819","Phoenicurus erythronotus","not found","not found","not found","not found","not found","not found"
+"1820","Fringilla coelebs","not found","not found","not found","not found","not found","not found"
+"1821","Motacilla cinerea","not found","not found","not found","not found","not found","not found"
+"1822","Milvus migrans","not found","not found","not found","not found","not found","not found"
+"1823","Buteo buteo","not found","not found","not found","not found","not found","not found"
+"1824","Actitis hypoleucos","not found","not found","not found","not found","not found","not found"
+"1825","Aglais urticae","not found","not found","not found","not found","not found","not found"
+"1826","Acanthosoma spinicolle","not found","not found","not found","not found","not found","not found"
+"1827","Tettigonia cantans","not found","not found","not found","not found","not found","not found"
+"1828","Phylloscopus trochiloides","not found","not found","not found","not found","not found","not found"
+"1829","Alauda arvensis","not found","not found","not found","not found","not found","not found"
+"1830","Phylloscopus collybita","not found","not found","not found","not found","not found","not found"
+"1831","Emberiza leucocephalos","not found","not found","not found","not found","not found","not found"
+"1832","Jynx torquilla","not found","not found","not found","not found","not found","not found"
+"1833","Delichon urbicum","not found","not found","not found","not found","not found","not found"
+"1834","Larus minutus","not found","not found","not found","not found","not found","not found"
+"1835","Cygnus cygnus","not found","not found","not found","not found","not found","not found"
+"1836","Mergus merganser","not found","not found","not found","not found","not found","not found"
+"1837","Bucephala clangula","not found","not found","not found","not found","not found","not found"
+"1838","Motacilla alba","not found","not found","not found","not found","not found","not found"
+"1839","Anas crecca","not found","not found","not found","not found","not found","not found"
+"1840","Fringilla montifringilla","not found","not found","not found","not found","not found","not found"
+"1841","Anser albifrons","not found","not found","not found","not found","not found","not found"
+"1842","Cuculus canorus","not found","not found","not found","not found","not found","not found"
+"1843","Corvus corone","not found","not found","not found","not found","not found","not found"
+"1844","Musca domestica","not found","not found","not found","not found","not found","not found"
+"1845","Hybomitra lundbecki","not found","not found","not found","not found","not found","not found"
+"1846","Bombus sylvarum","not found","not found","not found","not found","not found","not found"
+"1847","Culex pipiens","not found","not found","not found","not found","not found","not found"
+"1848","Ribes acidum","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"1849","Vaccinium vitis-idaea","species","shrub","0.143913043478261","0.292","59.8467647058824","7.74463585586401"
+"1850","Rhododendron dahuricum","species","shrub",NA,NA,NA,NA
+"1851","Lymantria dispar","not found","not found","not found","not found","not found","not found"
+"1852","Papilio machaon","not found","not found","not found","not found","not found","not found"
+"1853","Pyrrhula pyrrhula","not found","not found","not found","not found","not found","not found"
+"1854","Anser anser","not found","not found","not found","not found","not found","not found"
+"1855","Scolopax rusticola","not found","not found","not found","not found","not found","not found"
+"1856","Corvus frugilegus","not found","not found","not found","not found","not found","not found"
+"1857","Ardea cinerea","not found","not found","not found","not found","not found","not found"
+"1858","Columba palumbus","not found","not found","not found","not found","not found","not found"
+"1859","Emberiza citrinella","not found","not found","not found","not found","not found","not found"
+"1860","Gonepteryx rhamni","not found","not found","not found","not found","not found","not found"
+"1861","Arctostaphylos uva-ursi","species","shrub","0.179","14.6984111428571","161.666666666667","5.66382399041121"
+"1862","Cytisus ruthenicus","species",NA,NA,"5.6",NA,NA
+"1863","Emberiza schoeniclus","not found","not found","not found","not found","not found","not found"
+"1864","Sylvia atricapilla","not found","not found","not found","not found","not found","not found"
+"1865","Ciconia nigra","not found","not found","not found","not found","not found","not found"
+"1866","Phoenicurus ochruros","not found","not found","not found","not found","not found","not found"
+"1867","Turdus merula","not found","not found","not found","not found","not found","not found"
+"1868","Setophaga striata","not found","not found","not found","not found","not found","not found"
+"1869","Lullula arborea","not found","not found","not found","not found","not found","not found"
+"1870","Phylloscopus sibilatrix","not found","not found","not found","not found","not found","not found"
+"1871","Erithacus rubecula","not found","not found","not found","not found","not found","not found"
+"1872","Gallinago gallinago","not found","not found","not found","not found","not found","not found"
+"1873","Alcedo atthis","not found","not found","not found","not found","not found","not found"
+"1874","Lanius collurio","not found","not found","not found","not found","not found","not found"
+"1875","Ficedula hypoleuca","not found","not found","not found","not found","not found","not found"
+"1876","Apus apus","not found","not found","not found","not found","not found","not found"
+"1877","Ciconia ciconia","not found","not found","not found","not found","not found","not found"
+"1878","Saxicola rubetra","not found","not found","not found","not found","not found","not found"
+"1879","Turdus pilaris","not found","not found","not found","not found","not found","not found"
+"1880","Turdus iliacus","not found","not found","not found","not found","not found","not found"
+"1881","Grus grus","not found","not found","not found","not found","not found","not found"
+"1882","Tringa ochropus","not found","not found","not found","not found","not found","not found"
+"1883","Turdus philomelos","not found","not found","not found","not found","not found","not found"
+"1884","Ficedula albicollis","not found","not found","not found","not found","not found","not found"
+"1885","Turdus viscivorus","not found","not found","not found","not found","not found","not found"
+"1886","Chloris chloris","genus","herb","0.67","0.256026315789474","3361.519","1.7872"
+"1887","Erythronium dens-canis","species",NA,NA,"3.77",NA,NA
+"1888","Malus sylvestris s.l.","genus","tree","7.46500186219739","31.35698064","2187.4875","16.3444386321"
+"1889","Pyrethrum corumbosum","genus","herb",NA,"0.02",NA,NA
+"1890","Myosotis popovii","genus","herb","0.204957386363636","0.417069947368421","439.005143478261","35.2009563545714"
+"1891","Ranunculus polyanthemos s.l.","genus","herb","0.275885026737968","1.68167727131783","1991.49837309775","34.4412947979764"
+"1892","Delphinium cuneatum s.l.","genus","herb","0.905","0.878659144927536","624.917567633333","12.2808173225625"
+"1893","Plantago lanceolata s.l.","genus","herb","0.354121526331129","0.920596019230769","516.779269718617","22.5306157886721"
+"1894","Valeriana rossica","genus","herb","0.489023255813954","1.13505882352941","4003.07","26.7996911631579"
+"1895","Galium verum s.l.","genus","herb","0.394771233676976","1.83651189814815","539.646835175587","34.6732187200998"
+"1896","Vincetoxicum hirundinaria s.l.","genus","vine","0.75","6.75","1513.5","51.8195454545455"
+"1897","Festuca valesiaca s.l.","genus","herb","0.277351265822785","1.26790654887218","629.001273056035","20.4989165161391"
+"1898","Plantago media s.l.","genus","herb","0.354121526331129","0.920596019230769","516.779269718617","22.5306157886721"
+"1899","Trinia multicaulis","genus","grass","0.135","1.65283333333333","564.955","13.559"
+"1900","Pedicularis kaufmannii","genus","herb","0.204245283018868","0.894434782608696","254.86911752619","39.4799805789718"
+"1901","Eremogone micradenia","genus","herb",NA,NA,NA,NA
+"1902","Sorbus turkestanica","genus","tree","9.47721109090909","32.745738","2185.89016097561","15.9035534325183"
+"1903","Larus canus","not found","not found","not found","not found","not found","not found"
+"1904","Nymphalis antiopa","not found","not found","not found","not found","not found","not found"
+"1905","Aporia crataegi","not found","not found","not found","not found","not found","not found"
+"1906","Lipoptena cervi","not found","not found","not found","not found","not found","not found"
+"1907","Cygnus olor","not found","not found","not found","not found","not found","not found"
+"1908","Sterna hirundo","not found","not found","not found","not found","not found","not found"
+"1909","Streptopelia decaocto","not found","not found","not found","not found","not found","not found"
+"1910","Trypocopris vernalis","not found","not found","not found","not found","not found","not found"
+"1911","Pieris brassicae","genus","tree",NA,"0.03",NA,NA
+"1912","Melolontha melolontha","not found","not found","not found","not found","not found","not found"
+"1913","Pyrrhocoris apterus","not found","not found","not found","not found","not found","not found"
+"1914","Cetonia aurata","not found","not found","not found","not found","not found","not found"
+"1915","Impatiens noli-tangere","species","herb","0.44375",NA,"1649","45.38148148"
+"1916","Capsella bursa-pastoris","species","herb","0.167777777777778","0.1164122","1642.17175","29.5958283209091"
+"1917","Plantae; majority of trees and shrubs","not found","not found","not found","not found","not found","not found"
+"1918","Plantae; 1st trees and shrubs","not found","not found","not found","not found","not found","not found"
+"1919","Ribes uva-crispa","species","shrub","0.69",NA,"902.34","23.2087899544025"
+"1920","Oriolus oriolus","not found","not found","not found","not found","not found","not found"
+"1921","Larus argentatus","not found","not found","not found","not found","not found","not found"
+"1922","Gavia arctica","not found","not found","not found","not found","not found","not found"
+"1923","Streptopelia turtur","not found","not found","not found","not found","not found","not found"
+"1924","Linaria cannabina","genus","herb","0.3577","0.103185714285714","116.513","19.5699557572727"
+"1925","Haematopus ostralegus","not found","not found","not found","not found","not found","not found"
+"1926","Aythya ferina","not found","not found","not found","not found","not found","not found"
+"1927","Podiceps cristatus","not found","not found","not found","not found","not found","not found"
+"1928","Ardea alba","not found","not found","not found","not found","not found","not found"
+"1929","Coccothraustes coccothraustes","not found","not found","not found","not found","not found","not found"
+"1930","Anas penelope","not found","not found","not found","not found","not found","not found"
+"1931","Regulus regulus","not found","not found","not found","not found","not found","not found"
+"1932","Larus ridibundus","not found","not found","not found","not found","not found","not found"
+"1933","Merops apiaster","not found","not found","not found","not found","not found","not found"
+"1934","Luscinia luscinia","not found","not found","not found","not found","not found","not found"
+"1935","Anas querquedula","not found","not found","not found","not found","not found","not found"
+"1936","Phylloscopus trochilus","not found","not found","not found","not found","not found","not found"
+"1937","Acer campreste","genus","tree","15.5841421012419","67.7847089804878","6915.61087029289","19.2851565027035"
+"1938","Rhododendron pontica","genus","shrub","3.29539130434783","0.160716965517241","2337.94285714286","7.12518730865375"
+"1939","Ranunculus franchetii","genus","herb","0.275885026737968","1.68167727131783","1991.49837309775","34.4412947979764"
+"1940","Anser fabalis","not found","not found","not found","not found","not found","not found"
+"1941","Riparia riparia","not found","not found","not found","not found","not found","not found"
+"1942","Calliphora uralensis","not found","not found","not found","not found","not found","not found"
+"1943","Formica rufa","not found","not found","not found","not found","not found","not found"
+"1944","Acrocephalus dumetorum","genus","herb",NA,NA,NA,NA
+"1945","Sylvia borin","not found","not found","not found","not found","not found","not found"
+"1946","Cinclus cinclus","not found","not found","not found","not found","not found","not found"
+"1947","Ficedula parva","not found","not found","not found","not found","not found","not found"
+"1948","Prunella modularis","genus","herb","0.140157133333333","0.967725972972973","673.2065","28.60351109"
+"1949","Hippolais icterina","not found","not found","not found","not found","not found","not found"
+"1950","Emberiza rustica","not found","not found","not found","not found","not found","not found"
+"1951","Troglodytes troglodytes","not found","not found","not found","not found","not found","not found"
+"1952","Protophormia tarrae-novae","not found","not found","not found","not found","not found","not found"
+"1953","Anthocharis cardamines","not found","not found","not found","not found","not found","not found"
+"1954","Nyphar lutea","family","herb","0.03","4.02220666666667","30610.1666666667","14.9088888888889"
+"1955","Silene flos-cuculi","species","herb",NA,NA,NA,NA
+"1956","Corylus sieboldiana var. mandshurica","genus","tree","4.87028051948052","913.156518111111","3278.275","19.1652091802876"
+"1957","Numenius arquata","not found","not found","not found","not found","not found","not found"
+"1958","Haliaeetus albicilla","not found","not found","not found","not found","not found","not found"
+"1959","Aythya fuligula","not found","not found","not found","not found","not found","not found"
+"1960","Corvus cornix","not found","not found","not found","not found","not found","not found"
+"1961","Viola saxatilis","genus","herb","0.176635658914729","1.47513279824561","1185.88910714286","29.6743579173125"
+"1962","Tabanus bovinus","not found","not found","not found","not found","not found","not found"
+"1963","Pandion haliaetus","not found","not found","not found","not found","not found","not found"
+"1964","Tringa glareola","not found","not found","not found","not found","not found","not found"
+"1965","Anas acuta","not found","not found","not found","not found","not found","not found"
+"1966","Motacilla flava","not found","not found","not found","not found","not found","not found"
+"1967","Luscinia svecica","not found","not found","not found","not found","not found","not found"
+"1968","Rhodococcum minor","not found","not found","not found","not found","not found","not found"
+"1969","Comarostaphylis polifolia","species","shrub",NA,NA,NA,"3.006135"
+"1970","Lonicera kamtschatica","genus","shrub","2.41713725490196","12.3387253333333","2222.28170930233","23.8144108783178"
+"1971","Salix parallelinervis","genus","shrub","13.4436201567598","0.621549252427185","495.111270219879","12.3742680787951"
+"1972","Plectrophenax nivalis","not found","not found","not found","not found","not found","not found"
+"1973","Pinicola enucleator","not found","not found","not found","not found","not found","not found"
+"1974","Archiearis parthenias","not found","not found","not found","not found","not found","not found"
+"1975","Chloris sinica","genus","herb","0.67","0.256026315789474","3361.519","1.7872"
+"1976","Cuculus saturatus","not found","not found","not found","not found","not found","not found"
+"1977","Aix galericulata","not found","not found","not found","not found","not found","not found"
+"1978","Emberiza elegans","not found","not found","not found","not found","not found","not found"
+"1979","Oriolus chinensis","not found","not found","not found","not found","not found","not found"
+"1980","Otus sunia","not found","not found","not found","not found","not found","not found"
+"1981","Mergus squamatus","not found","not found","not found","not found","not found","not found"
+"1982","Pericrocotus divaricatus","not found","not found","not found","not found","not found","not found"
+"1983","Eurystomus orientalis","not found","not found","not found","not found","not found","not found"
+"1984","Bombycilla japonica","not found","not found","not found","not found","not found","not found"
+"1985","Streptopelia orientalis","not found","not found","not found","not found","not found","not found"
+"1986","Turdus hortulorum","not found","not found","not found","not found","not found","not found"
+"1987","Cyanoptila cyanomelana","not found","not found","not found","not found","not found","not found"
+"1988","Phoenicurus auroreus","not found","not found","not found","not found","not found","not found"
+"1989","Emberiza cioides","not found","not found","not found","not found","not found","not found"
+"1990","Ficedula zanthopygia","not found","not found","not found","not found","not found","not found"
+"1991","Spodiopsar cineraceus","not found","not found","not found","not found","not found","not found"
+"1992","Nymphalis io","not found","not found","not found","not found","not found","not found"
+"1993","Papilio maackii","not found","not found","not found","not found","not found","not found"
+"1994","Mimathyma schrenckii","not found","not found","not found","not found","not found","not found"
+"1995","Lychnis Lychnis fulgens","genus","herb","0.147244444444444","0.671818181818182","27173.5775079333","23.5219297485714"
+"1996","Clematis Clematis mandschurica","genus","liana","7.57884615384615","5.54900667567568","2642.03550492","17.9218030014783"
+"1997","Aconitum paniculigerum","species","herb",NA,NA,NA,NA
+"1998","Hylomecon japonicum","family","herb","0.487040476190476","1.842599065","4357.81997232222","38.404175876391"
+"1999","Ribes pallidiflorum","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"2000","Melampyrum Melampyrum setaceum","genus","herb","0.296","6.7446","426.096666666667","34.7958135722581"
+"2001","Calystegia inflata","genus","herb","1.10454545454545","24.0475263157895","4181.9","27.14253662552"
+"2002","Gagea Gagea hiensis","genus","herb","0.143863636363636",NA,"331","23.2425"
+"2003","Anemone udensis","genus","herb","0.186612903225806","2.42363891304348","2259.00166666667","72.4898374733333"
+"2004","Phylloscopus borealis","not found","not found","not found","not found","not found","not found"
+"2005","Anthus pratensis","not found","not found","not found","not found","not found","not found"
+"2006","Cacalia hastate","genus","herb",NA,NA,NA,NA
+"2007","Ribes hispidulum","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"2008","Picea fennica","genus","tree","11.5530649723345","4.49009652205882","29.4233857142857","5.74858231523208"
+"2009","Dryopteris filix-mas","species","fern","0.75",NA,"11785.4444444444","24.2"
+"2010","Limosa limosa","not found","not found","not found","not found","not found","not found"
+"2011","Columba oenas","not found","not found","not found","not found","not found","not found"
+"2012","Anas clypeata","not found","not found","not found","not found","not found","not found"
+"2013","Acrocephalus schoenobaenus","genus","herb",NA,NA,NA,NA
+"2014","Gallinula chloropus","not found","not found","not found","not found","not found","not found"
+"2015","Xenus cinereus","not found","not found","not found","not found","not found","not found"
+"2016","Falco subbuteo","not found","not found","not found","not found","not found","not found"
+"2017","Circus cyaneus","not found","not found","not found","not found","not found","not found"
+"2018","Fulica atra","not found","not found","not found","not found","not found","not found"
+"2019","Circus aeruginosus","not found","not found","not found","not found","not found","not found"
+"2020","Botaurus stellaris","not found","not found","not found","not found","not found","not found"
+"2021","Tringa nebularia","not found","not found","not found","not found","not found","not found"
+"2022","Chlidonias niger","not found","not found","not found","not found","not found","not found"
+"2023","Crex Crex","not found","not found","not found","not found","not found","not found"
+"2024","Tringa totanus","not found","not found","not found","not found","not found","not found"
+"2025","Chlidonias leucopterus","not found","not found","not found","not found","not found","not found"
+"2026","Nymphalis polychloros","not found","not found","not found","not found","not found","not found"
+"2027","Sylvia communis","not found","not found","not found","not found","not found","not found"
+"2028","Emberiza aureola","not found","not found","not found","not found","not found","not found"
+"2029","Mergellus albellus","not found","not found","not found","not found","not found","not found"
+"2030","Calidris alpina","not found","not found","not found","not found","not found","not found"
+"2031","Charadrius dubius","not found","not found","not found","not found","not found","not found"
+"2032","Larus fuscus","not found","not found","not found","not found","not found","not found"
+"2033","Acrocephalus palustris","genus","herb",NA,NA,NA,NA
+"2034","Sylvia curruca","not found","not found","not found","not found","not found","not found"
+"2035","Pernis apivorus","not found","not found","not found","not found","not found","not found"
+"2036","Asio flammeus","not found","not found","not found","not found","not found","not found"
+"2037","Bombus terrestris","not found","not found","not found","not found","not found","not found"
+"2038","Numenius phaeopus","not found","not found","not found","not found","not found","not found"
+"2039","Accipiter nisus","not found","not found","not found","not found","not found","not found"
+"2040","Caprimulgus europaeus","not found","not found","not found","not found","not found","not found"
+"2041","Limenitis populi","not found","not found","not found","not found","not found","not found"
+"2042","Alchemilla sibirica","genus","herb","0.202907692307692","0.415035714285714","1292.92315217391","18.8167592592593"
+"2043","Exochorda tianshanica","genus","shrub",NA,NA,NA,NA
+"2044","Eremurus fuscus","genus","herb",NA,NA,NA,NA
+"2045","Ulmus androssowii","genus","tree","13.0744081012515","15.4729190933333","4186.53045687887","22.7419345226537"
+"2046","Prunus padus var. pubescens","genus","tree","14.2513023955336","550.676476626667","2612.18926344479","15.0525259293345"
+"2047","Fraxinus mandschurica","genus","tree","16.5226439475395","49.2957184368932","4284.37433201581","20.4984713886907"
+"2048","Euonymus pauciflora","genus","tree","5.56052195121951","26.7332556811594","1103.625","11.9097622955523"
+"2049","Aquila clanga","not found","not found","not found","not found","not found","not found"
+"2050","Clangula hyemalis","not found","not found","not found","not found","not found","not found"
+"2051","Fragaria Ã ananassa","genus","herb","0.138407407407407","0.382562","1471.102","19.0595166906"
+"2052","Lathyrus frolovii","genus","herb","0.623764912280702","52.9801130991736","2246.80632713478","30.5856923740973"
+"2053","Stellaria bungeana s. str.","genus","herb","0.268994472972973","0.391341210526316","335.194036167211","38.6997515222826"
+"2054","Iris Iris korolkowii","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"2055","Iris Iris austrotschatkalica","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"2056","Juno Juno waryleyensis","genus","herb",NA,NA,NA,NA
+"2057","Iris alberti","genus","herb","0.40741935483871","28.1780416666667","5671.285961828","19.8311878247377"
+"2058","Tussilago officinalis","genus","forb","0.16375","0.346666666666667","48997.5","19.625"
+"2059","Valeriana wolgensis","genus","herb","0.489023255813954","1.13505882352941","4003.07","26.7996911631579"
+"2060","Salix holosericea","genus","shrub","13.4436201567598","0.621549252427185","495.111270219879","12.3742680787951"
+"2061","Ribes scandicum","genus","shrub","1.41896090140845","2.46297481967213","2142.97799671905","21.4486059353506"
+"2062","Geranium albiflorum","genus","herb","0.295733145695364","3.40494847560976","2369.81160392679","30.4960466644022"
+"2063","Anemonidium narcissiflorum","family","herb","0.530417824074074","5.31035485263158","2312.77869892065","51.0981078844842"
+"2064","Astragalus Astragalus testiculatus","genus","herb","0.276076923076923","5.2889537037037","474.3339196944","28.1775260194242"
+"2065","Psephellus Psephellus carbonatus","family","herb","0.431684009410609","5.6517617539267","5294.61076271666","21.7654837334319"
+"2066","Euphorbia Euphorbia zhiguliensis","genus","herb","0.915645333333333","7.07556647398844","538.563841611765","41.3747877733333"
+"2067","Gypsophila Gypsophila zhegulensis","genus","herb","0.4225","2.93448275862069","33644.1288888889","13.878"
+"2068","Thymus guberlinensis","genus","shrub","0.165375","1.13560180952381","11.5982876954","16.8692040123636"
+"2069","Lomelosia isetensis","genus","herb",NA,"11.6",NA,NA
+"2070","Elymus Elymus lolioides","genus","herb","0.815002761904762","4.24327112162162","612.079016642623","49.8440472154047"
+"2071","Centaurea Centaurea ruthenica","genus","herb","0.398470878787879","3.45845595854922","3619.58275511561","21.1030430844922"
+"2072","Cirsium sp.","genus","herb","0.751348945355738","3.54768194382022","5529.37802954545","17.8174975036327"
+"2073","Carex sp.","genus","herb","0.319576172207928","1.40299076485788","1307.71327729413","19.9539276040933"
+"2074","Aster novi-belgii","genus","herb","0.648125","0.436681818181818","383.0896708","61.9684172691176"
+"2075","Atropa bella-donna","species",NA,NA,NA,"8258.625",NA
+"2076","Dryopteris filix-mas","species","fern","0.75",NA,"11785.4444444444","24.2"
+"2077","Hyacinthoides sp.","genus","herb","0.2175","5.76375","3881","22.9714285714286"
+"2078","Lychnis flos-cuculi","species",NA,"0.118242424242424","0.21","28094.1663875172","24.7872776382979"
+"2079","Neottia nidus-avis","species","herb",NA,"0.008",NA,NA
+"2080","Ribes uva-crispa","species","shrub","0.69",NA,"902.34","23.2087899544025"
+"2081","Rorippa nasturtium-aquaticum","species","herb",NA,"0.1985",NA,NA
+"2082","Taraxacum sp.","genus","herb","0.141810344827586","0.5945226875","2336.43390466","40.5570518749744"
+"2083","Aronia sp.","genus","shrub","2.13333333333333","2.44141457142857","1302.5","12.3887364665407"
+"2084","Crataegus sp.","genus","tree","6.89393505463183","106.933037042553","592.599255555556","12.8023669304411"
+"2085","Macfadyena unguis-cati","species","liana",NA,NA,NA,NA
+"2086","NA sp.","not found","not found","not found","not found","not found","not found"
+"2087","Opuntia santa-rita","genus","tree","2.2336","24.7517025",NA,NA
